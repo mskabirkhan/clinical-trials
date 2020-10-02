@@ -62,18 +62,6 @@ Gender:                  Male, Female
 Trial protocol:          GB(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001597-30
 
-EudraCT Number:          2020-002110-41
-Sponsor Protocol Number: CRUKD/20/002
-Sponsor Name:            Cancer Research UK
-Full Title:              SPIKE-1 TRIAL: A Randomised Phase II/III trial in a community setting, assessing use of camostat in reducing the clinical progression of COVID-19 by blocking SARS-CoV-2 Spike protein-initiated memb...
-Start Date:              2020-06-18
-Medical condition:       COVID-19
-Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002110-41
-
 EudraCT Number:          2020-002211-21
 Sponsor Protocol Number: SGS.1656.201
 Sponsor Name:            St George Street Capital Ltd
@@ -85,6 +73,18 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          GB(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002211-21
+
+EudraCT Number:          2020-002110-41
+Sponsor Protocol Number: CRUKD/20/002
+Sponsor Name:            Cancer Research UK
+Full Title:              SPIKE-1 TRIAL: A Randomised Phase II/III trial in a community setting, assessing use of camostat in reducing the clinical progression of COVID-19 by blocking SARS-CoV-2 Spike protein-initiated memb...
+Start Date:              2020-06-18
+Medical condition:       COVID-19
+Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          GB(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002110-41
 
 EudraCT Number:          2020-001448-24
 Sponsor Protocol Number: RG_20-029COVID-19
@@ -390,18 +390,6 @@ Gender:                  Male, Female
 Trial protocol:          GB(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001636-95
 
-EudraCT Number:          2020-003510-12
-Sponsor Protocol Number: GS-US-540-9012
-Sponsor Name:            Gilead Sciences, Inc
-Full Title:              A Phase 3 Randomized, Double-Blind Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Remdesivir (GS-5734™) Treatment of COVID-19 in an Outpatient Setting
-Start Date:              Information not available in EudraCT
-Medical condition:       COVID-19
-Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT
-Population Age:          Adolescents, Under 18, Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003510-12
-
 EudraCT Number:          2020-001786-36
 Sponsor Protocol Number: ILIAD-7-UK-Cohort
 Sponsor Name:            RevImmune SAS France
@@ -600,6 +588,18 @@ Gender:                  Male, Female
 Trial protocol:          GB(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003486-19
 
+EudraCT Number:          2020-003510-12
+Sponsor Protocol Number: GS-US-540-9012
+Sponsor Name:            Gilead Sciences, Inc
+Full Title:              A Phase 3 Randomized, Double-Blind Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Remdesivir (GS-5734™) Treatment of COVID-19 in an Outpatient Setting
+Start Date:              2020-10-02
+Medical condition:       COVID-19
+Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT
+Population Age:          Adolescents, Under 18, Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DK(Ongoing) GB(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003510-12
+
 EudraCT Number:          2020-001172-15
 Sponsor Protocol Number: APN01-01-COVID19
 Sponsor Name:            APEIRON Biologics AG
@@ -753,7 +753,7 @@ Medical condition:       COVID-19-induced pneumonia (CAN-COVID)
 Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          DE(Ongoing) GB(Ongoing) FR(Ongoing) ES(Ongoing) HU(Ongoing) IT(Ongoing) 
+Trial protocol:          DE(Completed) GB(Ongoing) FR(Ongoing) ES(Ongoing) HU(Ongoing) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001370-30
 
 EudraCT Number:          2015-002340-14

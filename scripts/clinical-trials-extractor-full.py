@@ -3,11 +3,11 @@ import csv
 import requests
 import re
 import pandas as pd
-from fuzzywuzzy import process
 from bs4 import BeautifulSoup
 
 CLINICAL_TRIALS_ROOT_URL = 'https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19&country=gb'
 FULL_TRIALS_DOWNLOAD_URL = 'https://www.clinicaltrialsregister.eu/ctr-search/rest/download/full?query=covid-19&country=gb&page={}&mode=current_page'
+
 
 def find_number_of_pages(ROOT_URL):
   
@@ -19,6 +19,7 @@ def find_number_of_pages(ROOT_URL):
   TOTAL_PAGES = int(page_total.group(1))
 
   return TOTAL_PAGES
+
 
 def get_full_trials(DOWNLOAD_URL, TOTAL_PAGES):
 
@@ -37,6 +38,7 @@ def get_full_trials(DOWNLOAD_URL, TOTAL_PAGES):
     full_trial_data = f.read()
 
   return full_trial_data
+
 
 def create_list_of_trial_dicts(full_trial_data):
 
@@ -119,9 +121,66 @@ def create_list_of_trial_dicts(full_trial_data):
     trial = split + trial[1:]
     split_full_trial_data_10.append(trial)
 
-  return split_full_trial_data_10
+  indices_B = []
+  indices_D_3 = []
+  indices_D_8 = []
+  for trial in split_full_trial_data_10:
+    index_B = [i for i in trial if i.startswith('B.1.1 Name of Sponsor:') \
+              or i.startswith('D. IMP Identification')]
+    ind_B = []
+    for i in index_B:
+      ind_B.append(trial.index(i))
+    indices_B.append([index_B, ind_B])
+
+    index_D_3 = [i for i in trial if i.startswith('D.IMP:') \
+                or i.startswith('D.8 Information on Placebo')]
+    ind_D_3 = []
+    for i in index_D_3:
+      ind_D_3.append(trial.index(i))
+    indices_D_3.append([index_D_3, ind_D_3])
+
+    index_D_8 = [i for i in trial if i.startswith('D.8 Placebo:') \
+                or i.startswith('E. General Information on the Trial')]
+    ind_D_8 = []
+    for i in index_D_8:
+      ind_D_8.append(trial.index(i))
+    indices_D_8.append([index_D_8, ind_D_8])
+
+  for i in range(len(split_full_trial_data_10)):
+    for j in range(len(indices_B[i][0])):
+      if j < len(indices_B[i][0])-1:
+        for k in range(indices_B[i][1][j], indices_B[i][1][j+1]):
+          split_full_trial_data_10[i][k] = 'B.S{}.'.format(j+1) + split_full_trial_data_10[i][k][2:]
+    for j in range(len(indices_D_3[i][0])):
+      if j < len(indices_D_3[i][0])-1:
+        for k in range(indices_D_3[i][1][j], indices_D_3[i][1][j+1]):
+          split_full_trial_data_10[i][k] = 'D.I{}.'.format(j+1) + split_full_trial_data_10[i][k][2:]
+    for j in range(len(indices_D_8[i][0])):
+      if j < len(indices_D_8[i][0])-1:
+        for k in range(indices_D_8[i][1][j], indices_D_8[i][1][j+1]):
+          split_full_trial_data_10[i][k] = 'D.P{}.'.format(j+1) + split_full_trial_data_10[i][k][2:]
+
+  # Select lines containing colon
+  for trial in split_full_trial_data_10:
+    trial[:] = [l for l in trial if any(sub in l for sub in [':'])]
+
+  # Make key value pairs
+  split_full_trial_data_11 = []
+  for i in range(len(split_full_trial_data_10)):
+    split_full_trial_data_11.append(dict(s.split(':', 1) for s in split_full_trial_data_10[i]))
+
+  count = 0
+  for i in range(len(split_full_trial_data_11)):
+    for k,v in split_full_trial_data_11[i-count].items():
+      if k == 'Link' and '/GB/' not in v:
+        split_full_trial_data_11.pop(i-count)
+        count += 1
+
+  return split_full_trial_data_11
+
 
 def create_key_for_sections(split_full_trial_data):
+
   A_subsets = []
   B_subsets = []
   D_subsets = []
@@ -132,32 +191,26 @@ def create_key_for_sections(split_full_trial_data):
   P_subsets = []
   Summary_subsets = []
   for trial in split_full_trial_data:
-    A_subset = [l for l in trial if l.startswith('A.')]
+    A_subset = {key: value for key, value in trial.items() if key.startswith('A.')}
     A_subsets.append(A_subset)
-    B_subset = [l for l in trial if l.startswith('B.')]
+    B_subset = {key: value for key, value in trial.items() if key.startswith('B.')}
     B_subsets.append(B_subset)
-    D_subset = [l for l in trial if l.startswith('D.')]
+    D_subset = {key: value for key, value in trial.items() if key.startswith('D.')}
     D_subsets.append(D_subset)
-    E_subset = [l for l in trial if l.startswith('E.')]
+    E_subset = {key: value for key, value in trial.items() if key.startswith('E.')}
     E_subsets.append(E_subset)
-    F_subset = [l for l in trial if l.startswith('F.')]
+    F_subset = {key: value for key, value in trial.items() if key.startswith('F.')}
     F_subsets.append(F_subset)
-    G_subset = [l for l in trial if l.startswith('G.')]
+    G_subset = {key: value for key, value in trial.items() if key.startswith('G.')}
     G_subsets.append(G_subset)
-    N_subset = [l for l in trial if l.startswith('N.')]
+    N_subset = {key: value for key, value in trial.items() if key.startswith('N.')}
     N_subsets.append(N_subset)
-    P_subset = [l for l in trial if l.startswith('P.')]
+    P_subset = {key: value for key, value in trial.items() if key.startswith('P.')}
     P_subsets.append(P_subset)
-    Summary_subset = [dict(l.split(':', 1) for l in trial if not l.startswith('A.') and not l.startswith('B.') \
-                          and not l.startswith('D.') and not l.startswith('E.') and not l.startswith('F.') \
-                          and not l.startswith('G.') and not l.startswith('N.') and not l.startswith('P.'))]
+    Summary_subset = {key: value for key, value in trial.items() if not key.startswith('A.') and not key.startswith('B.') \
+                      and not key.startswith('D.') and not key.startswith('E.') and not key.startswith('F.') \
+                      and not key.startswith('G.') and not key.startswith('N.') and not key.startswith('P.')}
     Summary_subsets.append(Summary_subset)
-
-  for i in range(len(B_subsets)):
-    for j in range(len(B_subsets[i])):
-      if '\nSponsor ' in B_subsets[i][j]:
-        split = [l for l in B_subsets[i][j].split('\n')]
-        B_subsets[i][j:j+1] = split[0], split[1]
 
   for i in range(len(A_subsets)):
     A_subsets[i] = {'A. Protocol Information': A_subsets[i]}
@@ -168,8 +221,6 @@ def create_key_for_sections(split_full_trial_data):
     G_subsets[i] = {'G. Investigator Networks to be involved in the Trial': G_subsets[i]}
     N_subsets[i] = {'N. Review by the Competent Authority or Ethics Committee in the country concerned': N_subsets[i]}
     P_subsets[i] = {'P. End of Trial': P_subsets[i]}
-
-
   for i in range(len(A_subsets)):
     A_subsets[i].update(B_subsets[i])
     A_subsets[i].update(D_subsets[i])
@@ -178,31 +229,27 @@ def create_key_for_sections(split_full_trial_data):
     A_subsets[i].update(G_subsets[i])
     A_subsets[i].update(N_subsets[i])
     A_subsets[i].update(P_subsets[i])
-    A_subsets[i].update(Summary_subsets[i][0])
+  for i in range(len(Summary_subsets)):
+    Summary_subsets[i].update(A_subsets[i])
 
-  full_trials_list_dict = A_subsets
-
-  # Remove all non GB clinical trials
-  count = 0
-  for i in range(len(full_trials_list_dict)):
-    for k,v in full_trials_list_dict[i-count].items():
-      if k == 'Link' and '/GB/' not in v:
-        full_trials_list_dict.pop(i-count)
-        count += 1
+  full_trials_list_dict = Summary_subsets
 
   return full_trials_list_dict
+
 
 def write_json(data, filename, indent=2):
   with open(filename, 'w') as jsonfile:
     json.dump(data, jsonfile, indent=indent)
 
-def json_to_csv(json_file, csv_file):
-  df = pd.read_json(json_file)
+
+def write_csv(list_of_flattened_dicts, csv_file):
+  df = pd.DataFrame(list_of_flattened_dicts)
   df.to_csv(csv_file, index = None)
+
 
 def main():
 
-  # Find each trial page and merge contents of txt files 
+  # Find each trial page and merge contents of txt files
   TOTAL_PAGES = find_number_of_pages(CLINICAL_TRIALS_ROOT_URL)
   full_trial_data = get_full_trials(FULL_TRIALS_DOWNLOAD_URL, TOTAL_PAGES)
 
@@ -210,7 +257,9 @@ def main():
   split_full_trial_data = create_list_of_trial_dicts(full_trial_data)
   full_trials_list_dict = create_key_for_sections(split_full_trial_data)
   write_json(full_trials_list_dict, 'data/clinical-trials-full.json')
-  json_to_csv(r'data/clinical-trials-full.json', r'data/clinical-trials-full.csv')
+  write_csv(split_full_trial_data, r'data/clinical-trials-full.csv')
+
+
 
 if __name__ == "__main__":
     main()

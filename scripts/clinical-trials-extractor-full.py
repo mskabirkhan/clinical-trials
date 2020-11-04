@@ -169,12 +169,19 @@ def create_list_of_trial_dicts(full_trial_data):
   for i in range(len(split_full_trial_data_10)):
     split_full_trial_data_11.append(dict(s.split(':', 1) for s in split_full_trial_data_10[i]))
 
+  # Remove all non GB clinical trials
   count = 0
   for i in range(len(split_full_trial_data_11)):
     for k,v in split_full_trial_data_11[i-count].items():
       if k == 'Link' and '/GB/' not in v:
         split_full_trial_data_11.pop(i-count)
         count += 1
+
+  # Strip trailing blank space in value
+  for trial in split_full_trial_data_11:
+    for k,v in trial.items():
+      value = trial[k].strip()
+      trial[k] = value
 
   return split_full_trial_data_11
 

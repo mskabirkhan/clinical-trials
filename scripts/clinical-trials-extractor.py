@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 ROOT_URL = 'https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19&country=gb'
 PAGES_URL = 'https://www.clinicaltrialsregister.eu/ctr-search/rest/download/summary?query=covid-19&country=gb&page={}&mode=current_page'
-HDRUK_MEMBERS_CSV = 'PRIVATE/contacts.csv'
+HDRUK_MEMBERS_CSV = 'HDR-FILE/contacts.csv'
 
 
 def get_total_pages(ROOT_URL):
@@ -81,7 +81,7 @@ def create_list_of_dicts(split_clinical_trials_data):
       keys.append(k)
   for key in keys:
     for d in clinical_trials_dicts:
-      for k,v in d.items():
+      for k,v in d.items():    
         try:
           d[key.strip()] = d.pop(key)
         except KeyError:

@@ -40,7 +40,11 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
         
     - name: Collect Clinical Trials Summary
+      env:
+          LARGE_SECRET_PASSPHRASE: ${{ secrets.LARGE_SECRET_PASSPHRASE }}
       run: |
+        mkdir $HOME/secrets
+        gpg --quiet --batch --yes --decrypt --passphrase="$LARGE_SECRET_PASSPHRASE" --output $HOME/secrets/contacts.csv data/contacts.csv.gpg
         python scripts/clinical-trials-extractor.py
         
     - name: Collect Clinical Trials Full

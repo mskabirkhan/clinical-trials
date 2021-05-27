@@ -623,18 +623,6 @@ Gender:                  Male, Female
 Trial protocol:          NL(Ongoing) GB(GB - no longer in EU/EEA) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002503-19
 
-EudraCT Number:          2020-001736-95
-Sponsor Protocol Number: ACCORD-2-001,Sub002,003,006
-Sponsor Name:            University Hospital Southampton NHS Foundation Trust
-Full Title:              ACCORD 2: A Multicentre, Seamless, Phase 2 Adaptive Randomisation Platform Study to Assess the Efficacy and Safety of Multiple Candidate Agents for the Treatment of COVID 19 in Hospitalised Patients 
-Start Date:              2020-04-28
-Medical condition:       COVID 19 
-Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001736-95
-
 EudraCT Number:          2020-002211-21
 Sponsor Protocol Number: SGS.1656.201
 Sponsor Name:            St George Street Capital Ltd
@@ -646,6 +634,18 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) CZ(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002211-21
+
+EudraCT Number:          2020-001736-95
+Sponsor Protocol Number: ACCORD-2-001,Sub002,003,006
+Sponsor Name:            University Hospital Southampton NHS Foundation Trust
+Full Title:              ACCORD 2: A Multicentre, Seamless, Phase 2 Adaptive Randomisation Platform Study to Assess the Efficacy and Safety of Multiple Candidate Agents for the Treatment of COVID 19 in Hospitalised Patients 
+Start Date:              2020-04-28
+Medical condition:       COVID 19 
+Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          GB(GB - no longer in EU/EEA) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001736-95
 
 EudraCT Number:          2020-003486-19
 Sponsor Protocol Number: 1.002.20
@@ -803,7 +803,7 @@ Medical condition:       COVID-19
 Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT
 Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          DK(Ongoing) GB(GB - no longer in EU/EEA) PT(Completed) 
+Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) PT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003510-12
 
 EudraCT Number:          2020-001052-18

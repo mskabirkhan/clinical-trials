@@ -9,12 +9,31 @@
     "Disease 1:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001636-95",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
+  },
+  {
+    "EudraCT Number:": "2020-001402-38",
+    "Sponsor Protocol Number:": "CTU/2020/352",
+    "Sponsor Name:": "University College London",
+    "Full Title:": "An international, Bayesian platform adaptive, randomized, placebo-controlled trial assessing the effectiveness of candidate interventions in preventing COVID-19 disease in healthcare workers.",
+    "Start Date:": "2020-10-20",
+    "Medical condition:": "Coronavirus disease 2019 (COVID-19), also known as SARS-CoV-2 infection",
+    "Disease 1:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001402-38",
+    "Disease:": "",
+    "Disease 2:": "",
+    "Disease 3:": "",
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001937-11",
@@ -26,12 +45,13 @@
     "Disease 1:": "",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001937-11",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001640-26",
@@ -43,12 +63,13 @@
     "Disease 1:": "",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001640-26",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-002668-29",
@@ -60,12 +81,13 @@
     "Disease 1:": "",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002668-29",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-002106-68",
@@ -77,12 +99,13 @@
     "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002106-68",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001072-15",
@@ -94,29 +117,13 @@
     "Disease 1:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT",
     "Population Age:": "Adults",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Restarted) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001072-15",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
-  },
-  {
-    "EudraCT Number:": "2020-001441-39",
-    "Sponsor Protocol Number:": "VIR20001",
-    "Sponsor Name:": "University of Oxford",
-    "Full Title:": "Chloroquine/ hydroxychloroquine prevention of coronavirus disease (COVID-19) in the healthcare setting; a randomised, placebo-controlled prophylaxis study (COPCOV)",
-    "Start Date:": "2020-05-12",
-    "Medical condition:": "COVID-19, acute respiratory illness",
-    "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) IT(Ongoing) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001441-39",
-    "Disease:": "",
-    "Disease 2:": "",
-    "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001113-21",
@@ -128,12 +135,31 @@
     "Disease 1:": "Version: 21.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10035737, Term: Pneumonia viral, Level: PT",
     "Population Age:": "Preterm newborn infants, Newborns, Infants and toddlers, Children, Adolescents, Under 18, Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001113-21",
     "Disease:": "",
     "Disease 2:": "Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10061982, Term: Severe acute respiratory syndrome, Level: PT",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
+  },
+  {
+    "EudraCT Number:": "2020-001441-39",
+    "Sponsor Protocol Number:": "VIR20001",
+    "Sponsor Name:": "University of Oxford",
+    "Full Title:": "Chloroquine/ hydroxychloroquine prevention of coronavirus disease (COVID-19) in the healthcare setting; a randomised, placebo-controlled prophylaxis study (COPCOV)",
+    "Start Date:": "2020-05-12",
+    "Medical condition:": "COVID-19, acute respiratory illness",
+    "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) IT(Ongoing) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001441-39",
+    "Disease:": "",
+    "Disease 2:": "",
+    "Disease 3:": "",
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001889-10",
@@ -145,12 +171,13 @@
     "Disease 1:": "",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001889-10",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001740-26",
@@ -162,12 +189,31 @@
     "Disease 1:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001740-26",
     "Disease:": "",
     "Disease 2:": "Version: 20.0, SOC Term: 10022891 - Investigations, Classification Code: 10070255, Term: Coronavirus test positive, Level: PT",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
+  },
+  {
+    "EudraCT Number:": "2020-003628-18",
+    "Sponsor Protocol Number:": "000000",
+    "Sponsor Name:": "University of Oxford, Clinical Trials and Research Governance",
+    "Full Title:": "Adalimumab in COVID-19 to present respiratory failure in community care (AVID-CC): A randomised controlled trial",
+    "Start Date:": "2020-09-29",
+    "Medical condition:": "COVID-19",
+    "Disease 1:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003628-18",
+    "Disease:": "",
+    "Disease 2:": "Version: 20.0, SOC Term: 10022891 - Investigations, Classification Code: 10070255, Term: Coronavirus test positive, Level: PT",
+    "Disease 3:": "",
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001209-22",
@@ -179,12 +225,31 @@
     "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001209-22",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
+  },
+  {
+    "EudraCT Number:": "2020-002567-57",
+    "Sponsor Protocol Number:": "1.0",
+    "Sponsor Name:": "University of Oxford / Clinical Trials and Research Governance",
+    "Full Title:": "To determine whether administration of almitrine bismesylate can ameliorate hypoxaemia in Covid-19 and augment effectiveness of supplementary oxygen therapy and respiratory support",
+    "Start Date:": "2020-11-23",
+    "Medical condition:": "Covid-19",
+    "Disease 1:": "Version: 21.1, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10001053, Term: Acute respiratory failure, Level: PT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002567-57",
+    "Disease:": "",
+    "Disease 2:": "",
+    "Disease 3:": "",
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001448-24",
@@ -196,12 +261,13 @@
     "Disease 1:": "Version: 20.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10035664, Term: Pneumonia, Level: PT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001448-24",
     "Disease:": "",
     "Disease 2:": "Version: 21.1, SOC Term: 100000004855, Classification Code: 10003083, Term: ARDS, Level: LLT",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001684-89",
@@ -213,12 +279,31 @@
     "Disease 1:": "Version: 20.1, SOC Term: 100000004855, Classification Code: 10047468, Term: Viral lower respiratory tract infections, Level: HLT",
     "Population Age:": "Adolescents, Under 18, Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001684-89",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
+  },
+  {
+    "EudraCT Number:": "2020-004144-28",
+    "Sponsor Protocol Number:": "CCTU0307",
+    "Sponsor Name:": "Cambridge university Hosptials NHS Foundation Trust and University of Cambridge",
+    "Full Title:": "PROphylaxis for paTiEnts at risk of COVID-19 infecTion",
+    "Start Date:": "2020-10-23",
+    "Medical condition:": "",
+    "Disease 1:": "",
+    "Population Age:": "",
+    "Gender:": "",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004144-28",
+    "Disease:": "",
+    "Disease 2:": "",
+    "Disease 3:": "",
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-002230-32",
@@ -230,12 +315,13 @@
     "Disease 1:": "",
     "Population Age:": "Under 18, Adults",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002230-32",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001643-13",
@@ -247,29 +333,31 @@
     "Disease 1:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT",
     "Population Age:": "Adolescents, Under 18, Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001643-13",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-003486-19",
     "Sponsor Protocol Number:": "1.002.20",
     "Sponsor Name:": "University of Dundee",
     "Full Title:": "A randomised, double-blind, placebo-controlled trial of SFX-01 or placebo on a backbone of best standard care, to improve outcomes in patients with community acquired pneumonia and suspected or con...",
-    "Start Date:": "Information not available in EudraCT",
+    "Start Date:": "2020-10-08",
     "Medical condition:": "Community acquired pneumonia with suspected or confirmed SARS-CoV-2 infection",
     "Disease 1:": "Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10066724, Term: Acute pneumonia, Level: LLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003486-19",
     "Disease:": "",
     "Disease 2:": "Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10010120, Term: Community acquired pneumonia, Level: LLT",
     "Disease 3:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084380, Term: COVID-19 pneumonia, Level: PT",
-    "Disease 4:": "Version: 21.1, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10001052, Term: Acute respiratory distress syndrome, Level: PT"
+    "Disease 4:": "Version: 21.1, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10001052, Term: Acute respiratory distress syndrome, Level: PT",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001860-27",
@@ -281,12 +369,13 @@
     "Disease 1:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001860-27",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-002476-13",
@@ -298,12 +387,13 @@
     "Disease 1:": "Version: 20.0, SOC Term: 100000004857, Classification Code: 10023417, Term: Kidney dysfunction, Level: LLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002476-13",
     "Disease:": "",
     "Disease 2:": "Version: 20.0, SOC Term: 100000004862, Classification Code: 10047463, Term: Viral infection NOS, Level: LLT",
     "Disease 3:": "Version: 20.0, SOC Term: 10022891 - Investigations, Classification Code: 10063321, Term: Interleukin level, Level: PT",
-    "Disease 4:": "Version: 20.1, SOC Term: 10041244 - Social circumstances, Classification Code: 10079637, Term: Dependence on oxygen therapy, Level: PT"
+    "Disease 4:": "Version: 20.1, SOC Term: 10041244 - Social circumstances, Classification Code: 10079637, Term: Dependence on oxygen therapy, Level: PT",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-002494-10",
@@ -315,12 +405,13 @@
     "Disease 1:": "Version: 21.1, SOC Term: 100000004866, Classification Code: 10081425, Term: Arterial hypertension, Level: LLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002494-10",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001331-26",
@@ -332,29 +423,31 @@
     "Disease 1:": "Version: 20.0, SOC Term: 100000004862, Classification Code: 10051905, Term: Coronavirus infection, Level: LLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001331-26",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-002229-27",
     "Sponsor Protocol Number:": "TACTIC-E",
     "Sponsor Name:": "Cambridge University Hospitals NHS Foundation Trust",
-    "Full Title:": "mulTi-Arm Therapeutic study in pre-ICu patients admitted with Covid-19 \u00e2\u20ac\u201c Experimental drugs and mechanisms  ",
+    "Full Title:": "mulTi-Arm Therapeutic study in pre-ICu patients admitted with Covid-19 \u2013 Experimental drugs and mechanisms  ",
     "Start Date:": "2020-06-09",
     "Medical condition:": "SARS-Cov-2",
     "Disease 1:": "",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002229-27",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   },
   {
     "EudraCT Number:": "2020-001354-22",
@@ -366,11 +459,12 @@
     "Disease 1:": "",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001354-22",
     "Disease:": "",
     "Disease 2:": "",
     "Disease 3:": "",
-    "Disease 4:": ""
+    "Disease 4:": "",
+    "COVID-19": ""
   }
 ]

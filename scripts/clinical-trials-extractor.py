@@ -12,7 +12,6 @@ PAGES_URL = 'https://www.clinicaltrialsregister.eu/ctr-search/rest/download/summ
 HDRUK_MEMBERS_CSV = "/home/runner/secrets/contacts.csv"
 
 
-
 def get_total_pages(ROOT_URL):
 
   page = requests.get(

@@ -8,7 +8,9 @@ from bs4 import BeautifulSoup
 
 ROOT_URL = 'https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19&country=gb'
 PAGES_URL = 'https://www.clinicaltrialsregister.eu/ctr-search/rest/download/summary?query=covid-19&country=gb&page={}&mode=current_page'
-HDRUK_MEMBERS_CSV = 'HDR-FILE/contacts.csv'
+#HDRUK_MEMBERS_CSV = 'HDR-FILE/contacts.csv'
+HDRUK_MEMBERS_CSV = "/home/runner/secrets/contacts.csv"
+
 
 
 def get_total_pages(ROOT_URL):

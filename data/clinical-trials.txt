@@ -1108,7 +1108,7 @@ Medical condition:       Ulcerative Colitis
 Disease:                 Version: 20.0, SOC Term: 10017947 - Gastrointestinal disorders, Classification Code: 10009900, Term: Colitis ulcerative, Level: PT
 Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          BE(Ongoing) SK(Ongoing) AT(Ongoing) ES(Ongoing) SE(Ongoing) NL(Ongoing) DK(Ongoing) GR(Ongoing) PL(Ongoing) DE(Ongoing) LT(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Ongoing) BG(Ongoing) HR(Ongoing) FR(Ongoing) 
+Trial protocol:          BE(Ongoing) SK(Ongoing) AT(Ongoing) ES(Ongoing) SE(Ongoing) NL(Ongoing) DK(Ongoing) CZ(Ongoing) GR(Ongoing) PL(Ongoing) DE(Ongoing) LT(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Ongoing) BG(Ongoing) HR(Ongoing) FR(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004676-22
 
 EudraCT Number:          2016-000674-38

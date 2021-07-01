@@ -928,18 +928,6 @@ Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) BE(Ongoing) PT(Ongoing) IT(Ongoing) DE(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004743-83
 
-EudraCT Number:          2018-002069-21
-Sponsor Protocol Number: D5180C00013
-Sponsor Name:            AstraZeneca AB
-Full Title:              A Phase 2, Randomized, Double-blind, Parallel Group, Placebo Controlled Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with Inadequately Controlled Asthma on Inhaled C...
-Start Date:              2018-10-23
-Medical condition:       Severe Asthma
-Disease:                 Version: 20.0, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10003553, Term: Asthma, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) DE(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-002069-21
-
 EudraCT Number:          2020-000842-32
 Sponsor Protocol Number: GS-US-540-5774
 Sponsor Name:            Gilead Sciences, Inc.
@@ -951,6 +939,18 @@ Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          DE(Ongoing) ES(Completed) FR(Completed) IT(Completed) NL(Completed) GB(Completed) SE(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-000842-32
+
+EudraCT Number:          2018-002069-21
+Sponsor Protocol Number: D5180C00013
+Sponsor Name:            AstraZeneca AB
+Full Title:              A Phase 2, Randomized, Double-blind, Parallel Group, Placebo Controlled Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with Inadequately Controlled Asthma on Inhaled C...
+Start Date:              2018-10-23
+Medical condition:       Severe Asthma
+Disease:                 Version: 20.0, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10003553, Term: Asthma, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) DE(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-002069-21
 
 EudraCT Number:          2020-000841-15
 Sponsor Protocol Number: GS-US-540-5773

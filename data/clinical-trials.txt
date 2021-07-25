@@ -1012,6 +1012,18 @@ Gender:                  Male, Female
 Trial protocol:          DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Ongoing) HU(Completed) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001370-30
 
+EudraCT Number:          2019-002621-30
+Sponsor Protocol Number: M19-063
+Sponsor Name:            AbbVie Deutschland GmbH & Co. KG
+Full Title:              A Randomized, Open Label Phase 3 Study Evaluating Safety and Efficacy of Venetoclax in combination with Azacitidine after allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemi...
+Start Date:              2020-06-10
+Medical condition:       Acute Myeloid Leukemia (AML)
+Disease:
+Population Age:          Adolescents, Under 18, Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Ongoing) CZ(Ongoing) ES(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-002621-30
+
 EudraCT Number:          2015-002340-14
 Sponsor Protocol Number: REMAP-CAP
 Sponsor Name:            University Medical Center Utrecht 
@@ -1025,18 +1037,6 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          NL(Ongoing) IE(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Ongoing) DE(Ongoing) HR(Ongoing) ES(Ongoing) FR(Ongoing) FI(Ongoing) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-002340-14
-
-EudraCT Number:          2019-002621-30
-Sponsor Protocol Number: M19-063
-Sponsor Name:            AbbVie Deutschland GmbH & Co. KG
-Full Title:              A Randomized, Open Label Phase 3 Study Evaluating Safety and Efficacy of Venetoclax in combination with Azacitidine after allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemi...
-Start Date:              2020-06-10
-Medical condition:       Acute Myeloid Leukemia (AML)
-Disease:
-Population Age:          Adolescents, Under 18, Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Ongoing) CZ(Ongoing) ES(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-002621-30
 
 EudraCT Number:          2018-000930-37
 Sponsor Protocol Number: M15-722

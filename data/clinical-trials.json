@@ -1096,6 +1096,19 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001370-30"
   },
   {
+    "EudraCT Number:": "2019-002621-30",
+    "Sponsor Protocol Number:": "M19-063",
+    "Sponsor Name:": "AbbVie Deutschland GmbH & Co. KG",
+    "Full Title:": "A Randomized, Open Label Phase 3 Study Evaluating Safety and Efficacy of Venetoclax in combination with Azacitidine after allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemi...",
+    "Start Date:": "2020-06-10",
+    "Medical condition:": "Acute Myeloid Leukemia (AML)",
+    "Population Age:": "Adolescents, Under 18, Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Ongoing) CZ(Ongoing) ES(Ongoing) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-002621-30",
+    "Disease:": ""
+  },
+  {
     "EudraCT Number:": "2015-002340-14",
     "Sponsor Protocol Number:": "REMAP-CAP",
     "Sponsor Name:": "University Medical Center Utrecht ",
@@ -1109,19 +1122,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-002340-14",
     "Disease 2:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT",
     "COVID-19": ""
-  },
-  {
-    "EudraCT Number:": "2019-002621-30",
-    "Sponsor Protocol Number:": "M19-063",
-    "Sponsor Name:": "AbbVie Deutschland GmbH & Co. KG",
-    "Full Title:": "A Randomized, Open Label Phase 3 Study Evaluating Safety and Efficacy of Venetoclax in combination with Azacitidine after allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemi...",
-    "Start Date:": "2020-06-10",
-    "Medical condition:": "Acute Myeloid Leukemia (AML)",
-    "Population Age:": "Adolescents, Under 18, Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Ongoing) CZ(Ongoing) ES(Ongoing) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-002621-30",
-    "Disease:": ""
   },
   {
     "EudraCT Number:": "2018-000930-37",

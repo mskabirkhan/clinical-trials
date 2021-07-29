@@ -755,7 +755,7 @@ Medical condition:       Men and women over 40 years of age, with a diagnosis of
 Disease:
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          ES(Ongoing) GB(GB - no longer in EU/EEA) FR(Prematurely Ended) GR(Ongoing) 
+Trial protocol:          ES(Ongoing) GB(GB - no longer in EU/EEA) FR(Prematurely Ended) GR(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001689-12
 
 EudraCT Number:          2020-003367-26

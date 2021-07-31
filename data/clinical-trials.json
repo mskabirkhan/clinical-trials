@@ -662,19 +662,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001441-39"
   },
   {
-    "EudraCT Number:": "2020-002503-19",
-    "Sponsor Protocol Number:": "62586",
-    "Sponsor Name:": "UMC Utrecht",
-    "Full Title:": "BCG vaccination to Reduce the impact of COVID-19 in healthcare workers (BRACE) Trial ",
-    "Start Date:": "2020-07-08",
-    "Medical condition:": "SARS-CoV-2 infection",
-    "Disease 1:": "Version: 20.0, SOC Term: 100000004848, Classification Code: 10047490, Term: Virus identification and serology, Level: HLT",
-    "Population Age:": "Adults",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "NL(Ongoing) GB(GB - no longer in EU/EEA) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002503-19"
-  },
-  {
     "EudraCT Number:": "2020-001736-95",
     "Sponsor Protocol Number:": "ACCORD-2-001,Sub002,003,006",
     "Sponsor Name:": "University Hospital Southampton NHS Foundation Trust",
@@ -686,6 +673,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001736-95"
+  },
+  {
+    "EudraCT Number:": "2020-002503-19",
+    "Sponsor Protocol Number:": "62586",
+    "Sponsor Name:": "UMC Utrecht",
+    "Full Title:": "BCG vaccination to Reduce the impact of COVID-19 in healthcare workers (BRACE) Trial ",
+    "Start Date:": "2020-07-08",
+    "Medical condition:": "SARS-CoV-2 infection",
+    "Disease 1:": "Version: 20.0, SOC Term: 100000004848, Classification Code: 10047490, Term: Virus identification and serology, Level: HLT",
+    "Population Age:": "Adults",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "NL(Ongoing) GB(GB - no longer in EU/EEA) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002503-19"
   },
   {
     "EudraCT Number:": "2020-002211-21",

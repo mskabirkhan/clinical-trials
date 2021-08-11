@@ -997,7 +997,7 @@ Medical condition:       Huntington's disease (HD)
 Disease:                 Version: 20.0, SOC Term: 10010331 - Congenital, familial and genetic disorders, Classification Code: 10070668, Term: Huntington's disease, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) ES(Temporarily Halted) NL(Ongoing) AT(Temporarily Halted) 
+Trial protocol:          GB(GB - no longer in EU/EEA) ES(Temporarily Halted) NL(Ongoing) AT(Temporarily Halted) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-003898-94
 
 EudraCT Number:          2020-001370-30
@@ -1099,18 +1099,6 @@ Gender:                  Male, Female
 Trial protocol:          HU(Ongoing) DE(Ongoing) GB(GB - no longer in EU/EEA) ES(Ongoing) BE(Ongoing) CZ(Ongoing) PL(Ongoing) FR(Ongoing) HR(Ongoing) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-004726-34
 
-EudraCT Number:          2016-002154-20
-Sponsor Protocol Number: CLCZ696G2301
-Sponsor Name:            Novartis Pharma Services AG
-Full Title:              A multi-center, randomized, double-blind, active-controlled, parallel-group Phase 3 study to evaluate the efficacy and safety of LCZ696 compared to ramipril on morbidity and mortality in high risk ...
-Start Date:              2017-03-28
-Medical condition:       Left ventricular dysfunction following an acute myocardial infarction.
-Disease:                 Version: 20.0, SOC Term: 10007541 - Cardiac disorders, Classification Code: 10000891, Term: Acute myocardial infarction, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          DE(Completed) PT(Completed) CZ(Completed) GB(GB - no longer in EU/EEA) GR(Completed) AT(Completed) SK(Completed) NL(Completed) ES(Completed) HU(Completed) BE(Completed) DK(Completed) SE(Completed) FI(Completed) BG(Completed) HR(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002154-20
-
 EudraCT Number:          2016-004676-22
 Sponsor Protocol Number: M16-066
 Sponsor Name:            AbbVie Deutschland GmbH & Co. KG
@@ -1122,6 +1110,18 @@ Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          BE(Ongoing) SK(Ongoing) AT(Ongoing) ES(Ongoing) SE(Ongoing) NL(Ongoing) DK(Ongoing) CZ(Ongoing) GR(Ongoing) PL(Ongoing) DE(Ongoing) LT(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Ongoing) BG(Ongoing) HR(Ongoing) FR(Not Authorised) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004676-22
+
+EudraCT Number:          2016-002154-20
+Sponsor Protocol Number: CLCZ696G2301
+Sponsor Name:            Novartis Pharma Services AG
+Full Title:              A multi-center, randomized, double-blind, active-controlled, parallel-group Phase 3 study to evaluate the efficacy and safety of LCZ696 compared to ramipril on morbidity and mortality in high risk ...
+Start Date:              2017-03-28
+Medical condition:       Left ventricular dysfunction following an acute myocardial infarction.
+Disease:                 Version: 20.0, SOC Term: 10007541 - Cardiac disorders, Classification Code: 10000891, Term: Acute myocardial infarction, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DE(Completed) PT(Completed) CZ(Completed) GB(GB - no longer in EU/EEA) GR(Completed) AT(Completed) SK(Completed) NL(Completed) ES(Completed) HU(Completed) BE(Completed) DK(Completed) SE(Completed) FI(Completed) BG(Completed) HR(Ongoing) IT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002154-20
 
 EudraCT Number:          2016-000674-38
 Sponsor Protocol Number: M14-533

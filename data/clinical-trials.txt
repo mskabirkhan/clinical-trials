@@ -916,18 +916,6 @@ Gender:                  Male, Female
 Trial protocol:          DE(Completed) FR(Completed) AT(Completed) GB(GB - no longer in EU/EEA) ES(Temporarily Halted) IT(Prematurely Ended) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001411-25
 
-EudraCT Number:          2020-004743-83
-Sponsor Protocol Number: SG018
-Sponsor Name:            Synairgen Research Limited
-Full Title:              A randomised, double-blind, placebo-controlled, Phase III trial to determine the efficacy and safety of inhaled SNG001 for the treatment of patients hospitalised due to moderate COVID-19
-Start Date:              2020-11-09
-Medical condition:       COVID-19
-Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) BE(Ongoing) PT(Ongoing) IT(Ongoing) DE(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004743-83
-
 EudraCT Number:          2018-002069-21
 Sponsor Protocol Number: D5180C00013
 Sponsor Name:            AstraZeneca AB
@@ -951,6 +939,18 @@ Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          DE(Ongoing) ES(Completed) FR(Completed) IT(Completed) NL(Completed) GB(Completed) SE(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-000842-32
+
+EudraCT Number:          2020-004743-83
+Sponsor Protocol Number: SG018
+Sponsor Name:            Synairgen Research Limited
+Full Title:              A randomised, double-blind, placebo-controlled, Phase III trial to determine the efficacy and safety of inhaled SNG001 for the treatment of patients hospitalised due to moderate COVID-19
+Start Date:              2020-11-09
+Medical condition:       COVID-19
+Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          GB(GB - no longer in EU/EEA) BE(Ongoing) PT(Ongoing) NL(Ongoing) IT(Ongoing) DE(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004743-83
 
 EudraCT Number:          2020-000841-15
 Sponsor Protocol Number: GS-US-540-5773

@@ -938,19 +938,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001154-22"
   },
   {
-    "EudraCT Number:": "2020-002979-35",
-    "Sponsor Protocol Number:": "209348",
-    "Sponsor Name:": "GlaxoSmithKline Research & Development Limited",
-    "Full Title:": "A Phase IIb Multi-Center, Randomised, Open Label Study to Assess the Efficacy and Safety of Sequential Treatment with GSK3228836 followed by Pegylated Interferon Alpha 2a in Participants with Chron...",
-    "Start Date:": "2020-12-22",
-    "Medical condition:": "Chronic Hepatitis B",
-    "Disease 1:": "Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10008910, Term: Chronic hepatitis B, Level: PT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) PL(Ongoing) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002979-35"
-  },
-  {
     "EudraCT Number:": "2020-001498-63",
     "Sponsor Protocol Number:": "BIO101-CL05",
     "Sponsor Name:": "Biophytis S.A.",
@@ -1044,17 +1031,17 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-000841-15"
   },
   {
-    "EudraCT Number:": "2020-001759-42",
-    "Sponsor Protocol Number:": "214094",
+    "EudraCT Number:": "2020-002979-35",
+    "Sponsor Protocol Number:": "209348",
     "Sponsor Name:": "GlaxoSmithKline Research & Development Limited",
-    "Full Title:": "A randomized, double-blind, placebo-controlled, study evaluating the efficacy and safety of otilimab IV in patients with severe pulmonary COVID-19 related disease.",
-    "Start Date:": "2020-05-20",
-    "Medical condition:": "Severe pulmonary COVID-19 related disease",
-    "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT",
+    "Full Title:": "A Phase IIb Multi-Center, Randomised, Open Label Study to Assess the Efficacy and Safety of Sequential Treatment with GSK3228836 followed by Pegylated Interferon Alpha 2a in Participants with Chron...",
+    "Start Date:": "2020-12-22",
+    "Medical condition:": "Chronic Hepatitis B",
+    "Disease 1:": "Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10008910, Term: Chronic hepatitis B, Level: PT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) NL(Ongoing) ES(Ongoing) BE(Ongoing) DE(Ongoing) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001759-42"
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) PL(Ongoing) IT(Ongoing) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002979-35"
   },
   {
     "EudraCT Number:": "2020-001673-75",
@@ -1068,6 +1055,19 @@
     "Trial protocol:": "FR(Prematurely Ended) DE(Completed) GB(GB - no longer in EU/EEA) ES(Ongoing) BE(Prematurely Ended) IT(Ongoing) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001673-75",
     "Disease:": ""
+  },
+  {
+    "EudraCT Number:": "2020-001759-42",
+    "Sponsor Protocol Number:": "214094",
+    "Sponsor Name:": "GlaxoSmithKline Research & Development Limited",
+    "Full Title:": "A randomized, double-blind, placebo-controlled, study evaluating the efficacy and safety of otilimab IV in patients with severe pulmonary COVID-19 related disease.",
+    "Start Date:": "2020-05-20",
+    "Medical condition:": "Severe pulmonary COVID-19 related disease",
+    "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) NL(Ongoing) ES(Ongoing) BE(Completed) DE(Ongoing) IT(Ongoing) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001759-42"
   },
   {
     "EudraCT Number:": "2018-003898-94",
@@ -1150,19 +1150,6 @@
     "Disease:": ""
   },
   {
-    "EudraCT Number:": "2019-000954-67",
-    "Sponsor Protocol Number:": "ATB200-07",
-    "Sponsor Name:": "Amicus Therapeutics, Inc.",
-    "Full Title:": "A Phase 3 Open-label Extension Study to Assess the Long-term Safety and Efficacy of Intravenous ATB200 Co-administered With Oral AT2221 in Adult Subjects With Late-onset Pompe Disease",
-    "Start Date:": "2020-04-08",
-    "Medical condition:": "Adult Subjects With Late Onset Pompe Disease (LOPD)",
-    "Disease 1:": "Version: 20.0, SOC Term: 100000004850, Classification Code: 10075702, Term: Pompe's disease late onset, Level: LLT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) ES(Ongoing) DE(Ongoing) DK(Ongoing) FR(Ongoing) BE(Ongoing) GR(Ongoing) SI(Ongoing) AT(Ongoing) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-000954-67"
-  },
-  {
     "EudraCT Number:": "2017-001365-24",
     "Sponsor Protocol Number:": "WN39658",
     "Sponsor Name:": "Roche Farma S.A.(Soc. Unipersonal) que realiza el ensayo en Espa\u00f1a y act\u00faa como representante de F.Hoffmann-La Roche LTD",
@@ -1175,6 +1162,19 @@
     "Trial protocol:": "ES(Ongoing) GB(GB - no longer in EU/EEA) DK(Ongoing) BE(Ongoing) PT(Ongoing) PL(Ongoing) NL(Ongoing) SE(Ongoing) FI(Ongoing) HR(Ongoing) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-001365-24",
     "Disease 2:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10074616, Term: Prodromal Alzheimer's disease, Level: PT"
+  },
+  {
+    "EudraCT Number:": "2019-000954-67",
+    "Sponsor Protocol Number:": "ATB200-07",
+    "Sponsor Name:": "Amicus Therapeutics, Inc.",
+    "Full Title:": "A Phase 3 Open-label Extension Study to Assess the Long-term Safety and Efficacy of Intravenous ATB200 Co-administered With Oral AT2221 in Adult Subjects With Late-onset Pompe Disease",
+    "Start Date:": "2020-04-08",
+    "Medical condition:": "Adult Subjects With Late Onset Pompe Disease (LOPD)",
+    "Disease 1:": "Version: 20.0, SOC Term: 100000004850, Classification Code: 10075702, Term: Pompe's disease late onset, Level: LLT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ES(Ongoing) DE(Ongoing) DK(Ongoing) FR(Ongoing) BE(Ongoing) GR(Ongoing) SI(Ongoing) AT(Ongoing) IT(Ongoing) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-000954-67"
   },
   {
     "EudraCT Number:": "2015-004726-34",

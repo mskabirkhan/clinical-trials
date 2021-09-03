@@ -1216,6 +1216,20 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002154-20"
   },
   {
+    "EudraCT Number:": "2016-004719-10",
+    "Sponsor Protocol Number:": "AC-058B303",
+    "Sponsor Name:": "Actelion Pharmaceuticals Ltd.",
+    "Full Title:": "Multicenter, non-comparative extension to study AC-058B301, to investigate the long-term safety, tolerability, and control of disease of ponesimod 20 mg in subjects with relapsing multiple sclerosis",
+    "Start Date:": "2017-10-02",
+    "Medical condition:": "relapsing multiple sclerosis",
+    "Disease 1:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063400, Term: Secondary progressive multiple sclerosis, Level: PT",
+    "Population Age:": "Adults",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "ES(Ongoing) SE(Ongoing) PL(Ongoing) CZ(Ongoing) BG(Ongoing) LV(Ongoing) HU(Ongoing) LT(Ongoing) PT(Ongoing) HR(Ongoing) GB(GB - no longer in EU/EEA) FI(Ongoing) GR(Ongoing) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004719-10",
+    "Disease 2:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063399, Term: Relapsing-remitting multiple sclerosis, Level: PT"
+  },
+  {
     "EudraCT Number:": "2017-004703-51",
     "Sponsor Protocol Number:": "COMB157G2399",
     "Sponsor Name:": "Novartis Pharma AG",

@@ -1256,22 +1256,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-000674-38"
   },
   {
-    "EudraCT Number:": "2017-004886-29",
-    "Sponsor Protocol Number:": "MN39158",
-    "Sponsor Name:": "Roche Farma SA (Soc unipersonal) que realiza el ensayo en Espa\u00f1a y que act\u00faa como representante F.Hoffmann-La Roche Ltd",
-    "Full Title:": "A SINGLE ARM, OPEN LABEL MULTICENTRE EXTENSION STUDY TO EVALUATE THE EFFECTIVENESS AND SAFETY OF OCRELIZUMAB IN PATIENTS WITH MULTIPLE SCLEROSIS PREVIOUSLY ENROLLED IN A F. HOFFMANN-LA ROCHE SPONSO...",
-    "Start Date:": "2018-05-22",
-    "Medical condition:": "Multiple sclerosis (MS)",
-    "Disease 1:": "Version: 20.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10028245, Term: Multiple sclerosis, Level: PT",
-    "Population Age:": "Adults",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "ES(Prematurely Ended) EE(Ongoing) IE(Ongoing) CZ(Ongoing) FR(Ongoing) DK(Ongoing) SE(Ongoing) FI(Completed) NL(Ongoing) GB(GB - no longer in EU/EEA) BE(Ongoing) SI(Ongoing) PL(Ongoing) PT(Ongoing) SK(Ongoing) BG(Ongoing) HU(Ongoing) IT(Ongoing) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004886-29",
-    "Disease 2:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10048393, Term: Multiple sclerosis relapse, Level: PT",
-    "Disease 3:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063399, Term: Relapsing-remitting multiple sclerosis, Level: PT",
-    "Disease 4:": "Version: 20.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10039720, Term: Sclerosis multiple, Level: LLT"
-  },
-  {
     "EudraCT Number:": "2016-002937-31",
     "Sponsor Protocol Number:": "MA30143",
     "Sponsor Name:": "F. Hoffmann-La Roche Ltd",
@@ -1285,6 +1269,22 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002937-31",
     "Disease 2:": "Version: 21.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063399, Term: Relapsing-remitting multiple sclerosis, Level: PT",
     "Disease 3:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10048393, Term: Multiple sclerosis relapse, Level: PT",
+    "Disease 4:": "Version: 20.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10039720, Term: Sclerosis multiple, Level: LLT"
+  },
+  {
+    "EudraCT Number:": "2017-004886-29",
+    "Sponsor Protocol Number:": "MN39158",
+    "Sponsor Name:": "Roche Farma SA (Soc unipersonal) que realiza el ensayo en Espa\u00f1a y que act\u00faa como representante F.Hoffmann-La Roche Ltd",
+    "Full Title:": "A SINGLE ARM, OPEN LABEL MULTICENTRE EXTENSION STUDY TO EVALUATE THE EFFECTIVENESS AND SAFETY OF OCRELIZUMAB IN PATIENTS WITH MULTIPLE SCLEROSIS PREVIOUSLY ENROLLED IN A F. HOFFMANN-LA ROCHE SPONSO...",
+    "Start Date:": "2018-05-22",
+    "Medical condition:": "Multiple sclerosis (MS)",
+    "Disease 1:": "Version: 20.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10028245, Term: Multiple sclerosis, Level: PT",
+    "Population Age:": "Adults",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "ES(Prematurely Ended) EE(Ongoing) IE(Ongoing) CZ(Ongoing) FR(Ongoing) DK(Ongoing) SE(Ongoing) FI(Completed) NL(Ongoing) GB(GB - no longer in EU/EEA) BE(Ongoing) SI(Ongoing) PL(Ongoing) PT(Ongoing) SK(Ongoing) BG(Ongoing) HU(Ongoing) IT(Ongoing) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004886-29",
+    "Disease 2:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10048393, Term: Multiple sclerosis relapse, Level: PT",
+    "Disease 3:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063399, Term: Relapsing-remitting multiple sclerosis, Level: PT",
     "Disease 4:": "Version: 20.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10039720, Term: Sclerosis multiple, Level: LLT"
   },
   {

@@ -1111,19 +1111,6 @@
     "Link:": "https://www-test.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001370-30"
   },
   {
-    "EudraCT Number:": "2018-000930-37",
-    "Sponsor Protocol Number:": "M15-722",
-    "Sponsor Name:": "AbbVie Deutschland GmbH & Co. KG",
-    "Full Title:": "A Multicenter, Single-Arm, Open-Label Study to Investigate the Efficacy and Safety of Ravagalimab (ABBV-323) in Subjects with Moderate to Severe Ulcerative Colitis Who Failed Prior Therapy",
-    "Start Date:": "2018-12-21",
-    "Medical condition:": "Ulcerative Colitis",
-    "Disease 1:": "Version: 20.1, SOC Term: 100000004856, Classification Code: 10045365, Term: Ulcerative colitis, Level: LLT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "NL(Prematurely Ended) DE(Prematurely Ended) GB(GB - no longer in EU/EEA) FR(Prematurely Ended) ES(Ongoing) HU(Completed) IT(Ongoing) ",
-    "Link:": "https://www-test.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-000930-37"
-  },
-  {
     "EudraCT Number:": "2017-004958-42",
     "Sponsor Protocol Number:": "MOM-M281-003",
     "Sponsor Name:": "Momenta Pharmaceuticals, Inc.",
@@ -1135,6 +1122,19 @@
     "Gender:": "Female",
     "Trial protocol:": "GB(GB - no longer in EU/EEA) BE(Ongoing) NL(Ongoing) SE(Ongoing) ES(Ongoing) ",
     "Link:": "https://www-test.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004958-42"
+  },
+  {
+    "EudraCT Number:": "2018-000930-37",
+    "Sponsor Protocol Number:": "M15-722",
+    "Sponsor Name:": "AbbVie Deutschland GmbH & Co. KG",
+    "Full Title:": "A Multicenter, Single-Arm, Open-Label Study to Investigate the Efficacy and Safety of Ravagalimab (ABBV-323) in Subjects with Moderate to Severe Ulcerative Colitis Who Failed Prior Therapy",
+    "Start Date:": "2018-12-21",
+    "Medical condition:": "Ulcerative Colitis",
+    "Disease 1:": "Version: 20.1, SOC Term: 100000004856, Classification Code: 10045365, Term: Ulcerative colitis, Level: LLT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "NL(Prematurely Ended) DE(Prematurely Ended) GB(GB - no longer in EU/EEA) FR(Prematurely Ended) ES(Ongoing) HU(Completed) IT(Ongoing) ",
+    "Link:": "https://www-test.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-000930-37"
   },
   {
     "EudraCT Number:": "2019-002621-30",

@@ -1087,18 +1087,6 @@ Gender:                  Male, Female
 Trial protocol:          ES(Ongoing) GB(GB - no longer in EU/EEA) DK(Ongoing) BE(Ongoing) PT(Ongoing) PL(Ongoing) NL(Ongoing) SE(Ongoing) FI(Ongoing) HR(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-001365-24
 
-EudraCT Number:          2016-004676-22
-Sponsor Protocol Number: M16-066
-Sponsor Name:            AbbVie Deutschland GmbH & Co. KG
-Full Title:              A Multicenter, Randomized, Double-Blind, Placebo Controlled 52-Week Maintenance and an Open-Label Extension Study of the Efficacy and Safety of Risankizumab in Subjects with Ulcerative Colitis Who ...
-Start Date:              2019-01-14
-Medical condition:       Ulcerative Colitis
-Disease:                 Version: 20.0, SOC Term: 10017947 - Gastrointestinal disorders, Classification Code: 10009900, Term: Colitis ulcerative, Level: PT
-Population Age:          Adolescents, Under 18, Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          BE(Ongoing) SK(Ongoing) AT(Ongoing) ES(Ongoing) SE(Ongoing) NL(Ongoing) DK(Ongoing) CZ(Ongoing) GR(Ongoing) PL(Ongoing) DE(Ongoing) LT(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Ongoing) BG(Ongoing) HR(Ongoing) FR(Not Authorised) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004676-22
-
 EudraCT Number:          2016-004719-10
 Sponsor Protocol Number: AC-058B303
 Sponsor Name:            Actelion Pharmaceuticals Ltd.
@@ -1111,6 +1099,18 @@ Population Age:          Adults
 Gender:                  Male, Female
 Trial protocol:          ES(Ongoing) SE(Ongoing) PL(Ongoing) CZ(Ongoing) BG(Ongoing) LV(Ongoing) HU(Ongoing) LT(Ongoing) PT(Ongoing) HR(Ongoing) GB(GB - no longer in EU/EEA) FI(Ongoing) GR(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004719-10
+
+EudraCT Number:          2016-004676-22
+Sponsor Protocol Number: M16-066
+Sponsor Name:            AbbVie Deutschland GmbH & Co. KG
+Full Title:              A Multicenter, Randomized, Double-Blind, Placebo Controlled 52-Week Maintenance and an Open-Label Extension Study of the Efficacy and Safety of Risankizumab in Subjects with Ulcerative Colitis Who ...
+Start Date:              2019-01-14
+Medical condition:       Ulcerative Colitis
+Disease:                 Version: 20.0, SOC Term: 10017947 - Gastrointestinal disorders, Classification Code: 10009900, Term: Colitis ulcerative, Level: PT
+Population Age:          Adolescents, Under 18, Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          BE(Ongoing) SK(Ongoing) AT(Ongoing) ES(Ongoing) SE(Ongoing) NL(Ongoing) DK(Ongoing) CZ(Ongoing) GR(Ongoing) PL(Ongoing) DE(Ongoing) LT(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Ongoing) BG(Ongoing) HR(Ongoing) FR(Not Authorised) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004676-22
 
 EudraCT Number:          2016-002154-20
 Sponsor Protocol Number: CLCZ696G2301

@@ -1145,7 +1145,7 @@ Medical condition:       Multiple sclerosis
 Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10048393, Term: Multiple sclerosis relapse, Level: PT
 Population Age:          Adults
 Gender:                  Male, Female
-Trial protocol:          DE(Ongoing) SK(Ongoing) HU(Ongoing) GB(GB - no longer in EU/EEA) NL(Ongoing) AT(Ongoing) FR(Ongoing) PT(Ongoing) ES(Ongoing) SE(Ongoing) LT(Ongoing) DK(Ongoing) FI(Ongoing) BE(Ongoing) LV(Ongoing) GR(Ongoing) HR(Ongoing) 
+Trial protocol:          DE(Ongoing) SK(Ongoing) HU(Ongoing) GB(GB - no longer in EU/EEA) NL(Ongoing) AT(Ongoing) FR(Ongoing) PT(Ongoing) ES(Ongoing) CZ(Ongoing) SE(Ongoing) LT(Ongoing) DK(Ongoing) FI(Ongoing) BE(Ongoing) LV(Ongoing) GR(Ongoing) HR(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004703-51
 
 EudraCT Number:          2016-000674-38

@@ -770,18 +770,6 @@ Gender:                  Male, Female
 Trial protocol:          DE(Completed) DK(Completed) AT(Completed) GB(GB - no longer in EU/EEA) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001172-15
 
-EudraCT Number:          2020-003367-26
-Sponsor Protocol Number: MK4482-001
-Sponsor Name:            Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
-Full Title:              A Phase 2/3, Randomized, Placebo-Controlled, Double-Blind Clinical Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of MK-4482 in Hospitalized Adults with COVID-19
-Start Date:              2020-11-18
-Medical condition:       COVID-19
-Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          FR(Completed) GB(GB - no longer in EU/EEA) SE(Ongoing) PL(Ongoing) IT(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003367-26
-
 EudraCT Number:          2020-001662-11
 Sponsor Protocol Number: CINC424J12301
 Sponsor Name:            Novartis Pharma AG
@@ -793,6 +781,18 @@ Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Ongoing) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001662-11
+
+EudraCT Number:          2020-003367-26
+Sponsor Protocol Number: MK4482-001
+Sponsor Name:            Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
+Full Title:              A Phase 2/3, Randomized, Placebo-Controlled, Double-Blind Clinical Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of MK-4482 in Hospitalized Adults with COVID-19
+Start Date:              2020-11-18
+Medical condition:       COVID-19
+Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          FR(Completed) GB(GB - no longer in EU/EEA) SE(Completed) PL(Ongoing) IT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003367-26
 
 EudraCT Number:          2020-003510-12
 Sponsor Protocol Number: GS-US-540-9012

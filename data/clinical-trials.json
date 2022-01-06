@@ -717,19 +717,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001803-17"
   },
   {
-    "EudraCT Number:": "2020-003125-39",
-    "Sponsor Protocol Number:": "TRI-08892",
-    "Sponsor Name:": "CYTE Global",
-    "Full Title:": "Early thromboprophylaxis in COVID-19 (ETHIC trial): an open label, randomized phase IIIb trial of community-based prophylactic low-molecular-weight heparin (LMWH) versus standard of care (no enoxap...",
-    "Start Date:": "2020-10-30",
-    "Medical condition:": "Low Molecular Weight Heparin (LMWH) thromboprophylaxis in patients with COVID-19 ",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) DE(Ongoing) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003125-39",
-    "Disease:": ""
-  },
-  {
     "EudraCT Number:": "2020-003643-29",
     "Sponsor Protocol Number:": "VAC31518COV3009",
     "Sponsor Name:": "Janssen Vaccines & Prevention B.V.  ",
@@ -793,6 +780,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "GB(GB - no longer in EU/EEA) GR(Completed) DK(Completed) DE(Completed) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002542-16"
+  },
+  {
+    "EudraCT Number:": "2020-003125-39",
+    "Sponsor Protocol Number:": "TRI-08892",
+    "Sponsor Name:": "Thrombosis Research Institute",
+    "Full Title:": "Early thromboprophylaxis in COVID-19 (ETHIC trial): an open label, randomized phase IIIb trial of community-based prophylactic low-molecular-weight heparin (LMWH) versus standard of care (no enoxap...",
+    "Start Date:": "2020-10-12",
+    "Medical condition:": "Confirmed diagnosis of SARS-CoV-2  with symptomatic COVID-19 infection ",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "BE(Completed) GB(GB - no longer in EU/EEA) DE(Ongoing) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003125-39",
+    "Disease:": ""
   },
   {
     "EudraCT Number:": "2020-001497-30",
@@ -1254,22 +1254,6 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "SK(Ongoing) NL(Ongoing) CZ(Ongoing) AT(Ongoing) FI(Ongoing) PL(Ongoing) SE(Completed) GB(GB - no longer in EU/EEA) DE(Ongoing) LV(Ongoing) GR(Ongoing) EE(Ongoing) IE(Ongoing) HU(Ongoing) PT(Ongoing) LT(Ongoing) BE(Ongoing) NO(Ongoing) ES(Ongoing) HR(Ongoing) IT(Ongoing) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-000674-38"
-  },
-  {
-    "EudraCT Number:": "2017-004886-29",
-    "Sponsor Protocol Number:": "MN39158",
-    "Sponsor Name:": "Roche Farma SA (Soc unipersonal) que realiza el ensayo en Espa\u00f1a y que act\u00faa como representante F.Hoffmann-La Roche Ltd",
-    "Full Title:": "A SINGLE ARM, OPEN LABEL MULTICENTRE EXTENSION STUDY TO EVALUATE THE EFFECTIVENESS AND SAFETY OF OCRELIZUMAB IN PATIENTS WITH MULTIPLE SCLEROSIS PREVIOUSLY ENROLLED IN A F. HOFFMANN-LA ROCHE SPONSO...",
-    "Start Date:": "2018-05-22",
-    "Medical condition:": "Multiple sclerosis (MS)",
-    "Disease 1:": "Version: 20.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10028245, Term: Multiple sclerosis, Level: PT",
-    "Population Age:": "Adults",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "ES(Prematurely Ended) EE(Ongoing) IE(Ongoing) CZ(Completed) FR(Ongoing) DK(Ongoing) SE(Ongoing) FI(Completed) NL(Ongoing) GB(GB - no longer in EU/EEA) BE(Ongoing) SI(Ongoing) PL(Ongoing) PT(Ongoing) SK(Ongoing) BG(Ongoing) HU(Ongoing) IT(Ongoing) HR(Ongoing) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004886-29",
-    "Disease 2:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10048393, Term: Multiple sclerosis relapse, Level: PT",
-    "Disease 3:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063399, Term: Relapsing-remitting multiple sclerosis, Level: PT",
-    "Disease 4:": "Version: 20.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10039720, Term: Sclerosis multiple, Level: LLT"
   },
   {
     "EudraCT Number:": "2016-002937-31",

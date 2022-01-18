@@ -1000,18 +1000,6 @@ Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) ES(Temporarily Halted) NL(Ongoing) AT(Temporarily Halted) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-003898-94
 
-EudraCT Number:          2020-001370-30
-Sponsor Protocol Number: CACZ885D2310
-Sponsor Name:            Novartis Pharma AG
-Full Title:              Phase 3 multicenter, randomized, double-blind, placebo-controlled study to assess the efficacy and safety of canakinumab on cytokine release syndrome in patients with COVID-19-induced pneumonia (CA...
-Start Date:              2020-04-29
-Medical condition:       COVID-19-induced pneumonia (CAN-COVID)
-Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Ongoing) HU(Completed) IT(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001370-30
-
 EudraCT Number:          2015-002340-14
 Sponsor Protocol Number: REMAP-CAP
 Sponsor Name:            University Medical Center Utrecht 
@@ -1025,6 +1013,18 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          NL(Ongoing) IE(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Ongoing) DE(Ongoing) HR(Ongoing) ES(Ongoing) FR(Ongoing) FI(Ongoing) IT(Ongoing) SI(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-002340-14
+
+EudraCT Number:          2020-001370-30
+Sponsor Protocol Number: CACZ885D2310
+Sponsor Name:            Novartis Pharma AG
+Full Title:              Phase 3 multicenter, randomized, double-blind, placebo-controlled study to assess the efficacy and safety of canakinumab on cytokine release syndrome in patients with COVID-19-induced pneumonia (CA...
+Start Date:              2020-04-29
+Medical condition:       COVID-19-induced pneumonia (CAN-COVID)
+Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Ongoing) HU(Completed) IT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001370-30
 
 EudraCT Number:          2017-004958-42
 Sponsor Protocol Number: MOM-M281-003

@@ -1072,7 +1072,7 @@ Medical condition:       Acute Myeloid Leukemia (AML)
 Disease:
 Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Ongoing) CZ(Ongoing) ES(Ongoing) IT(Ongoing) 
+Trial protocol:          GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Ongoing) CZ(Ongoing) ES(Ongoing) IT(Ongoing) HU(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-002621-30
 
 EudraCT Number:          2017-001365-24

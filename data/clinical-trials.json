@@ -610,19 +610,6 @@
     "Disease:": ""
   },
   {
-    "EudraCT Number:": "2020-002632-75",
-    "Sponsor Protocol Number:": "CLI-050000-04",
-    "Sponsor Name:": "CHIESI FARMACEUTICI S.p.A",
-    "Full Title:": "Multicenter, open-label, randomised trial to assess the efficacy and tolerability of poractant alfa (porcine surfactant, Curosurf\u00ae) in hospitalized patients with SARS-COV-19 acute respiratory distr...",
-    "Start Date:": "2020-07-08",
-    "Medical condition:": "patients with SARS-COV-19 acute respiratory distress syndrome (ARDS)",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002632-75",
-    "Disease:": ""
-  },
-  {
     "EudraCT Number:": "2020-001396-33",
     "Sponsor Protocol Number:": "EPA-COV-001",
     "Sponsor Name:": "SLA Pharma (UK) Ltd",
@@ -647,6 +634,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002494-10"
+  },
+  {
+    "EudraCT Number:": "2020-002632-75",
+    "Sponsor Protocol Number:": "CLI-050000-04",
+    "Sponsor Name:": "CHIESI FARMACEUTICI S.p.A",
+    "Full Title:": "Multicenter, open-label, randomised trial to assess the efficacy and tolerability of poractant alfa (porcine surfactant, Curosurf\u00ae) in hospitalized patients with SARS-COV-19 acute respiratory distr...",
+    "Start Date:": "2020-07-08",
+    "Medical condition:": "patients with SARS-COV-19 acute respiratory distress syndrome (ARDS)",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002632-75",
+    "Disease:": ""
   },
   {
     "EudraCT Number:": "2020-001736-95",

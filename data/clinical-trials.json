@@ -636,19 +636,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002494-10"
   },
   {
-    "EudraCT Number:": "2020-002632-75",
-    "Sponsor Protocol Number:": "CLI-050000-04",
-    "Sponsor Name:": "CHIESI FARMACEUTICI S.p.A",
-    "Full Title:": "Multicenter, open-label, randomised trial to assess the efficacy and tolerability of poractant alfa (porcine surfactant, Curosurf\u00ae) in hospitalized patients with SARS-COV-19 acute respiratory distr...",
-    "Start Date:": "2020-07-08",
-    "Medical condition:": "patients with SARS-COV-19 acute respiratory distress syndrome (ARDS)",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002632-75",
-    "Disease:": ""
-  },
-  {
     "EudraCT Number:": "2020-001736-95",
     "Sponsor Protocol Number:": "ACCORD-2-001,Sub002,003,006",
     "Sponsor Name:": "University Hospital Southampton NHS Foundation Trust",
@@ -743,19 +730,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001807-18"
   },
   {
-    "EudraCT Number:": "2020-003368-24",
-    "Sponsor Protocol Number:": "MK-4482-002",
-    "Sponsor Name:": "Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.",
-    "Full Title:": "A Phase 2/3, Randomized, Placebo-Controlled, Double-Blind Clinical Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of MK-4482 in Non-Hospitalized Adults with COVID-19",
-    "Start Date:": "2020-10-05",
-    "Medical condition:": "COVID-19",
-    "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) DE(Completed) IT(Ongoing) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003368-24"
-  },
-  {
     "EudraCT Number:": "2020-002211-21",
     "Sponsor Protocol Number:": "SGS.1656.201",
     "Sponsor Name:": "St George Street Capital Ltd",
@@ -806,6 +780,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Prematurely Ended) ES(Temporarily Halted) IT(Ongoing) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001497-30"
+  },
+  {
+    "EudraCT Number:": "2020-003368-24",
+    "Sponsor Protocol Number:": "MK-4482-002",
+    "Sponsor Name:": "Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.",
+    "Full Title:": "A Phase 2/3, Randomized, Placebo-Controlled, Double-Blind Clinical Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of MK-4482 in Non-Hospitalized Adults with COVID-19",
+    "Start Date:": "2020-10-05",
+    "Medical condition:": "COVID-19",
+    "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) DE(Completed) IT(Ongoing) PL(Completed) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003368-24"
   },
   {
     "EudraCT Number:": "2020-001689-12",
@@ -936,6 +923,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "DK(Completed) DE(Completed) FR(Completed) NL(Completed) GB(GB - no longer in EU/EEA) IT(Completed) ES(Ongoing) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001154-22"
+  },
+  {
+    "EudraCT Number:": "2020-002632-75",
+    "Sponsor Protocol Number:": "CLI-050000-04",
+    "Sponsor Name:": "CHIESI FARMACEUTICI S.p.A",
+    "Full Title:": "Multicenter, open-label, randomised trial to assess the efficacy and tolerability of poractant alfa (porcine surfactant, Curosurf\u00ae) in hospitalized patients with SARS-COV-19 acute respiratory distr...",
+    "Start Date:": "2020-07-08",
+    "Medical condition:": "patients with SARS-COV-19 acute respiratory distress syndrome (ARDS)",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) IT(Ongoing) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002632-75",
+    "Disease:": ""
   },
   {
     "EudraCT Number:": "2020-001498-63",

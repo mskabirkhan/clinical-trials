@@ -821,19 +821,6 @@
     "Disease:": ""
   },
   {
-    "EudraCT Number:": "2020-001662-11",
-    "Sponsor Protocol Number:": "CINC424J12301",
-    "Sponsor Name:": "Novartis Pharma AG",
-    "Full Title:": "Phase 3 randomized, double-blind, placebo-controlled, multi-center study to assess the efficacy and safety of ruxolitinib in patients with COVID-19 associated cytokine storm (RUXCOVID)",
-    "Start Date:": "2020-05-05",
-    "Medical condition:": "COVID-19 associated cytokine storm",
-    "Population Age:": "Adolescents, Under 18, Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Ongoing) IT(Completed) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001662-11",
-    "Disease:": ""
-  },
-  {
     "EudraCT Number:": "2020-003367-26",
     "Sponsor Protocol Number:": "MK4482-001",
     "Sponsor Name:": "Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.",
@@ -845,6 +832,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "FR(Completed) GB(GB - no longer in EU/EEA) SE(Completed) PL(Completed) IT(Completed) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003367-26"
+  },
+  {
+    "EudraCT Number:": "2020-001662-11",
+    "Sponsor Protocol Number:": "CINC424J12301",
+    "Sponsor Name:": "Novartis Pharma AG",
+    "Full Title:": "Phase 3 randomized, double-blind, placebo-controlled, multi-center study to assess the efficacy and safety of ruxolitinib in patients with COVID-19 associated cytokine storm (RUXCOVID)",
+    "Start Date:": "2020-05-05",
+    "Medical condition:": "COVID-19 associated cytokine storm",
+    "Population Age:": "Adolescents, Under 18, Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Completed) IT(Completed) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001662-11",
+    "Disease:": ""
   },
   {
     "EudraCT Number:": "2020-003510-12",
@@ -921,7 +921,7 @@
     "Disease 1:": "Version: 21.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10035737, Term: Pneumonia viral, Level: PT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "DK(Completed) DE(Completed) FR(Completed) NL(Completed) GB(GB - no longer in EU/EEA) IT(Completed) ES(Ongoing) ",
+    "Trial protocol:": "DK(Completed) DE(Completed) FR(Completed) NL(Completed) GB(GB - no longer in EU/EEA) IT(Completed) ES(Completed) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001154-22"
   },
   {
@@ -1107,7 +1107,7 @@
     "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Ongoing) HU(Completed) IT(Completed) ",
+    "Trial protocol:": "DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Completed) HU(Completed) IT(Completed) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001370-30"
   },
   {

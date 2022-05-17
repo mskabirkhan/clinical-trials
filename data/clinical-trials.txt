@@ -662,18 +662,6 @@ Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Ongoing) ES(Temporarily Halted) BE(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003643-29
 
-EudraCT Number:          2020-001807-18
-Sponsor Protocol Number: TD-0903-0188
-Sponsor Name:            Theravance Biopharma Ireland Limited 
-Full Title:              A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Parallel-group, Multi-center Study of an Inhaled Pan-Janus Kinase Inhibitor, TD-0903, to Treat Symptomatic Acute Lung Injury Associated with...
-Start Date:              2020-05-18
-Medical condition:       Acute lung injury associated with COVID-19
-Disease:                 Version: 20.1, SOC Term: 100000004855, Classification Code: 10047468, Term: Viral lower respiratory tract infections, Level: HLT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) FI(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001807-18
-
 EudraCT Number:          2020-002211-21
 Sponsor Protocol Number: SGS.1656.201
 Sponsor Name:            St George Street Capital Ltd
@@ -841,6 +829,18 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) DE(Completed) ES(Completed) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001517-21
+
+EudraCT Number:          2020-001807-18
+Sponsor Protocol Number: TD-0903-0188
+Sponsor Name:            Theravance Biopharma Ireland Limited 
+Full Title:              A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Parallel-group, Multi-center Study of an Inhaled Pan-Janus Kinase Inhibitor, TD-0903, to Treat Symptomatic Acute Lung Injury Associated with...
+Start Date:              2020-05-18
+Medical condition:       Acute lung injury associated with COVID-19
+Disease:                 Version: 20.1, SOC Term: 100000004855, Classification Code: 10047468, Term: Viral lower respiratory tract infections, Level: HLT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          GB(GB - no longer in EU/EEA) RO(Completed) FI(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001807-18
 
 EudraCT Number:          2020-001154-22
 Sponsor Protocol Number: WA42380

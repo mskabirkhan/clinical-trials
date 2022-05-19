@@ -947,7 +947,7 @@
     "Disease 1:": "Version: 20.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10047465, Term: Viral infections NEC, Level: HLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "FR(Ongoing) BE(Ongoing) GB(GB - no longer in EU/EEA) ",
+    "Trial protocol:": "FR(Ongoing) BE(Completed) GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001498-63",
     "Disease 2:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT"
   },

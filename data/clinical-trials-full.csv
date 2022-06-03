@@ -2531,6 +2531,62 @@ Sub-protocol (ACCORD 2-006)
 Date: 05 November 2020 
 Version: Protocol Amendment 02, Final
 The objectives and endpoints are as for the master protocol.",SOC control arm,,,,1800,,,,BGB324,BGB324,,,2,Test,No,,,,No,,MEDI3506,Solution for injection,No,Intravenous use,N/A,human immunoglobulin (Ig) G1 monoclonal antibody (mAb),AS3,mg/ml milligram(s)/millilitre,equal,150,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,,,,,,,,,,,,,,,,,,,3,Test,No,,,,No,,Zilucoplan,Solution for injection in pre-filled syringe,No,Subcutaneous use,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,Zilucoplan,AS6,mg/ml milligram(s)/millilitre,equal,40,4,Test,No,,,,No,,acalabrutinib,"Capsule, hard",No,Oral use,acalabrutinib,AS9,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,2376858-66-9,1841136-73-9,,,,MEDI3506,,MEDI3506,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RA101495,ACP-196,1420477-60-6,ACP-196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-003486-19,1.002.20,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-08-14,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-003486-19/GB/,UK - MHRA,2020-003486-19,"A randomised, double-blind, placebo-controlled trial of SFX-01 or placebo on a backbone of best standard care, to improve outcomes in patients with community acquired pneumonia and suspected or confirmed SARS-CoV-2 infection",SFX-01 treatment for Acute Respiratory Infections (STAR-Covid19),SFX-01 treatment for Acute Respiratory Infections  (STAR-Covid19),1.002.20,,No,,University of Dundee,United Kingdom,Non-Commercial,,Evgen Pharma plc,United Kingdom,University of Dundee,James Chalmers,"Ninewells Hospital, Level 5 Mailbox 12",Dundee,DD1 9SY,United Kingdom,01382383642,j.chalmers@dundee.ac.uk,1,Test,No,No,,Sulforadex,"Capsule, hard",No,"Nasogastric use (Noncurrent)
+Oral use",Sulforadex,1039704-32-9,AS1,mg milligram(s),equal,300,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,"Capsule, hard",Oral use,Community acquired pneumonia with suspected or confirmed SARS-CoV-2 infection,Pneumonia lung disease,"Diseases [C] - Respiratory Tract Diseases [C08]
+MedDRA Classification",,21.1,PT,10001052,Acute respiratory distress syndrome,"10038738 - Respiratory, thoracic and mediastinal disorders",No,"To compare the effectiveness of a new drug, SFX-01, against placebo for treating patients with suspected COVID19 respiratory infection.","To measure the safety of the new drug, SFX-01, when used to treat patients with suspected COVID19 respiratory infection. 
+
+To explore the mechanism by which the new drug is having its effects.",No,"•	18 years of age or older
+•	Community acquired pneumonia (defined as a new radiographic infiltrate on chest x-ray or CT scan in a patient presenting with respiratory symptoms both of which are clinically evident less than 48 hours after hospitalization). 
+•	Tested for suspected SARS-CoV-2 infection via RT-PCR or another approved laboratory method*  
+•	Increased risk of mortality on admission (defined by CURB65 score greater than or equal to 1 or the presence of bilateral radiographic infiltrates)
+•	Treatment can be commenced within 96 hours of hospital admission
+•	Requires hospitalisation but NOT requiring mechanical ventilation at randomization
+•	Participant (or legally authorized representative) provides written informed consent 
+•	Able to take oral medication at randomisation
+•	Participant (or legally authorised representative) understands and agrees to comply with planned trial procedures.
+
+*for the avoidance of doubt, this trial permits inclusion of patients presenting with acute respiratory infections whether or not the test for SARS-CoV-2 is positive. Patients can be randomised to the study while awaiting the results of the test for SARS-CoV-2.","•	Alanine aminotransferase (ALT) and/or aspartate aminotransferase (AST) greater than 5 times the upper limit of normal, result within 72 hours of randomization (the result closest to randomization should be used if several results are available).
+•	Stage 4 severe chronic kidney disease or requiring dialysis (i.e. eGFR less than 30), result within 72 hours of randomization (the result closest to randomization should be used if several results are available)
+•	Pregnant or breast feeding.
+•	Anticipated transfer to another hospital which is not a trial site within 24 hours.
+•	Hospital-acquired pneumonia (defined as onset of respiratory illness more than 48 hours after admission to hospital)
+•	Allergy to SFX-01
+•	Patients in whom active treatment is not considered appropriate.
+•	Use of any investigational drug within five times of the elimination half-life after the last trial dose or within 30 days, whichever is longer.","Clinical status on 7-point ordinal scale:
+1. Not hospitalised, no limitations on activities
+2. Not hospitalised, limitation on activities;
+3. Hospitalised, not requiring supplemental oxygen;
+4. Hospitalised, requiring supplemental oxygen;
+5. Hospitalised, on non-invasive ventilation or high flow oxygen devices;
+6. Hospitalised, on invasive mechanical ventilation or ECMO (Extracorporeal membrane oxygenation)
+7. Death.",Day 15 (where day 1 is the first day of treatment),"Clinical Severity; 
+Time to an improvement of one category from admission using 7-point ordinal scale. Daily whilst hospitalised
+Participant clinical status on 7-point ordinal scale. Days 3, 5, 8, 11, 15 and 29.
+Participant change from baseline on 7-point ordinal scale. Day 15.
+Proportion of participants showing improvement on 7-point ordinal scale. Day 15.
+Mean change in the 7-point ordinal scale. Baseline to days 3, 5, 8, 11, 15 and 29
+
+NEWS;
+Time to discharge or to a NEWS of ≤ 2 and maintained for 24 hours, whichever occurs first
+Change from baseline Days 8, 15, 29
+
+Oxygenation;
+Oxygen free days 0-29 days
+Incidence and duration of new oxygen use during the trial 0-29 days
+
+Mechanical Ventilation:
+Ventilator free days 0-29 days
+Incidence and duration of new mechanical ventilation use during the trial 0-29 days.
+
+Duration of hospitalisation; date of admission and discharge
+
+15day and 28day mortality; date of death
+
+Cumulative incidence of serious Adverse events (SAEs) 0-29 days
+
+Discontinuation or temporary suspension of treatment 0-29 days",See above,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,,,No,Yes,10,No,No,No,No,last day 29 for last participant,1,1,0,1,1,0,No,0,No,0,No,0,No,0,No,0,No,0,No,20,Yes,120,Yes,180,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,300,"As the trial 14 day treatment is for for an acute illness it would not be
+appropriate for participants to continue to receive their trial treatment after the end of the trial.
+Trial treatment will not be made available to participants at the end of the trial.",1,Authorised,2020-09-04,Favourable,Reason(s) for unfavourable opinion:,2020-10-08,GB - no longer in EU/EEA,,,,,,,,,300,300,,,,SFX-01,SFX-01,Sulforaphane/α-Cyclodextrin complex,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-001441-39,VIR20001,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-04-29,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001441-39/GB/,UK - MHRA,2020-001441-39,"Chloroquine/ hydroxychloroquine prevention of coronavirus disease (COVID-19) in the healthcare setting; a randomised, placebo-controlled prophylaxis study (COPCOV)",Chloroquine/ hydroxychloroquine prevention of COVID-19 (COPCOV),COPCOV trial,VIR20001,NCT04303507,No,,University of Oxford,United Kingdom,Non-Commercial,,Wellcome Trust,United Kingdom,,,,,,,,,1,Test,Yes,No,,Hydroxychloroquine sulphate,Tablet,No,Oral use,Hydroxychloroquine sulphate,747-36-4,AS1,mg milligram(s),equal,200,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Tablet,Oral use,"COVID-19, acute respiratory illness","Corona virus disease, acute respiratory illness","Diseases [C] - Virus Diseases [C02]
 MedDRA Classification",,23.0,LLT,10053983,Corona virus infection,100000004862,No,The primary objective is to determine if chloroquine or hydroxychloroquine prophylaxis prevents symptomatic COVID-19 infection in healthcare workers,"The secondary objectives include:
 - Reduction in the clinical severity or duration of COVID-19 infections.
@@ -2634,62 +2690,6 @@ Circumstances that may warrant termination or suspension include, but are not li
 Netherlands
 Spain
 United Kingdom",4000,7244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2020-003486-19,1.002.20,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-08-14,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-003486-19/GB/,UK - MHRA,2020-003486-19,"A randomised, double-blind, placebo-controlled trial of SFX-01 or placebo on a backbone of best standard care, to improve outcomes in patients with community acquired pneumonia and suspected or confirmed SARS-CoV-2 infection",SFX-01 treatment for Acute Respiratory Infections (STAR-Covid19),SFX-01 treatment for Acute Respiratory Infections  (STAR-Covid19),1.002.20,,No,,University of Dundee,United Kingdom,Non-Commercial,,Evgen Pharma plc,United Kingdom,University of Dundee,James Chalmers,"Ninewells Hospital, Level 5 Mailbox 12",Dundee,DD1 9SY,United Kingdom,01382383642,j.chalmers@dundee.ac.uk,1,Test,No,No,,Sulforadex,"Capsule, hard",No,"Nasogastric use (Noncurrent)
-Oral use",Sulforadex,1039704-32-9,AS1,mg milligram(s),equal,300,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,"Capsule, hard",Oral use,Community acquired pneumonia with suspected or confirmed SARS-CoV-2 infection,Pneumonia lung disease,"Diseases [C] - Respiratory Tract Diseases [C08]
-MedDRA Classification",,21.1,PT,10001052,Acute respiratory distress syndrome,"10038738 - Respiratory, thoracic and mediastinal disorders",No,"To compare the effectiveness of a new drug, SFX-01, against placebo for treating patients with suspected COVID19 respiratory infection.","To measure the safety of the new drug, SFX-01, when used to treat patients with suspected COVID19 respiratory infection. 
-
-To explore the mechanism by which the new drug is having its effects.",No,"•	18 years of age or older
-•	Community acquired pneumonia (defined as a new radiographic infiltrate on chest x-ray or CT scan in a patient presenting with respiratory symptoms both of which are clinically evident less than 48 hours after hospitalization). 
-•	Tested for suspected SARS-CoV-2 infection via RT-PCR or another approved laboratory method*  
-•	Increased risk of mortality on admission (defined by CURB65 score greater than or equal to 1 or the presence of bilateral radiographic infiltrates)
-•	Treatment can be commenced within 96 hours of hospital admission
-•	Requires hospitalisation but NOT requiring mechanical ventilation at randomization
-•	Participant (or legally authorized representative) provides written informed consent 
-•	Able to take oral medication at randomisation
-•	Participant (or legally authorised representative) understands and agrees to comply with planned trial procedures.
-
-*for the avoidance of doubt, this trial permits inclusion of patients presenting with acute respiratory infections whether or not the test for SARS-CoV-2 is positive. Patients can be randomised to the study while awaiting the results of the test for SARS-CoV-2.","•	Alanine aminotransferase (ALT) and/or aspartate aminotransferase (AST) greater than 5 times the upper limit of normal, result within 72 hours of randomization (the result closest to randomization should be used if several results are available).
-•	Stage 4 severe chronic kidney disease or requiring dialysis (i.e. eGFR less than 30), result within 72 hours of randomization (the result closest to randomization should be used if several results are available)
-•	Pregnant or breast feeding.
-•	Anticipated transfer to another hospital which is not a trial site within 24 hours.
-•	Hospital-acquired pneumonia (defined as onset of respiratory illness more than 48 hours after admission to hospital)
-•	Allergy to SFX-01
-•	Patients in whom active treatment is not considered appropriate.
-•	Use of any investigational drug within five times of the elimination half-life after the last trial dose or within 30 days, whichever is longer.","Clinical status on 7-point ordinal scale:
-1. Not hospitalised, no limitations on activities
-2. Not hospitalised, limitation on activities;
-3. Hospitalised, not requiring supplemental oxygen;
-4. Hospitalised, requiring supplemental oxygen;
-5. Hospitalised, on non-invasive ventilation or high flow oxygen devices;
-6. Hospitalised, on invasive mechanical ventilation or ECMO (Extracorporeal membrane oxygenation)
-7. Death.",Day 15 (where day 1 is the first day of treatment),"Clinical Severity; 
-Time to an improvement of one category from admission using 7-point ordinal scale. Daily whilst hospitalised
-Participant clinical status on 7-point ordinal scale. Days 3, 5, 8, 11, 15 and 29.
-Participant change from baseline on 7-point ordinal scale. Day 15.
-Proportion of participants showing improvement on 7-point ordinal scale. Day 15.
-Mean change in the 7-point ordinal scale. Baseline to days 3, 5, 8, 11, 15 and 29
-
-NEWS;
-Time to discharge or to a NEWS of ≤ 2 and maintained for 24 hours, whichever occurs first
-Change from baseline Days 8, 15, 29
-
-Oxygenation;
-Oxygen free days 0-29 days
-Incidence and duration of new oxygen use during the trial 0-29 days
-
-Mechanical Ventilation:
-Ventilator free days 0-29 days
-Incidence and duration of new mechanical ventilation use during the trial 0-29 days.
-
-Duration of hospitalisation; date of admission and discharge
-
-15day and 28day mortality; date of death
-
-Cumulative incidence of serious Adverse events (SAEs) 0-29 days
-
-Discontinuation or temporary suspension of treatment 0-29 days",See above,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,,,No,Yes,10,No,No,No,No,last day 29 for last participant,1,1,0,1,1,0,No,0,No,0,No,0,No,0,No,0,No,0,No,20,Yes,120,Yes,180,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,300,"As the trial 14 day treatment is for for an acute illness it would not be
-appropriate for participants to continue to receive their trial treatment after the end of the trial.
-Trial treatment will not be made available to participants at the end of the trial.",1,Authorised,2020-09-04,Favourable,Reason(s) for unfavourable opinion:,2020-10-08,GB - no longer in EU/EEA,,,,,,,,,300,300,,,,SFX-01,SFX-01,Sulforaphane/α-Cyclodextrin complex,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-001803-17,GS-US-540-5823,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-06-05,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001803-17/GB/,UK - MHRA,2020-001803-17,"A Phase 2/3 Single-Arm, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of Remdesivir (GS-5734™) in Participants from Birth to < 18 Years of Age with COVID-19",Phase 2/3 study of Remdesivir in patients from birth to <18 years old with COVID-19,,GS-US-540-5823,,Yes,P/201/2020,Gilead Sciences Inc.,United States,Commercial,,"Gilead Sciences, Inc.",United States,Gilead Sciences International Ltd.,Clinical Trials Mailbox,"Flowers Building, Granta Park","Great Abington, Cambridge",CB21 6GT,United Kingdom,+44 1223 897284,clinical.trials@gilead.com,1,Test,No,No,,Remdesivir,Lyophilisate for solution for infusion,No,Intravenous use,REMDESIVIR,,SUB195655,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,Coronavirus disease 2019 (COVID-19),Coronavirus disease 2019 (COVID-19),"Diseases [C] - Virus Diseases [C02]
 MedDRA Classification",,23.0,PT,10051905,Coronavirus infection,10021881 - Infections and infestations,No,"To evaluate the safety and tolerability of remdesivir (RDV ) in participants with laboratory-confirmed COVID-19 aged 0 days to < 18 years
 To evaluate the pharmacokinetics (PK) of RDV in participants with laboratory-confirmed COVID-19 aged 0 days to < 18 years","The secondary objectives of this study are as follows:
@@ -3269,6 +3269,64 @@ Germany
 Russian Federation
 United Kingdom
 United States",200,200,,,,APN01,,GSK2586881,IND 151312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rekombinantes humanes Angiotensin-konvertierendes Enzym 2 (rhACE2) als Behandlung für Patienten mit COVID-19,Rekombinantes humanes Angiotensin-konvertierendes Enzym 2 (rhACE2) als Behandlung für Patienten mit COVID-19,"Stationäre, positiv getestete weibliche oder männliche COVID-19 Patienten mit schwerem Verlauf; Alter zwischen 18 und 80 Jahren","Stationäre, positiv getestete weibliche oder männliche COVID-19 Patienten mit schwerem Verlauf; Alter zwischen 18 und 80 Jahren",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-003510-12,GS-US-540-9012,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-09-02,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-003510-12/GB/,UK - MHRA,2020-003510-12,"A Phase 3 Randomized, Double-Blind Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Remdesivir (GS-5734™) Treatment of COVID-19 in an Outpatient Setting",A study to test a drug named remdesivir to evaluate the efficacy and safety of the drug in treating patients with COVID-19 in an outpatient setting (non-hospitalized),,GS-US-540-9012,,No,,"Gilead Sciences, Inc",United States,Commercial,,"Gilead Sciences, Inc",United States,Gilead Sciences International Ltd.,Clinical Trials Mailbox,"Flowers Building, Granta Park","Great Abington, Cambridge",CB21 6GT,United Kingdom,+44 1223 897284,clinical.trials@gilead.com,1,Test,Yes,No,,"Remdesivir for injection, 100 mg",Lyophilisate for solution for infusion,No,Intravenous use,REMDESIVIR,,SUB195655,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Lyophilisate for solution for infusion,Intravenous use,COVID-19,Coronavirus disease 2019,"Diseases [C] - Virus Diseases [C02]
+MedDRA Classification",,23.0,LLT,10084382,Coronavirus disease 2019,100000004862,No,"- To evaluate the efficacy of RDV in reducing the rate of all-cause medically attended visits (MAVs; medical visits attended in person by the participant and a health care professional) or death when given over 3 days to non-hospitalized participants with early stage COVID-19.
+- To evaluate the safety of RDV administered in an outpatient setting","- To determine the antiviral activity of RDV on SARS-CoV-2 viral load
+- To assess the impact of RDV on symptom duration and severity",No,"Participants must meet all of the following inclusion criteria to be eligible for participation in this
+study:
+1) Willing and able to provide written informed consent, or with a legal representative who can provide informed consent (participants ≥ 18 years of age) or assent (participants ≥ 12 and < 18 years of age) prior to performing study procedures. Participants aged ≥ 18 years may be enrolled with the consent of a legal representative where permitted
+according to local law and approved nationally and by the relevant institutional review board (IRB) or independent ethics committee (IEC). For participants ≥ 12 and < 18 years of age, a parent or legal guardian must be willing and able to provide written informed consent prior to performing study procedures
+2) Either:
+- Age ≥ 18 years (at all sites) or aged ≥ 12 and < 18 years of age weighing ≥ 40 kg (where permitted according to local law and approved nationally and by the relevant institutional review board [IRB] or independent ethics committee [IEC]) with at least 1 of the following pre-existing risk factors for progression to hospitalization:
+a) Chronic lung disease: chronic obstructive pulmonary disease, moderate-to-severe asthma, cystic fibrosis, pulmonary fibrosis
+b) Hypertension: systemic or pulmonary
+c) Cardiovascular or cerebrovascular disease: coronary artery disease, congenital heart disease, heart failure, cardiomyopathy, history of stroke,atrial fibrillation, hyperlipidemia
+d) Diabetes mellitus: Type 1, Type 2, or gestational
+e) Obesity (BMI ≥ 30)
+f) Immunocompromised state; having a solid organ transplant, blood, or
+bone marrow transplant; immune deficiencies; HIV with a low CD4 cell
+count or not on HIV treatment; prolonged use of corticosteroids; or use
+of other immune weakening medicines
+g) Chronic mild or moderate kidney disease
+h) Chronic liver disease
+i) Current cancer
+j) Sickle cell disease
+- OR aged ≥ 60 years, regardless of the presence of other pre-existing risk factors for progression
+3) SARS-CoV-2 infection confirmed by molecular diagnostics (nucleic
+acid [eg, PCR] or antigen testing) ≤ 4 days prior to screening
+4) Presence of ≥ 1 symptom(s) consistent with COVID-19 for ≤ 7 days prior to randomization (such as fever, cough, fatigue, shortness of breath, sore throat, headache, myalgia/arthralgia) 
+5) Not currently receiving, requiring, or expected to require
+supplemental oxygen
+6) Not currently requiring hospitalization (hospitalization defined as ≥
+24 hours of acute care)
+7) Participants of childbearing potential who engage in heterosexual intercourse must agree to use protocol-specified method(s) of contraception as described in Protocol Appendix 3","Participants who meet any of the following exclusion criteria are not eligible to be enrolled in
+this study:
+1) Participation in any other clinical trial of an experimental treatment and prevention for COVID-19
+2) Prior hospitalization for COVID-19
+3) Treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2
+4) Requiring oxygen supplementation
+5) ALT or AST ≥ 5 ×upper limit of normal (ULN) at screening or within 90 days of screening Note: if per local practice only ALT is routinely measured, exclusion criteria will be evaluated on ALT alone
+6) Creatinine clearance < 30 mL/min at screening or within 90 days of screening using the Cockcroft-Gault formula in participants ≥ 18 years of age or 30 mL/min/1.73m2 at screening or within 90 days of screening
+using the Schwartz formula in participants < 18 years of age (see Protocol Section 6.6.1)
+7) Currently breastfeeding (nursing)
+8) Known hypersensitivity to the study drug, the metabolites, or formulation excipient
+9) Use or planned use of exclusionary medications, refer to Protocol Section 5.4","- Composite endpoint of all-cause medically attended visits (MAVs)
+(medical visits attended in person by the participant and a health care professional) or death by Day 28
+- The proportion of participants with treatment emergent adverse events",At various timepoints as detailed in the Study Protocol,"- All-cause mortality at Day 28
+- Proportion of participants hospitalized by Day 28
+- Composite endpoint of all-cause MAVs (medical visits attended in
+person by the participant and a health care professional) or death by Day
+14
+- Time-weighted average change in SARS-CoV-2 viral load from baseline to Day 7
+- Time to alleviation (mild or absent) of baseline COVID-19 symptoms as
+reported in the COVID-19-adapted FLU-PRO Plus
+- Proportion of participants progressing to requiring oxygen supplementation by Day 28",At various timepoints as detailed in the Study Protocol,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,,2,No,Yes,9,Yes,Yes,No,Yes,LPLV,,4,,,4,,Yes,126,No,,No,,No,,No,,No,,Yes,126,Yes,1012,Yes,126,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,80,The long-term care of the participant will remain the responsibility of their primary treating physician. Remdesivir is being supplied with curative intent. There is no provision for post-study availability.,,Authorised,2020-09-21,Favourable,Reason(s) for unfavourable opinion:,2020-10-20,GB - no longer in EU/EEA,,Veklury 100 mg powder for concentrate for solution for infusion,Gilead Sciences Ireland UC,European Union,,,35,"Denmark
+France
+Germany
+Portugal
+Spain
+United Kingdom
+United States",380,1264,,,,,GS-5734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"For participants ≥ 12 and < 18 years of age, a parent or legal guardian must be willing and able to provide written informed consent prior to performing study procedures.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-003367-26,MK4482-001,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-09-21,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-003367-26/GB/,UK - MHRA,2020-003367-26,"A Phase 2/3, Randomized, Placebo-Controlled, Double-Blind Clinical Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of MK-4482 in Hospitalized Adults with COVID-19",MK-4482 Ph 2/3 Study in Hospitalized Participants with COVID-19,MK-4482 Ph 2/3 Study in Hospitalized Adults with COVID-19,MK4482-001,NCT04575584,No,,"Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.",United States,Commercial,,"Merck Sharp & Dohme Corp., a subsidiary of Merck & Co.,Inc",United States,Merck Sharp & Dohme (UK) Limited,Tayeb Naveed,"2 Pancras Square, Kings Cross",London,N1C 4AG,United Kingdom,,tayeb.naveed@msd.com,1,Test,No,No,,MK-4482,Capsule,No,"Gastroenteral use
 Oral use",MK-4482,2349386-89-4,SUB208141,mg milligram(s),equal,200,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Capsule,Oral use,COVID-19,COVID-19,"Diseases [C] - Virus Diseases [C02]
 MedDRA Classification",,23.0,LLT,10084382,Coronavirus disease 2019,100000004862,No,"1. To evaluate the efficacy of MK-4482 compared to placebo as assessed by the rate of sustained recovery from randomization through Day 29.
@@ -3414,64 +3472,75 @@ Italy
 Spain
 United Kingdom
 United States",269,402,,,,INC424,INC424,RUXOLITINIB PHOSPHATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2020-003510-12,GS-US-540-9012,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-09-02,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-003510-12/GB/,UK - MHRA,2020-003510-12,"A Phase 3 Randomized, Double-Blind Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Remdesivir (GS-5734™) Treatment of COVID-19 in an Outpatient Setting",A study to test a drug named remdesivir to evaluate the efficacy and safety of the drug in treating patients with COVID-19 in an outpatient setting (non-hospitalized),,GS-US-540-9012,,No,,"Gilead Sciences, Inc",United States,Commercial,,"Gilead Sciences, Inc",United States,Gilead Sciences International Ltd.,Clinical Trials Mailbox,"Flowers Building, Granta Park","Great Abington, Cambridge",CB21 6GT,United Kingdom,+44 1223 897284,clinical.trials@gilead.com,1,Test,Yes,No,,"Remdesivir for injection, 100 mg",Lyophilisate for solution for infusion,No,Intravenous use,REMDESIVIR,,SUB195655,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Lyophilisate for solution for infusion,Intravenous use,COVID-19,Coronavirus disease 2019,"Diseases [C] - Virus Diseases [C02]
-MedDRA Classification",,23.0,LLT,10084382,Coronavirus disease 2019,100000004862,No,"- To evaluate the efficacy of RDV in reducing the rate of all-cause medically attended visits (MAVs; medical visits attended in person by the participant and a health care professional) or death when given over 3 days to non-hospitalized participants with early stage COVID-19.
-- To evaluate the safety of RDV administered in an outpatient setting","- To determine the antiviral activity of RDV on SARS-CoV-2 viral load
-- To assess the impact of RDV on symptom duration and severity",No,"Participants must meet all of the following inclusion criteria to be eligible for participation in this
-study:
-1) Willing and able to provide written informed consent, or with a legal representative who can provide informed consent (participants ≥ 18 years of age) or assent (participants ≥ 12 and < 18 years of age) prior to performing study procedures. Participants aged ≥ 18 years may be enrolled with the consent of a legal representative where permitted
-according to local law and approved nationally and by the relevant institutional review board (IRB) or independent ethics committee (IEC). For participants ≥ 12 and < 18 years of age, a parent or legal guardian must be willing and able to provide written informed consent prior to performing study procedures
-2) Either:
-- Age ≥ 18 years (at all sites) or aged ≥ 12 and < 18 years of age weighing ≥ 40 kg (where permitted according to local law and approved nationally and by the relevant institutional review board [IRB] or independent ethics committee [IEC]) with at least 1 of the following pre-existing risk factors for progression to hospitalization:
-a) Chronic lung disease: chronic obstructive pulmonary disease, moderate-to-severe asthma, cystic fibrosis, pulmonary fibrosis
-b) Hypertension: systemic or pulmonary
-c) Cardiovascular or cerebrovascular disease: coronary artery disease, congenital heart disease, heart failure, cardiomyopathy, history of stroke,atrial fibrillation, hyperlipidemia
-d) Diabetes mellitus: Type 1, Type 2, or gestational
-e) Obesity (BMI ≥ 30)
-f) Immunocompromised state; having a solid organ transplant, blood, or
-bone marrow transplant; immune deficiencies; HIV with a low CD4 cell
-count or not on HIV treatment; prolonged use of corticosteroids; or use
-of other immune weakening medicines
-g) Chronic mild or moderate kidney disease
-h) Chronic liver disease
-i) Current cancer
-j) Sickle cell disease
-- OR aged ≥ 60 years, regardless of the presence of other pre-existing risk factors for progression
-3) SARS-CoV-2 infection confirmed by molecular diagnostics (nucleic
-acid [eg, PCR] or antigen testing) ≤ 4 days prior to screening
-4) Presence of ≥ 1 symptom(s) consistent with COVID-19 for ≤ 7 days prior to randomization (such as fever, cough, fatigue, shortness of breath, sore throat, headache, myalgia/arthralgia) 
-5) Not currently receiving, requiring, or expected to require
-supplemental oxygen
-6) Not currently requiring hospitalization (hospitalization defined as ≥
-24 hours of acute care)
-7) Participants of childbearing potential who engage in heterosexual intercourse must agree to use protocol-specified method(s) of contraception as described in Protocol Appendix 3","Participants who meet any of the following exclusion criteria are not eligible to be enrolled in
-this study:
-1) Participation in any other clinical trial of an experimental treatment and prevention for COVID-19
-2) Prior hospitalization for COVID-19
-3) Treatment with other agents with actual or possible direct antiviral activity against SARS-CoV-2
-4) Requiring oxygen supplementation
-5) ALT or AST ≥ 5 ×upper limit of normal (ULN) at screening or within 90 days of screening Note: if per local practice only ALT is routinely measured, exclusion criteria will be evaluated on ALT alone
-6) Creatinine clearance < 30 mL/min at screening or within 90 days of screening using the Cockcroft-Gault formula in participants ≥ 18 years of age or 30 mL/min/1.73m2 at screening or within 90 days of screening
-using the Schwartz formula in participants < 18 years of age (see Protocol Section 6.6.1)
-7) Currently breastfeeding (nursing)
-8) Known hypersensitivity to the study drug, the metabolites, or formulation excipient
-9) Use or planned use of exclusionary medications, refer to Protocol Section 5.4","- Composite endpoint of all-cause medically attended visits (MAVs)
-(medical visits attended in person by the participant and a health care professional) or death by Day 28
-- The proportion of participants with treatment emergent adverse events",At various timepoints as detailed in the Study Protocol,"- All-cause mortality at Day 28
-- Proportion of participants hospitalized by Day 28
-- Composite endpoint of all-cause MAVs (medical visits attended in
-person by the participant and a health care professional) or death by Day
-14
-- Time-weighted average change in SARS-CoV-2 viral load from baseline to Day 7
-- Time to alleviation (mild or absent) of baseline COVID-19 symptoms as
-reported in the COVID-19-adapted FLU-PRO Plus
-- Proportion of participants progressing to requiring oxygen supplementation by Day 28",At various timepoints as detailed in the Study Protocol,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,,2,No,Yes,9,Yes,Yes,No,Yes,LPLV,,4,,,4,,Yes,126,No,,No,,No,,No,,No,,Yes,126,Yes,1012,Yes,126,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,80,The long-term care of the participant will remain the responsibility of their primary treating physician. Remdesivir is being supplied with curative intent. There is no provision for post-study availability.,,Authorised,2020-09-21,Favourable,Reason(s) for unfavourable opinion:,2020-10-20,GB - no longer in EU/EEA,,Veklury 100 mg powder for concentrate for solution for infusion,Gilead Sciences Ireland UC,European Union,,,35,"Denmark
+2020-004356-16,D8850C00002,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-10-12,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-004356-16/GB/,UK - MHRA,2020-004356-16,"A Phase III Randomized, Double-blind, Placebo-controlled, Multi-center Study in Adults to Determine the Safety and Efficacy of AZD7442, a Combination Product of Two Monoclonal Antibodies (AZD8895 and AZD1061), for Pre-exposure Prophylaxis of COVID-19","Phase III, double-blinded study using AZD7442 or Placebo for the prevention of COVID-19 disease in adults who have not been exposed to COVID-19 infection",Phase 3 Double-blind study of AZD7442 or Placebo for Pre-exposure Prophylaxis of COVID-19 in Adults,D8850C00002,,No,,AstraZeneca AB,Sweden,Commercial,,AstraZeneca AB,Sweden,AstraZeneca AB,Information Center,Södertälje,Södertälje,SE-151 85,Sweden,,Information.center@astrazeneca.com,1,Test,No,No,,,Solution for injection,No,Intramuscular use,AZD1061,2420563-99-9,AS1,mg/ml milligram(s)/millilitre,equal,100,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Solution for injection,Intramuscular use,COVID-19,COVID-19,"Diseases [C] - Respiratory Tract Diseases [C08]
+MedDRA Classification",,23.0,PT,10051905,Coronavirus infection,10021881 - Infections and infestations,No,"To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of COVID-19 through Day 183
+
+To assess the safety and tolerability of a single IM dose of AZD7442 compared to placebo.","Key Secondary
+To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of COVID-19 through Day 366
+
+Other Secondary 
+- To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of SARS-CoV-2 infection
+- To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of severe or critical symptomatic COVID-19
+- To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of COVID-19-related Emergency Department visits
+- To assess the pharmacokinetics of AZD7442 administered as a single dose of 300 mg IM
+-To evaluate ADA responses to AZD7442 in serum",No,"1. Participant must be ≥ 18 years of age at the time of signing the informed consent.
+2. Candidate for benefit from passive immunization with antibodies, defined as:
+(a) Increased risk for inadequate response to active immunization (predicted poor
+responders to vaccines), defined as;
+o Elderly, ie, ≥ 60 years old
+o Obese, ie, BMI ≥ 30
+o Congestive heart failure
+o Chronic obstructive pulmonary disease
+o Chronic kidney disease, ie, GFR < 30 mL/min/1.73 m2
+o Chronic liver disease
+o Immunocompromised state from solid organ transplant, blood or bone marrow transplant, immune deficiencies, HIV, use of corticosteroids, or use of other immunosuppressive medicines.
+o Intolerant of vaccine. Defined as previous history of severe adverse event or serious adverse event after receiving any approved vaccine.
+(b) Increased risk for SARS-CoV-2 infection, defined as those whose locations or circumstances put them at appreciable risk of exposure to SARS-CoV-2 and COVID-19, based on available risk assessment at time of enrollment. Examples include:
+o Health care workers, including staff of long-term care facilities (including skilled nursing facilities, assisted living facilities, and independent living facilities for senior adults)
+o Workers in industrial settings shown to have been at high risk for SARS-COV-2 transmission, including but not limited to meatpacking plants
+o Military personnel residing or working in high density settings including but not limited to barracks, ships, or close-quarters working environments
+o Students living in dormitory settings
+o Others living in settings of similar close or high-density proximity
+3. Medically stable defined as disease not requiring significant change in therapy or hospitalization for worsening disease during the 1 month prior to enrollment, with no acute change in condition at the time of study enrollment as judged by the investigator.
+4. Negative result from point of care SARS-CoV-2 serology resting at screening.
+5. Contraceptive use by men or women:
+(a) Male Participants: Contraception for male participants is not required, however, to avoid the transfer of any fluids, all male participants must use a condom from Day 1 and agree to continue through 365 days following administration of the IMP.
+(b) Female Participants:
+-Women not of childbearing potential are defined as women who are either permanently sterilized (hysterectomy, bilateral oophorectomy, or bilateral salpingectomy), or who are postmenopausal. Women will be considered postmenopausal if they have been amenorrhoeic for 12 months prior to the planned date of randomization without an alternative medical cause. The following agespecific requirements apply:
+o Women < 50 years old would be considered postmenopausal if they have been amenorrhoeic for 12 months or more following cessation of exogenous hormonal treatment and FSH levels in the postmenopausal range.
+o Women ≥ 50 years old would be considered postmenopausal if they have been amenorrhoeic for 12 months or more following cessation of all exogenous hormonal treatment.
+- Female participants of childbearing potential must use one highly effective form of birth control. A highly effective method of contraception is defined as one that can achieve a failure rate of less than 1% per year when used consistently and correctly. Women of childbearing potential who are sexually active with a non-sterilized male partner must agree to use one highly effective method of birth control, as defined in the protocol from Day 1 and agree to continue through 365 days following administration of the IMP. Cessation of contraception after this point should be discussed with a responsible physician. Periodic abstinence (calendar, symptothermal, post ovulation methods), withdrawal (coitus interruptus), spermicides only, and lactational amenorrhea method are not acceptable methods of contraception. Female condom and male condom should not be used together. All women of child bearing potential must have a negative serum pregnancy test result at Visit 1 and throughout the study as indicated per the SoA
+6. Able to understand and comply with study requirements/procedures (if applicable, with assistance by caregiver, surrogate, or legally authorized representative) based on the assessment of the investigator.
+7. If able, signed informed consent. Ensure that participants who are considered by the investigator clinically unable to consent at screening and who are entered into the study by the consent of a legally acceptable representative show evidence of assent, as applicable in accordance with local regulations.","1 Significant infection or other acute illness, including fever > 100°F (> 37.8°C) on the day
+prior to or day of randomization.
+2. History of laboratory-confirmed SARS-CoV-2 infection or any positive SARS-CoV-2 result based on available data at screening.
+3. History of infection with severe acute respiratory syndrome (SARS) or Middle East respiratory syndrome (MERS).
+4. Known history of allergy or reaction to any component of the study drug formulation.
+5. Previous hypersensitivity, infusion-related reaction, or severe adverse reaction following administration of a mAb.
+6. Any prior receipt of investigational or licensed vaccine or other mAb/biologic indicated for the prevention of SARS-CoV-2 or COVID-19 or expected receipt during the period of study follow-up.
+7. Clinically significant bleeding disorder (eg, factor deficiency, coagulopathy, or platelet disorder), or prior history of significant bleeding or bruising following IM injections or venepuncture.
+8. Any other significant disease, disorder, or finding that may significantly increase the risk to the participant because of participation in the study, affect the ability of the participant to participate in the study, or impair interpretation of the study data.
+9. Receipt of blood products or immunoglobulins, including mAbs, within 6 months, or 5 antibody half-lives if longer than 6 months, prior to screening
+10. Receipt of any IMP in the preceding 90 days or expected receipt of IMP during the period of study follow-up, or concurrent participation in another interventional study
+11. For women only - currently pregnant (confirmed with positive pregnancy test) or breast feeding.
+12. Blood drawn in excess of a total of 450 mL (1 unit) for any reason within 30 days prior to randomization.
+13. Employees of the Sponsor, clinical study site, or any other individuals involved with the conduct of the study, or immediate family members of such individuals.
+14. In nations, states, or other jurisdictions that for legal or ethical reasons bar the enrolment of participants who lack capacity to provide their own informed consent, such subjects are excluded.","The primary endpoint is the first case of SARS-CoV-2 RT-PCR-positive symptomatic illness occurring post dose of IMP through Day 183.
+
+For safety; AEs, SAEs, MAAEs, and AESIs through 365 days post dose of IMP.",Day 183,"Key Secondary endpoint;
+-The key secondary endpoint is the incidence of the first case of SARS-CoV-2 RT-PCR-positive symptomatic illness through Day 366.
+
+Other Secondary endpoint;
+- The incidence of participants who have a post-treatment response (negative at baseline to positive at any time post-baseline) for SARS-CoV-2 Nucleocapsid antibodies.
+- The incidence of SARS-CoV-2 RT-PCR-positive severe or critical symptomatic illness occurring post dose.
+- The incidence of COVID-19-related Emergency Department visits occurring post dose.
+-Serum AZD7442 concentrations.
+-PK parameters if data permit.
+-Incidence of ADA to AZD7442 in serum.",Day 366,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,,2,No,Yes,11,Yes,Yes,No,Yes,LVLS,1,2,0,1,2,0,No,0,No,0,No,0,No,0,No,0,No,0,No,0,Yes,2500,Yes,2500,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,1000,None since trial is evaluating a single dose of AZD7442 for pre-exposure prophylaxis.,1,Authorised,2020-10-28,Favourable,Reason(s) for unfavourable opinion:,2020-11-18,GB - no longer in EU/EEA,,,,,,,29,"Belgium
 France
-Germany
-Portugal
 Spain
 United Kingdom
-United States",380,1264,,,,,GS-5734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"For participants ≥ 12 and < 18 years of age, a parent or legal guardian must be willing and able to provide written informed consent prior to performing study procedures.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+United States",1500,5000,,,,AZD1061,AZD1061,monoclonal antibody (mAb),IND number 150712,2,Test,No,,,,No,,,Solution for injection,No,Intramuscular use,AZD8895,monoclonal antibody (mAb),AS2,mg/ml milligram(s)/millilitre,equal,100,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,,Participants clinically unable to consent at screening will be consented by a legally acceptable representative and show evidence of assent.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2420564-02-7,,,,,AZD8895,,AZD8895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-001052-18,INSIGHTPROTOCOL010,UK - MHRA,EEA CTA,Completed,2020-03-23,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001052-18/GB/,UK - MHRA,2020-001052-18,"A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of COVID-19 in Hospitalised Adults","A Multicentre, Adaptive, Randomised, Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of COVID-19 in Hospitalised Adults",Adaptive COVID-19 Treatment Trial (ACTT),INSIGHTPROTOCOL010,NCT04280705,No,,Regents of the University of Minnesota,United States,Non-Commercial,,"University of Minnesota, USA",United States,MRC Clinical Trials Unit at UCL,Sarah Pett,90 High Holborn,London,WC1V 6LJ,United Kingdom,+44 20 7670 4700,s.pett@ucl.ac.uk,1,Test,No,No,,Remdesivir,Infusion,No,Intravenous use,Remdesivir (active drug Triphosphate),1809249-37-3,AS1,mg milligram(s),equal,Conc nos=5mg/mL,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Infusion,Intravenous use,COVID-19 (Coronavirus RNA),COVID-19 (A respiratory disease caused by a novel coronavirus),"Health Care [N] - Environment and Public Health [N06]
 MedDRA Classification",,20.0,LLT,10051905,Coronavirus infection,100000004862,No,"The primary objective is to compare the clinical status of patients in the remdesivir and N-saline placebo groups at Day 15 of follow-up using an ordinal outcome with 8 clinical states. Specifically, patients will be categorized into one of the following 8 mutually exclusive categories on Day 15:
 •	Death;
@@ -3571,75 +3640,6 @@ deficiency","1. Phase 2: Change in SpO2/FiO2 ratio from baseline  to  Day 15.
 6. Day 2,5,10
 7. Baseline to Day 30
 8. Baseline to Day 30",No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Standard of care,2,No,Yes,3,Yes,No,No,Yes,LVLS,,2,8,,2,8,No,,No,,No,,No,,No,,No,,No,,Yes,175,Yes,175,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,40,None,,Authorised,2020-04-02,Favourable,Reason(s) for unfavourable opinion:,2020-04-02,Prematurely Ended,,"PLAQUENIL 200 mg, comprimé pelliculé",SANOFI-AVENTIS FRANCE,France,,,3,,350,350,,,,SAR390530,SAR321068,HYDROXYCHLOROQUINE SULFATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,U1111-1249-6096,legally acceptable representative may provide informed consent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-06-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2020-004356-16,D8850C00002,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-10-12,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-004356-16/GB/,UK - MHRA,2020-004356-16,"A Phase III Randomized, Double-blind, Placebo-controlled, Multi-center Study in Adults to Determine the Safety and Efficacy of AZD7442, a Combination Product of Two Monoclonal Antibodies (AZD8895 and AZD1061), for Pre-exposure Prophylaxis of COVID-19","Phase III, double-blinded study using AZD7442 or Placebo for the prevention of COVID-19 disease in adults who have not been exposed to COVID-19 infection",Phase 3 Double-blind study of AZD7442 or Placebo for Pre-exposure Prophylaxis of COVID-19 in Adults,D8850C00002,,No,,AstraZeneca AB,Sweden,Commercial,,AstraZeneca AB,Sweden,AstraZeneca AB,Information Center,Södertälje,Södertälje,SE-151 85,Sweden,,Information.center@astrazeneca.com,1,Test,No,No,,,Solution for injection,No,Intramuscular use,AZD1061,2420563-99-9,AS1,mg/ml milligram(s)/millilitre,equal,100,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Solution for injection,Intramuscular use,COVID-19,COVID-19,"Diseases [C] - Respiratory Tract Diseases [C08]
-MedDRA Classification",,23.0,PT,10051905,Coronavirus infection,10021881 - Infections and infestations,No,"To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of COVID-19 through Day 183
-
-To assess the safety and tolerability of a single IM dose of AZD7442 compared to placebo.","Key Secondary
-To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of COVID-19 through Day 366
-
-Other Secondary 
-- To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of SARS-CoV-2 infection
-- To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of severe or critical symptomatic COVID-19
-- To estimate the efficacy of a single IM dose of AZD7442 compared to placebo for the prevention of COVID-19-related Emergency Department visits
-- To assess the pharmacokinetics of AZD7442 administered as a single dose of 300 mg IM
--To evaluate ADA responses to AZD7442 in serum",No,"1. Participant must be ≥ 18 years of age at the time of signing the informed consent.
-2. Candidate for benefit from passive immunization with antibodies, defined as:
-(a) Increased risk for inadequate response to active immunization (predicted poor
-responders to vaccines), defined as;
-o Elderly, ie, ≥ 60 years old
-o Obese, ie, BMI ≥ 30
-o Congestive heart failure
-o Chronic obstructive pulmonary disease
-o Chronic kidney disease, ie, GFR < 30 mL/min/1.73 m2
-o Chronic liver disease
-o Immunocompromised state from solid organ transplant, blood or bone marrow transplant, immune deficiencies, HIV, use of corticosteroids, or use of other immunosuppressive medicines.
-o Intolerant of vaccine. Defined as previous history of severe adverse event or serious adverse event after receiving any approved vaccine.
-(b) Increased risk for SARS-CoV-2 infection, defined as those whose locations or circumstances put them at appreciable risk of exposure to SARS-CoV-2 and COVID-19, based on available risk assessment at time of enrollment. Examples include:
-o Health care workers, including staff of long-term care facilities (including skilled nursing facilities, assisted living facilities, and independent living facilities for senior adults)
-o Workers in industrial settings shown to have been at high risk for SARS-COV-2 transmission, including but not limited to meatpacking plants
-o Military personnel residing or working in high density settings including but not limited to barracks, ships, or close-quarters working environments
-o Students living in dormitory settings
-o Others living in settings of similar close or high-density proximity
-3. Medically stable defined as disease not requiring significant change in therapy or hospitalization for worsening disease during the 1 month prior to enrollment, with no acute change in condition at the time of study enrollment as judged by the investigator.
-4. Negative result from point of care SARS-CoV-2 serology resting at screening.
-5. Contraceptive use by men or women:
-(a) Male Participants: Contraception for male participants is not required, however, to avoid the transfer of any fluids, all male participants must use a condom from Day 1 and agree to continue through 365 days following administration of the IMP.
-(b) Female Participants:
--Women not of childbearing potential are defined as women who are either permanently sterilized (hysterectomy, bilateral oophorectomy, or bilateral salpingectomy), or who are postmenopausal. Women will be considered postmenopausal if they have been amenorrhoeic for 12 months prior to the planned date of randomization without an alternative medical cause. The following agespecific requirements apply:
-o Women < 50 years old would be considered postmenopausal if they have been amenorrhoeic for 12 months or more following cessation of exogenous hormonal treatment and FSH levels in the postmenopausal range.
-o Women ≥ 50 years old would be considered postmenopausal if they have been amenorrhoeic for 12 months or more following cessation of all exogenous hormonal treatment.
-- Female participants of childbearing potential must use one highly effective form of birth control. A highly effective method of contraception is defined as one that can achieve a failure rate of less than 1% per year when used consistently and correctly. Women of childbearing potential who are sexually active with a non-sterilized male partner must agree to use one highly effective method of birth control, as defined in the protocol from Day 1 and agree to continue through 365 days following administration of the IMP. Cessation of contraception after this point should be discussed with a responsible physician. Periodic abstinence (calendar, symptothermal, post ovulation methods), withdrawal (coitus interruptus), spermicides only, and lactational amenorrhea method are not acceptable methods of contraception. Female condom and male condom should not be used together. All women of child bearing potential must have a negative serum pregnancy test result at Visit 1 and throughout the study as indicated per the SoA
-6. Able to understand and comply with study requirements/procedures (if applicable, with assistance by caregiver, surrogate, or legally authorized representative) based on the assessment of the investigator.
-7. If able, signed informed consent. Ensure that participants who are considered by the investigator clinically unable to consent at screening and who are entered into the study by the consent of a legally acceptable representative show evidence of assent, as applicable in accordance with local regulations.","1 Significant infection or other acute illness, including fever > 100°F (> 37.8°C) on the day
-prior to or day of randomization.
-2. History of laboratory-confirmed SARS-CoV-2 infection or any positive SARS-CoV-2 result based on available data at screening.
-3. History of infection with severe acute respiratory syndrome (SARS) or Middle East respiratory syndrome (MERS).
-4. Known history of allergy or reaction to any component of the study drug formulation.
-5. Previous hypersensitivity, infusion-related reaction, or severe adverse reaction following administration of a mAb.
-6. Any prior receipt of investigational or licensed vaccine or other mAb/biologic indicated for the prevention of SARS-CoV-2 or COVID-19 or expected receipt during the period of study follow-up.
-7. Clinically significant bleeding disorder (eg, factor deficiency, coagulopathy, or platelet disorder), or prior history of significant bleeding or bruising following IM injections or venepuncture.
-8. Any other significant disease, disorder, or finding that may significantly increase the risk to the participant because of participation in the study, affect the ability of the participant to participate in the study, or impair interpretation of the study data.
-9. Receipt of blood products or immunoglobulins, including mAbs, within 6 months, or 5 antibody half-lives if longer than 6 months, prior to screening
-10. Receipt of any IMP in the preceding 90 days or expected receipt of IMP during the period of study follow-up, or concurrent participation in another interventional study
-11. For women only - currently pregnant (confirmed with positive pregnancy test) or breast feeding.
-12. Blood drawn in excess of a total of 450 mL (1 unit) for any reason within 30 days prior to randomization.
-13. Employees of the Sponsor, clinical study site, or any other individuals involved with the conduct of the study, or immediate family members of such individuals.
-14. In nations, states, or other jurisdictions that for legal or ethical reasons bar the enrolment of participants who lack capacity to provide their own informed consent, such subjects are excluded.","The primary endpoint is the first case of SARS-CoV-2 RT-PCR-positive symptomatic illness occurring post dose of IMP through Day 183.
-
-For safety; AEs, SAEs, MAAEs, and AESIs through 365 days post dose of IMP.",Day 183,"Key Secondary endpoint;
--The key secondary endpoint is the incidence of the first case of SARS-CoV-2 RT-PCR-positive symptomatic illness through Day 366.
-
-Other Secondary endpoint;
-- The incidence of participants who have a post-treatment response (negative at baseline to positive at any time post-baseline) for SARS-CoV-2 Nucleocapsid antibodies.
-- The incidence of SARS-CoV-2 RT-PCR-positive severe or critical symptomatic illness occurring post dose.
-- The incidence of COVID-19-related Emergency Department visits occurring post dose.
--Serum AZD7442 concentrations.
--PK parameters if data permit.
--Incidence of ADA to AZD7442 in serum.",Day 366,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,,2,No,Yes,11,Yes,Yes,No,Yes,LVLS,1,2,0,1,2,0,No,0,No,0,No,0,No,0,No,0,No,0,No,0,Yes,2500,Yes,2500,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,1000,None since trial is evaluating a single dose of AZD7442 for pre-exposure prophylaxis.,1,Authorised,2020-10-28,Favourable,Reason(s) for unfavourable opinion:,2020-11-18,GB - no longer in EU/EEA,,,,,,,29,"Belgium
-France
-Spain
-United Kingdom
-United States",1500,5000,,,,AZD1061,AZD1061,monoclonal antibody (mAb),IND number 150712,2,Test,No,,,,No,,,Solution for injection,No,Intramuscular use,AZD8895,monoclonal antibody (mAb),AS2,mg/ml milligram(s)/millilitre,equal,100,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,,Participants clinically unable to consent at screening will be consented by a legally acceptable representative and show evidence of assent.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2420564-02-7,,,,,AZD8895,,AZD8895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-001517-21,I4V-MC-KHAA,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-06-08,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001517-21/GB/,UK - MHRA,2020-001517-21,"A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Phase 3 Study of Baricitinib in Patients with COVID-19 Infection",Baricitinib in Patients with COVID-19 Infection,COV-BARRIER,I4V-MC-KHAA,,No,,Eli Lilly and Company,United States,Commercial,,Eli Lilly and Company,United States,Eli Lilly,Clinical Trial Registry Office,"Lilly Corporate Center, DC 1526",Indianapolis,46285,United States,,EU_Lilly_Clinical_Trials@lilly.com,1,Test,Yes,No,,Olumiant,Film-coated tablet,No,Oral use,BARICITINIB,1187594-09-7,SUB180983,mg milligram(s),equal,2,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Film-coated tablet,Oral use,COVID-19 infection,COVID-19 infection,"Diseases [C] - Virus Diseases [C02]
 MedDRA Classification",,23.0,PT,10051905,Coronavirus infection,10021881 - Infections and infestations,No,To evaluate the effect of baricitinib 4 mg once daily (QD) compared to placebo on disease progression in patients with COVID-19 infection,To evaluate the effect of baricitinib 4 mg QD compared to placebo on clinical outcomes in patients with COVID-19 infection,No,"- Hospitalized with coronavirus (SARS-CoV-2) infection, confirmed by polymerase chain reaction (PCR) test or other commercial or public health assay in any specimen, as documented by either of the following:
 •  PCR positive in sample collected <72 hours prior to randomization; OR
@@ -3807,46 +3807,6 @@ Romania
 South Africa
 Ukraine
 United States",180,222,N/A,,,,TD-0903,TD-0903,MEU Solutions number MEUS 023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2020-001154-22,WA42380,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-03-31,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001154-22/GB/,UK - MHRA,2020-001154-22,"A RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, MULTICENTER STUDY TO EVALUATE THE SAFETY AND EFFICACY OF TOCILIZUMAB IN PATIENTS WITH SEVERE COVID-19 PNEUMONIA.",Tocilizumab plus background therapy versus placebo plus background therapy in patients with severe COVID-19 pneumonia.,,WA42380,NCT04320615,No,,F. Hoffmann-La Roche Ltd,Switzerland,Commercial,,BARDA,United States,F. Hoffmann-La Roche Ltd,Trial Information Support Line-TISL,Grenzacherstrasse 124,Basel,4070,Switzerland,,global.rochegenentechtrials@roche.com,1,Test,Yes,No,,,Concentrate for solution for infusion,No,Intravenous use,TOCILIZUMAB,375823-41-9,SUB20313,mg/ml milligram(s)/millilitre,equal,20,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Concentrate for solution for infusion,Intravenous use,Severe COVID-19 pneumonia,Severe COVID-19 pneumonia,"Diseases [C] - Respiratory Tract Diseases [C08]
-MedDRA Classification",,21.1,PT,10035737,Pneumonia viral,10021881 - Infections and infestations,No,"The primary objective for this study is to evaluate the efficacy, safety, pharmacokinetics and pharmacodynamics of TCZ compared with placebo in combination with SOC for the treatment of severe COVID-19 pneumonia","""Not applicable""",No,"- Age >= 18 years
-- Hospitalized with COVID-19 pneumonia confirmed per a positive PCR of any specimen (e.g., respiratory, blood, urine, stool, other bodily fluid)
-and evidenced by chest X-ray or CT scan
-- SpO2 <= 93% or PaO2/FiO2 < 300 mmHg.","- Known severe allergic reactions to TCZ or other monoclonal antibodies
-- Active TB infection 
-- Suspected active bacterial, fungal, viral, or other infection (besides COVID-19)
-- In the opinion of the investigator, progression to death is imminent and inevitable within the next 24 hours, irrespective of the provision of treatments
-- Have received oral anti-rejection or immunomodulatory drugs (including tocilizumab) within past 3 months
-- Pregnant or lactating women
-- Participating in other drug clinical trials (with possible exception of anti-viral trials)
-- ANC < 1000/mm3
-- Platelet count < 50,000/mm3
-- ALT or AST > 10 x ULN
-- Treatment with an investigational drug within 5 half-lives or 30 days
-- Any serious medical condition or abnormality of clinical laboratory tests that, in the investigator’s judgment, precludes the patient’s safe participation in and completion of the study.",The primary efficacy endpoint is Clinical status assessed using a 7-category ordinal scale.,at Day 28,"The secondary efficacy endpoints are:
-1. Time to clinical improvement
-2. Time to improvement of at least 2 categories relative to baseline on a
-7-category ordinal scale of clinical status
-3. Incidence of mechanical ventilation
-4. Ventilator-free days
-5. Incidence of intensive care unit (ICU) stay
-6. Duration of ICU stay
-7. Time to clinical failure
-8. Mortality rate
-9. Time to hospital discharge or ""ready for discharge""
-10. Duration of supplemental oxygen.",throughout the trial up to Day 60.,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,,2,No,Yes,6,Yes,Yes,No,Yes,"The end of this study is defined as the date when the last patient, last visit (LPLV) occurs or the date at which the last data point required for statistical analysis or safety follow-up is received from the last patient, whichever occurs later.  
-In addition, the Sponsor may decide to terminate the study at any time.",,6,,,6,,No,,No,,No,,No,,No,,No,,No,,Yes,70,Yes,260,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,30,"Since the tocilizumab treatment is not intended for continued therapy, the Sponsor does not have any plans to provide Roche tocilizumab or any other study treatments to patients who have completed the study. The Roche Global Policy on Continued Access to Investigational Medicinal Product is available at the following website:
-http://www.roche.com/policy_continued_access_to_investigational_medicines.pdf",,Authorised,2020-03-27,Favourable,Reason(s) for unfavourable opinion:,2020-04-01,GB - no longer in EU/EEA,,Actemra®/ RoActemra®,Roche Registration GmbH,European Union,,,40,"Canada
-Denmark
-France
-Germany
-Ireland
-Italy
-Netherlands
-Spain
-Sweden
-Switzerland
-United Kingdom
-United States",200,330,,,,RO4877533/F03-01,RO4877533,TOCILIZUMAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"For patients with severe/critical COVID-19 pneumonia, they may not be able to sign by themselves.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-002632-75,CLI-050000-04,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-06-01,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002632-75/GB/,UK - MHRA,2020-002632-75,"Multicenter, open-label, randomised trial to assess the efficacy and tolerability of poractant alfa (porcine surfactant, Curosurf®) in hospitalized patients with SARS-COV-19 acute respiratory distress syndrome (ARDS)","Trial to be conducted in more sites, with drug known to both patient and Investigator, in which patients will be assigned randomly to receive the drug or not in order to assess the efficacy and tolerability of the drug (porcine surfactant, Curosurf®) in hospitalized patients with SARS-COV-19 (COVID-19 INFECTION) acute respiratory distress syndrome",COVID19 - Curosurf_ARDS_COV19,CLI-050000-04,,No,,CHIESI FARMACEUTICI S.p.A,Italy,Commercial,,,,,,,,,,,,1,Test,Yes,No,,CUROSURF®,Suspension for injection,Yes,Endotracheopulmonary use,,,,,,,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,,,patients with SARS-COV-19 acute respiratory distress syndrome (ARDS),patients with COVID-19 infection and acute respiratory distress syndrome,"Diseases [C] - Virus Diseases [C02]
 MedDRA Classification",,,,,,,No,"To evaluate the efficacy of the investigational drug Curosurf®, administered by
 endotracheal (ET) instillation in terms of ventilatory free days in adult patients with Acute Respiratory Distress Syndrome (ARDS) due to 2019-nCoV infection.
@@ -4008,6 +3968,46 @@ Brazil
 France
 United Kingdom
 United States",200,465,,,,BIO101,BIO101,20-hydroxyecdysone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tolerability,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-001154-22,WA42380,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-03-31,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001154-22/GB/,UK - MHRA,2020-001154-22,"A RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, MULTICENTER STUDY TO EVALUATE THE SAFETY AND EFFICACY OF TOCILIZUMAB IN PATIENTS WITH SEVERE COVID-19 PNEUMONIA.",Tocilizumab plus background therapy versus placebo plus background therapy in patients with severe COVID-19 pneumonia.,,WA42380,NCT04320615,No,,F. Hoffmann-La Roche Ltd,Switzerland,Commercial,,BARDA,United States,F. Hoffmann-La Roche Ltd,Trial Information Support Line-TISL,Grenzacherstrasse 124,Basel,4070,Switzerland,,global.rochegenentechtrials@roche.com,1,Test,Yes,No,,,Concentrate for solution for infusion,No,Intravenous use,TOCILIZUMAB,375823-41-9,SUB20313,mg/ml milligram(s)/millilitre,equal,20,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Concentrate for solution for infusion,Intravenous use,Severe COVID-19 pneumonia,Severe COVID-19 pneumonia,"Diseases [C] - Respiratory Tract Diseases [C08]
+MedDRA Classification",,21.1,PT,10035737,Pneumonia viral,10021881 - Infections and infestations,No,"The primary objective for this study is to evaluate the efficacy, safety, pharmacokinetics and pharmacodynamics of TCZ compared with placebo in combination with SOC for the treatment of severe COVID-19 pneumonia","""Not applicable""",No,"- Age >= 18 years
+- Hospitalized with COVID-19 pneumonia confirmed per a positive PCR of any specimen (e.g., respiratory, blood, urine, stool, other bodily fluid)
+and evidenced by chest X-ray or CT scan
+- SpO2 <= 93% or PaO2/FiO2 < 300 mmHg.","- Known severe allergic reactions to TCZ or other monoclonal antibodies
+- Active TB infection 
+- Suspected active bacterial, fungal, viral, or other infection (besides COVID-19)
+- In the opinion of the investigator, progression to death is imminent and inevitable within the next 24 hours, irrespective of the provision of treatments
+- Have received oral anti-rejection or immunomodulatory drugs (including tocilizumab) within past 3 months
+- Pregnant or lactating women
+- Participating in other drug clinical trials (with possible exception of anti-viral trials)
+- ANC < 1000/mm3
+- Platelet count < 50,000/mm3
+- ALT or AST > 10 x ULN
+- Treatment with an investigational drug within 5 half-lives or 30 days
+- Any serious medical condition or abnormality of clinical laboratory tests that, in the investigator’s judgment, precludes the patient’s safe participation in and completion of the study.",The primary efficacy endpoint is Clinical status assessed using a 7-category ordinal scale.,at Day 28,"The secondary efficacy endpoints are:
+1. Time to clinical improvement
+2. Time to improvement of at least 2 categories relative to baseline on a
+7-category ordinal scale of clinical status
+3. Incidence of mechanical ventilation
+4. Ventilator-free days
+5. Incidence of intensive care unit (ICU) stay
+6. Duration of ICU stay
+7. Time to clinical failure
+8. Mortality rate
+9. Time to hospital discharge or ""ready for discharge""
+10. Duration of supplemental oxygen.",throughout the trial up to Day 60.,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,,2,No,Yes,6,Yes,Yes,No,Yes,"The end of this study is defined as the date when the last patient, last visit (LPLV) occurs or the date at which the last data point required for statistical analysis or safety follow-up is received from the last patient, whichever occurs later.  
+In addition, the Sponsor may decide to terminate the study at any time.",,6,,,6,,No,,No,,No,,No,,No,,No,,No,,Yes,70,Yes,260,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,30,"Since the tocilizumab treatment is not intended for continued therapy, the Sponsor does not have any plans to provide Roche tocilizumab or any other study treatments to patients who have completed the study. The Roche Global Policy on Continued Access to Investigational Medicinal Product is available at the following website:
+http://www.roche.com/policy_continued_access_to_investigational_medicines.pdf",,Authorised,2020-03-27,Favourable,Reason(s) for unfavourable opinion:,2020-04-01,GB - no longer in EU/EEA,,Actemra®/ RoActemra®,Roche Registration GmbH,European Union,,,40,"Canada
+Denmark
+France
+Germany
+Ireland
+Italy
+Netherlands
+Spain
+Sweden
+Switzerland
+United Kingdom
+United States",200,330,,,,RO4877533/F03-01,RO4877533,TOCILIZUMAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"For patients with severe/critical COVID-19 pneumonia, they may not be able to sign by themselves.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-001411-25,XPORT-COV-1001,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-04-06,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001411-25/GB/,UK - MHRA,2020-001411-25,A Phase 2 Randomized Single-Blind Study to Evaluate the Activity and Safety of Low Dose Oral Selinexor (KPT-330) in Patients with Severe COVID-19 Infection,Low Dose Oral Selinexor in Patients with Severe COVID-19 Infection,Low Dose Oral Selinexor in Patients with Severe COVID-19 Infection,XPORT-COV-1001,,No,,Karyopharm Therapeutics Inc.,United States,Commercial,,Karyopharm Therapeutics Inc.,United States,Karyopharm Therapeutics Inc.,Clinical Trial Information Desk,85 Wells Ave,Newton,MA 02459,United States,,clinicaltrials@karyopharm.com,1,Test,No,No,,Selinexor,Film-coated tablet,No,Oral use,Selinexor,1393477-72-9,SUB177942,mg milligram(s),equal,20,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Film-coated tablet,Oral use,Severe COVID-19 Infection,Severe infection caused by a novel coronavirus COVID-19,"Diseases [C] - Virus Diseases [C02]
 MedDRA Classification",,23.0,PT,10051905,Coronavirus infection,10021881 - Infections and infestations,No,"Day 14 Ordinal Scale improvement
 (OSI)","Key Secondary Objectives:
@@ -4091,6 +4091,33 @@ Malaysia
 Spain
 United Kingdom
 United States",130,300,,,,"KPT-330, XPOVIO",KPT-330,SELINEXOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Patient in emergency situation due to COVID-19 infection and consent is not able to be obtained.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-002069-21,D5180C00013,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2018-09-11,https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-002069-21/GB/,UK - MHRA,2018-002069-21,"A Phase 2, Randomized, Double-blind, Parallel Group, Placebo Controlled Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with Inadequately Controlled Asthma on Inhaled Corticosteroids and at least one additional asthma controller (CASCADE)",A Phase 2 Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with uncontrolled asthma,CASCADE,D5180C00013,NCT03688074,No,,AstraZeneca AB,Sweden,Commercial,,Amgen,United States,,,,,,,,information.center@astrazeneca.com,1,Test,No,No,,Tezepelumab,Solution for injection,No,Subcutaneous use,Tezepelumab,1572943-04-4,,mg/ml milligram(s)/millilitre,range,99 to 121,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Solution for injection,Subcutaneous use,Severe Asthma,Asthma,"Diseases [C] - Respiratory Tract Diseases [C08]
+MedDRA Classification",,20.0,PT,10003553,Asthma,"10038738 - Respiratory, thoracic and mediastinal disorders",No,To explore the airway anti-inflammatory effect of tezepelumab,"1. To explore the effect of tezepelumab on reticular basement membrane (RBM) thickening
+2.  To explore the effect of tezepelumab on airway epithelial integrity
+3.  To explore the airway anti-inflammatory effect of tezepelumab across the spectrum of T2 status by three gene mean derived from epithelial brushing RNA transcriptomics",Yes,"- Subject must be 18 to 75 years of age
+ - Documented physician-diagnosed asthma for at least 12 months
+ - Subjects who have received a physician- prescribed asthma controller medication with medium or high dose ICS for at least 12 months; must be stable for at least 3 months prior to screening visit
+- At least one additional maintenance asthma controller medication is required according to standard practice of care and must be documented for at least 3 months
+-At enrolment, the subject must have a predicted normal value for the morning pre-bronchodilator FEV1>50% and more than 1L
+- Evidence of asthma as documented by reversibility of FEV1 ≥12% and ≥200 mL in the previous 12 months prior to screening, or during the screening period prior to randomization
+- ACQ-6 score ≥ 1.5 during the screening period prior to randomization","- Any clinically important pulmonary disease other than asthma.
+- History of cancer.
+- Hospitalization or required OCS for asthma exacerbation within 6 weeks of enrolment or >3 exacerbations requiring OCS or hospitalization in the year prior to visit 1 or who had been intubated or admitted to ICU for asthma exacerbation in the year prior to enrolment.
+- History of a clinically significant infection, including upper (URTI) or lower respiratory tract infection (LRTI), requiring treatment with antibiotics or antiviral medications finalized <2 weeks before visit 1 or during the run-in period.
+- Current smokers or subjects with smoking history ≥10 pack-yrs, including e-cigarettes.  Former smokers with a smoking history of <10 pack-yrs must have stopped for at least 6 months prior to visit 1, including e-cigarette use.
+- History of chronic alcohol or drug abuse within 12 months prior to visit 1.
+- Tuberculosis requiring treatment within 12 months prior to visit 1.
+- History of known immunodeficiency disorder including a positive HIV test at visit 1, or the subject is taking antiretroviral medications as determined by medical history and/or subject's verbal report.
+- History of anaphylaxis or documented immune complex disease (type III hypersensitivity reactions) following any biologic therapy.
+- Subject randomized in a previous Tezepelumab study or in a current study with another investigational product.",The change from baseline in number of airway submucosal inflammatory cells/mm2 of bronchoscopic biopsies.,"Baseline, End of Treatment (EoT). The EoT will be performed at Week 28 for the majority of subjects but may be performed at later timepoints for some subjects (Week 32, etc) due to up to 6 additional doses added during the Covid-19 pandemic.","1.  The change in reticular basement membrane (RBM) thickness from baseline, determined by microscopic evaluation of bronchoscopic biopsies
+ 
+2.  The change in % airway epithelial integrity from baseline determined by microscopic evaluation of bronchoscopic biopsies 
+
+3.  The change in number of airway submucosal inflammatory cells per mm2 from baseline, across the spectrum of T2 status, determined by microscopic evaluation of bronchoscopic biopsies","Baseline, End of Treatment (EoT). The EoT will be performed at Week 28 for the majority of subjects but may be performed at later timepoints for some subjects (Week 32, etc) due to up to 6 additional doses added during the Covid-19 pandemic.",No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,,2,No,Yes,6,Yes,Yes,No,Yes,LSLV,1,11,25,2,3,0,No,,No,,No,,No,,No,,No,,No,,Yes,100,Yes,10,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,75,None,,Authorised,2018-10-04,Favourable,Reason(s) for unfavourable opinion:,2018-12-17,GB - no longer in EU/EEA,,,,,Airway hyper-responsiveness - to explore the effect of tezepelumab on lung function and bronchial hyper-responsiveness.,,17,"Canada
+Denmark
+Germany
+United Kingdom
+United States",75,110,,,,MEDI9929 anti-TSLP mAb (AMG157),MEDI9929,AMG 157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-003278-37,INSIGHT014,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-08-14,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-003278-37/GB/,UK - MHRA,2020-003278-37,"A Multicentre, Adaptive, Randomised, Blinded Controlled Trial 
 of the Safety and Efficacy of Investigational Therapeutics
 for Hospitalised Patients with COVID-19
@@ -4247,33 +4274,6 @@ Switzerland
 Uganda
 United Kingdom
 United States",200,1000,Medical Research Council Clinical Trials Unit at University College London,United Kingdom,02076704818,SUB127300,,,,2,Test,Yes,Remdesivir,,United States,No,,Remdesivir,Infusion,No,Intravenous use,Remdesivir (active drug Triphosphate),N/A,AS1,mg milligram(s),equal,Conc nos=5mg/mL,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,Hospitalised inpatients who are incapacitated according to local standards and policies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1809249-37-3,,,,,GS-5734,,SUB195655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Synthetically made product, modelled from a human antibody",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2018-002069-21,D5180C00013,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2018-09-11,https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-002069-21/GB/,UK - MHRA,2018-002069-21,"A Phase 2, Randomized, Double-blind, Parallel Group, Placebo Controlled Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with Inadequately Controlled Asthma on Inhaled Corticosteroids and at least one additional asthma controller (CASCADE)",A Phase 2 Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with uncontrolled asthma,CASCADE,D5180C00013,NCT03688074,No,,AstraZeneca AB,Sweden,Commercial,,Amgen,United States,,,,,,,,information.center@astrazeneca.com,1,Test,No,No,,Tezepelumab,Solution for injection,No,Subcutaneous use,Tezepelumab,1572943-04-4,,mg/ml milligram(s)/millilitre,range,99 to 121,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Solution for injection,Subcutaneous use,Severe Asthma,Asthma,"Diseases [C] - Respiratory Tract Diseases [C08]
-MedDRA Classification",,20.0,PT,10003553,Asthma,"10038738 - Respiratory, thoracic and mediastinal disorders",No,To explore the airway anti-inflammatory effect of tezepelumab,"1. To explore the effect of tezepelumab on reticular basement membrane (RBM) thickening
-2.  To explore the effect of tezepelumab on airway epithelial integrity
-3.  To explore the airway anti-inflammatory effect of tezepelumab across the spectrum of T2 status by three gene mean derived from epithelial brushing RNA transcriptomics",Yes,"- Subject must be 18 to 75 years of age
- - Documented physician-diagnosed asthma for at least 12 months
- - Subjects who have received a physician- prescribed asthma controller medication with medium or high dose ICS for at least 12 months; must be stable for at least 3 months prior to screening visit
-- At least one additional maintenance asthma controller medication is required according to standard practice of care and must be documented for at least 3 months
--At enrolment, the subject must have a predicted normal value for the morning pre-bronchodilator FEV1>50% and more than 1L
-- Evidence of asthma as documented by reversibility of FEV1 ≥12% and ≥200 mL in the previous 12 months prior to screening, or during the screening period prior to randomization
-- ACQ-6 score ≥ 1.5 during the screening period prior to randomization","- Any clinically important pulmonary disease other than asthma.
-- History of cancer.
-- Hospitalization or required OCS for asthma exacerbation within 6 weeks of enrolment or >3 exacerbations requiring OCS or hospitalization in the year prior to visit 1 or who had been intubated or admitted to ICU for asthma exacerbation in the year prior to enrolment.
-- History of a clinically significant infection, including upper (URTI) or lower respiratory tract infection (LRTI), requiring treatment with antibiotics or antiviral medications finalized <2 weeks before visit 1 or during the run-in period.
-- Current smokers or subjects with smoking history ≥10 pack-yrs, including e-cigarettes.  Former smokers with a smoking history of <10 pack-yrs must have stopped for at least 6 months prior to visit 1, including e-cigarette use.
-- History of chronic alcohol or drug abuse within 12 months prior to visit 1.
-- Tuberculosis requiring treatment within 12 months prior to visit 1.
-- History of known immunodeficiency disorder including a positive HIV test at visit 1, or the subject is taking antiretroviral medications as determined by medical history and/or subject's verbal report.
-- History of anaphylaxis or documented immune complex disease (type III hypersensitivity reactions) following any biologic therapy.
-- Subject randomized in a previous Tezepelumab study or in a current study with another investigational product.",The change from baseline in number of airway submucosal inflammatory cells/mm2 of bronchoscopic biopsies.,"Baseline, End of Treatment (EoT). The EoT will be performed at Week 28 for the majority of subjects but may be performed at later timepoints for some subjects (Week 32, etc) due to up to 6 additional doses added during the Covid-19 pandemic.","1.  The change in reticular basement membrane (RBM) thickness from baseline, determined by microscopic evaluation of bronchoscopic biopsies
- 
-2.  The change in % airway epithelial integrity from baseline determined by microscopic evaluation of bronchoscopic biopsies 
-
-3.  The change in number of airway submucosal inflammatory cells per mm2 from baseline, across the spectrum of T2 status, determined by microscopic evaluation of bronchoscopic biopsies","Baseline, End of Treatment (EoT). The EoT will be performed at Week 28 for the majority of subjects but may be performed at later timepoints for some subjects (Week 32, etc) due to up to 6 additional doses added during the Covid-19 pandemic.",No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,,2,No,Yes,6,Yes,Yes,No,Yes,LSLV,1,11,25,2,3,0,No,,No,,No,,No,,No,,No,,No,,Yes,100,Yes,10,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,75,None,,Authorised,2018-10-04,Favourable,Reason(s) for unfavourable opinion:,2018-12-17,GB - no longer in EU/EEA,,,,,Airway hyper-responsiveness - to explore the effect of tezepelumab on lung function and bronchial hyper-responsiveness.,,17,"Canada
-Denmark
-Germany
-United Kingdom
-United States",75,110,,,,MEDI9929 anti-TSLP mAb (AMG157),MEDI9929,AMG 157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-000842-32,GS-US-540-5774,UK - MHRA,EEA CTA,Completed,2020-03-20,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000842-32/GB/,UK - MHRA,2020-000842-32,A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants with Moderate  COVID-19 Compared to Standard of Care Treatment,This study will test a drug named remdesivir (GS-5734™) to evaluate the safety and effectiveness of the drug in treating patients with moderate coronavirus disease 2019 (COVID-19) compared to standard of care treatment.,,GS-US-540-5774,,No,,"Gilead Sciences, Inc.",United States,Commercial,,"Gilead Sciences, Inc.",United States,Gilead Sciences International Ltd.,Clinical Trials Mailbox,"Flowers Building, Granta Park","Great Abington, Cambridge",CB21 6GT,United Kingdom,+441223897284,clinical.trials@gilead.com,1,Test,No,No,,Remdesivir,Lyophilisate for solution for infusion,No,Intravenous use,REMDESIVIR,,SUB195655,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,Coronavirus disease 2019 (COVID-19),Coronavirus disease 2019 (COVID-19),"Diseases [C] - Virus Diseases [C02]
 MedDRA Classification",,23.0,PT,10051905,Coronavirus infection,10021881 - Infections and infestations,No,"To evaluate the efficacy of 2 remdesivir (RDV) regimens compared to standard of care (SOC), with respect to clinical status assessed by a 7-point ordinal scale on Day 11",To evaluate the safety and tolerability of RDV compared to SOC,No,"1) Willing and able to provide written informed consent (participants ≥ 18 years of age) or assent (participants ≥ 12 and < 18 years of age, where locally and nationally approved) prior to performing study procedures. For participants ≥ 12 and < 18 years of age, a parent or legal guardian willing and able to provide written informed consent prior to performing study procedures
 2) Aged ≥ 18 years (at all sites), or aged ≥ 12 and < 18 years of age weighing ≥ 40 kg (where permitted according to local law and approved nationally and by the relevant IRB/IEC)
@@ -4304,37 +4304,6 @@ Switzerland
 Taiwan
 United Kingdom
 United States",700,1600,,,,GS-5734,GS-5734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Participants ≥ 12 and < 18 years of age where a parent or legal guardian is willing and able to provide written informed consent (where locally and nationally approved),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Men of childbearing potential who engage in heterosexual intercourse using contraception,2020-06-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2020-000841-15,GS-US-540-5773,UK - MHRA,EEA CTA,Completed,2020-03-20,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000841-15/GB/,UK - MHRA,2020-000841-15,A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants with Severe COVID-19,This study will test a drug named remdesivir (GS-5734™) to evaluate the safety and effectiveness of the drug in treating patients with severe coronavirus disease 2019 (COVID-19).,,GS-US-540-5773,,No,,"Gilead Sciences, Inc.",United States,Commercial,,"Gilead Sciences, Inc.",United States,Gilead Sciences International Ltd.,Clinical Trials Mailbox,"Flowers Building, Granta Park","Great Abington, Cambridge",CB21 6GT,United Kingdom,+441223897284,clinical.trials@gilead.com,1,Test,No,No,,Remdesivir,Lyophilisate for solution for infusion,No,Intravenous use,REMDESIVIR,,SUB195655,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,Coronavirus disease 2019 (COVID-19),Coronavirus disease 2019 (COVID-19),"Diseases [C] - Virus Diseases [C02]
-MedDRA Classification",,20.0,LLT,10051905,Coronavirus infection,100000004862,No,To evaluate the efficacy of 2 remdesivir (RDV) regimens with respect to clinical status assessed by a 7-point ordinal scale on Day 14,To evaluate the safety and tolerability of RDV,No,"1) Willing and able to provide written informed consent, or with a legal representative who can provide informed consent, or enrolled under ICH
-E6(R2) 4.8.15 emergency use provisions as deemed necessary by the investigator (participants ≥ 18 years of age), or willing and able to provide or assent (participants ≥ 12 and < 18 years of age, where locally and nationally approved) prior to performing study procedures. For participants ≥ 12 and < 18 years of age, a parent or legal guardian willing and able to provide written informed consent prior to performing study procedures
-2) Aged ≥ 18 years (at all sites), or aged ≥ 12 and < 18 years of age weighing ≥ 40 kg (where permitted according to local law and approved nationally and by the relevant institutional review board [IRB] or independent ethics committee [IEC])
-3) SARS-CoV-2 infection confirmed by PCR ≤ 4 days before randomization
-4) Currently hospitalized 
-5) SpO2 > 94% on room air or requiring supplemental oxygen at screening
-6) Radiographc evidence of pulmonary infiltrates
-7) Men and women of childbearing potential who engage in heterosexual intercourse must agree to use protocol specified method(s) of contraception as described in Protocol Appendix 3.","1) Participation in any other clinical trial of an experimental treatment for COVID-19
-2) Concurrent treatment with other agents with actual or possible direct acting antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing
-3) Evidence of multiorgan failure
-4) Mechanically ventilated (including V-V ECMO) ≥ 5 days, or any duration of V-A ECMO.
-5) ALT or AST > 5 x upper limit of normal (ULN)
-6) Creatinine clearance < 50 mL/min using the Cockcroft-Gault formula for participants ≥ 18 years of age {Cockcroft 1976} and Schwartz Formula for participants < 18 years of age
-7) Positive pregnancy test (Protocol; Appendix 3)
-8) Breastfeeding woman
-9) Known hypersensitivity to the study drug, the metabolites, or formulation excipient",Clinical status assessed by a 7-point ordinal scale on Day 14,Day 14,The proportion of participants with treatment emergent adverse events,From initiation of study medication until Day 14,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,,4,No,Yes,15,Yes,Yes,No,Yes,LVLS,,4,,,4,,Yes,250,No,,No,,No,,No,,No,,Yes,250,Yes,1500,Yes,4250,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,300,The long-term care of the participant will remain the responsibility of their primary treating physician. Remdesivir is being supplied with curative intent. There is no provision for post-study availability.,,Authorised,2020-03-23,Favourable,Reason(s) for unfavourable opinion:,2020-03-25,Completed,,,,,,Two part open-label study; each part consists of two treatment groups,44,"China
-France
-Germany
-Hong Kong
-Italy
-Japan
-Korea, Republic of
-Netherlands
-Singapore
-Spain
-Sweden
-Switzerland
-Taiwan
-United Kingdom
-United States",2750,6000,,,,GS-5734,GS-5734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Participants ≥ 12 and < 18 years of age where a parent or legal guardian is willing and able to provide written informed consent (where locally and nationally approved),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Men of childbearing potential who engage in heterosexual intercourse using contraception,2020-06-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-002979-35,209348,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-11-13,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002979-35/GB/,UK - MHRA,2020-002979-35,"A Phase IIb Multi-Center, Randomised, Open Label Study to Assess the Efficacy and Safety of Sequential Treatment with GSK3228836 followed by Pegylated Interferon Alpha 2a in Participants with Chronic Hepatitis B Virus (B-Together)",Phase IIb Study of Sequential GSK3228836 and Peginterferon Treatment in Participants with Chronic Hepatitis B (B-Together),,209348,,No,,GlaxoSmithKline Research & Development Limited,United Kingdom,Commercial,,GlaxoSmithKline Research & Development Limited,United Kingdom,GlaxoSmithKline Research & Development Ltd,GSK Clinical Trials Help Desk,980 Great West Road,"Brentford, Middlesex",TW8 9GS,United Kingdom,+44 208 990 9733,GSKClinicalSupportHD@gsk.com,1,Test,No,No,,GSK3228836,Solution for injection,No,Subcutaneous use,bepirovirsen,1403787-62-1,,mg/ml milligram(s)/millilitre,equal,150,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,Chronic Hepatitis B,Hepatitis B,"Diseases [C] - Virus Diseases [C02]
 MedDRA Classification",,20.1,PT,10008910,Chronic hepatitis B,10021881 - Infections and infestations,No,Efficacy: To investigate the efficacy of two different durations of GSK3228836 followed by up to 24 weeks of PegIFN therapy in participants with CHB on stable NA therapy,"Efficacy: To assess the efficacy of GSK3228836 and PegIFN sequential therapy on biomarkers and virus specific antibody responses
 
@@ -4487,6 +4456,37 @@ South Africa
 Spain
 United Kingdom
 United States",38,100,,,Not Applicable,GSK3228836,,GSK3228836A,B-Together  B-Together,2,Comparator,Yes,Pegasys®,Roche Pharma AG,Germany,No,,Pegylated-interferon alpha-2a,Solution for injection in pre-filled syringe,No,Subcutaneous use,PEGINTERFERON ALFA-2A,,SUB16452MIG,µg/ml microgram(s)/millilitre,equal,360,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,198153-51-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-000841-15,GS-US-540-5773,UK - MHRA,EEA CTA,Completed,2020-03-20,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000841-15/GB/,UK - MHRA,2020-000841-15,A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants with Severe COVID-19,This study will test a drug named remdesivir (GS-5734™) to evaluate the safety and effectiveness of the drug in treating patients with severe coronavirus disease 2019 (COVID-19).,,GS-US-540-5773,,No,,"Gilead Sciences, Inc.",United States,Commercial,,"Gilead Sciences, Inc.",United States,Gilead Sciences International Ltd.,Clinical Trials Mailbox,"Flowers Building, Granta Park","Great Abington, Cambridge",CB21 6GT,United Kingdom,+441223897284,clinical.trials@gilead.com,1,Test,No,No,,Remdesivir,Lyophilisate for solution for infusion,No,Intravenous use,REMDESIVIR,,SUB195655,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,Coronavirus disease 2019 (COVID-19),Coronavirus disease 2019 (COVID-19),"Diseases [C] - Virus Diseases [C02]
+MedDRA Classification",,20.0,LLT,10051905,Coronavirus infection,100000004862,No,To evaluate the efficacy of 2 remdesivir (RDV) regimens with respect to clinical status assessed by a 7-point ordinal scale on Day 14,To evaluate the safety and tolerability of RDV,No,"1) Willing and able to provide written informed consent, or with a legal representative who can provide informed consent, or enrolled under ICH
+E6(R2) 4.8.15 emergency use provisions as deemed necessary by the investigator (participants ≥ 18 years of age), or willing and able to provide or assent (participants ≥ 12 and < 18 years of age, where locally and nationally approved) prior to performing study procedures. For participants ≥ 12 and < 18 years of age, a parent or legal guardian willing and able to provide written informed consent prior to performing study procedures
+2) Aged ≥ 18 years (at all sites), or aged ≥ 12 and < 18 years of age weighing ≥ 40 kg (where permitted according to local law and approved nationally and by the relevant institutional review board [IRB] or independent ethics committee [IEC])
+3) SARS-CoV-2 infection confirmed by PCR ≤ 4 days before randomization
+4) Currently hospitalized 
+5) SpO2 > 94% on room air or requiring supplemental oxygen at screening
+6) Radiographc evidence of pulmonary infiltrates
+7) Men and women of childbearing potential who engage in heterosexual intercourse must agree to use protocol specified method(s) of contraception as described in Protocol Appendix 3.","1) Participation in any other clinical trial of an experimental treatment for COVID-19
+2) Concurrent treatment with other agents with actual or possible direct acting antiviral activity against SARS-CoV-2 < 24 hours prior to study drug dosing
+3) Evidence of multiorgan failure
+4) Mechanically ventilated (including V-V ECMO) ≥ 5 days, or any duration of V-A ECMO.
+5) ALT or AST > 5 x upper limit of normal (ULN)
+6) Creatinine clearance < 50 mL/min using the Cockcroft-Gault formula for participants ≥ 18 years of age {Cockcroft 1976} and Schwartz Formula for participants < 18 years of age
+7) Positive pregnancy test (Protocol; Appendix 3)
+8) Breastfeeding woman
+9) Known hypersensitivity to the study drug, the metabolites, or formulation excipient",Clinical status assessed by a 7-point ordinal scale on Day 14,Day 14,The proportion of participants with treatment emergent adverse events,From initiation of study medication until Day 14,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,,4,No,Yes,15,Yes,Yes,No,Yes,LVLS,,4,,,4,,Yes,250,No,,No,,No,,No,,No,,Yes,250,Yes,1500,Yes,4250,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,300,The long-term care of the participant will remain the responsibility of their primary treating physician. Remdesivir is being supplied with curative intent. There is no provision for post-study availability.,,Authorised,2020-03-23,Favourable,Reason(s) for unfavourable opinion:,2020-03-25,Completed,,,,,,Two part open-label study; each part consists of two treatment groups,44,"China
+France
+Germany
+Hong Kong
+Italy
+Japan
+Korea, Republic of
+Netherlands
+Singapore
+Spain
+Sweden
+Switzerland
+Taiwan
+United Kingdom
+United States",2750,6000,,,,GS-5734,GS-5734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Participants ≥ 12 and < 18 years of age where a parent or legal guardian is willing and able to provide written informed consent (where locally and nationally approved),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Men of childbearing potential who engage in heterosexual intercourse using contraception,2020-06-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-004743-83,SG018,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-10-26,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-004743-83/GB/,UK - MHRA,2020-004743-83,"A randomised, double-blind, placebo-controlled, Phase III trial to determine the efficacy and safety of inhaled SNG001 for the treatment of patients hospitalised due to moderate COVID-19",A trial of an inhaled antiviral drug to treat or prevent severe respiratory difficulties in patients hospitalised with moderate COVID-19,Phase III trial of inhaled anti-viral (SNG001) for SARS-CoV-2,SG018,,No,,Synairgen Research Limited,United Kingdom,Commercial,,Synairgen Research Ltd,United Kingdom,Synairgen Research Ltd,Sophie Hemmings,"Mail Point 810, Level F, Southampton General Hospital","Tremona Road, Southampton",SO16 6YD,United Kingdom,02380512800,Sophie.Hemmings@synairgen.com,1,Test,No,No,,Interferon beta-1a (IFN-β1a),Inhalation solution,No,Inhalation use,Interferon beta-1a,,AS1,million IU million international units,equal,12,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Nebuliser solution,Inhalation use,COVID-19,Lung disease caused by the new coronavirus,"Diseases [C] - Virus Diseases [C02]
 MedDRA Classification",,23.0,PT,10051905,Coronavirus infection,10021881 - Infections and infestations,No,To evaluate recovery in patients with moderate COVID-19 after administration of SNG001 compared to placebo.,"To evaluate the efficacy of SNG001 compared to placebo in patients with moderate COVID-19, using a range of endpoints.
 
@@ -4828,87 +4828,6 @@ Switzerland
 United Kingdom
 United States",649,1100,,,,Ro 723-4292/F02,RO7234292/F02,"RG6042, formerly ISIS 443139, IONIS-HTTRx",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PD Biomarker effects
 Immunogenicity",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,modified antisense oligonucleotide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2015-002340-14,,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2018-07-04,https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-002340-14/GB/,UK - MHRA,2015-002340-14,"Randomized, Embedded, Multifactorial, Adaptive Platform trial for Community-Acquired Pneumonia (COVID-19)","REMAP-CAP: Randomised, Embedded, Multi-factorial Adaptive Platform Trial for community acquired pneumonia (COVID-19)",REMAP-CAP(COVID-19),,NCT02735707,No,,University Medical Centre Utrecht,Netherlands,Non-Commercial,,,,ICNARC,Farah Al-Beidh,"24 Napier House, High Holborn",London,WC1V 6AZ,United Kingdom,02033110211,farah.al-beidh@icnarc.org,1,Test,Yes,No,,ceftriaxone,Powder for infusion,No,Intravascular use (Noncurrent),ceftriaxone sodium,73384-59-5,AS5,g gram(s),equal,1,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,,,"Community acquired pneumonia, including COVID-19 disease","Community acquired pneumonia, including COVID-19 disease","Diseases [C] - Respiratory Tract Diseases [C08]
-MedDRA Classification",,20.1,LLT,10010120,Community acquired pneumonia,100000004862,No,"The primary objective of the REMAP is to identify the effect of a range of interventions to improve outcome of  adult patients with severe community acquired pneumonia, who are admitted to ICU. This is defined by all cause mortality  at 90 days from the date of enrolment into the trial.","The secondary objectives are to determine the effect of the interventions on:
-ICU Mortality
-ICU length of stay
-Hospital length of stay
-Ventilator free day censored at 28 days
-Organ failure free days censored at 28 days
-Survival at 6 months
-Health Related quality of life at 6 months including EQ5D5L and WHODAS.
-Secondary Antibiotic Domain-specific endpoints(censored at day 90):
- 1. Multi-resistant organisms (MRO) colonization/infection: Isolation of multi-drug resistant (MDR) bacteria from clinical or screening specimens
-2. C. difficile illness based on detection from feces using current standard of care diagnostics used at site
-3. Serious adverse event (SAE) as defined in CORE protocol
-Secondary Macrolide Domain-specific endpoints (censored at day 90):
-1. Serious ventricular arrhythmia (including ventricular fibrillation) or sudden unexpected death in hospital.
-2. Serious Adverse Events (SAE) as defined in CORE protocol",No,"1. Adult patient admitted to an ICU for severe CAP within 48 hours of hospital admission with: 
-a) symptoms or signs or both that are consistent with lower respiratory tract infection (for example, acute onset of dyspnea, cough, pleuritic chest pain); AND 
-b)radiological evidence of new onset consolidation (in-patients with pre-existing radiological changes, evidence of new infiltrate) 
-2. Requiring organ support with one or more of: 
-a) Non-invasive or invasive ventilatory support; 
-b) Receiving infusion of vasopressor or inotropes or both","Exclusion criteria
-1. Healthcare-associated pneumonia: 
-a) Prior to this illness, has been an in-patient in any healthcare facility within the last 30 days 
-b) Resident of a nursing home or long term care facility 
-2. Death is deemed imminent or inevitable during this hospital admission AND one or more of the patient, substitute decision maker or attending physician are not committed to full active treatment 
-3. Previous participation in this REMAP within the last 90 days
-
-Patients will be deemed eligible for each treatment domain if they don´t meet any of the following domain specific exclusion criteria
-
-Antibiotic Domain 
-1. Received more than 48 hours of intravenous antibiotic treatment for this index illness 
-2. More than 24 hours has elapsed since becoming eligible for this domain 
-3. Known hypersensitivity to all of the study drugs in the site randomization schedule 
-4. A specific antibiotic choice is indicated
-5. The treating clinician believes that participation in the domain would not be in the best interests of the patient
-
-Macrolide Duration Domain (if randomised to a beta-lactam plus macrolide intervention within the Antibiotic Domain)
-1. The treating clinician believes that participation in the domain would not be in the best interests of the patient 
-
-Corticosteroid Domain
-1. An indication to prescribe systemic corticosteroids for a reason other than community-acquired pneumonia (CAP) (or severe sepsis) such as chronic corticosteroid use before admission, acute severe asthma, or suspected or proven Pneumocystis jiroveci pneumonia 
-2. Have received an immunomodulatory dose of systemic corticosteroid therapy for more than 24 hours prior to the time of enrolment. An immunomodulatory dose is defined as >20mg of hydrocortisone, >5mg prednisone, >4mg methylprednisolone or >0.8mg dexamethasone per 24 hours. 
-3. The treating clinician believes that participation in the domain would not be in the best interests of the patient","The primary outcome for all domains will be the occurrence of death at 90 days post enrolment.
-In patients recruited who are suspected to have COVID-19 disease the primary outcome will be “number of days alive and not admitted to ICU up to day 21",The occurrence of death will be collected between day 1 and day 90 from the time of enrolment into the trial until end of the hospital admission.,"1. ICU mortality censored at 90 days
-2. ICU length of stay censored at 90 days
-3. Ventilator free days censored at 28 days
-4. Organ failure free days censored at 28 days
-5. proportion of intubated patients who receive a tracheostomy censored at 28 days
-6. Hospital length of stay censored at 90 days after enrolment
-7. Destination at time of hospital discharge
-8. Readmission to the index ICU during the index hospitalization in the 90 days following enrolment
-9. Survival at 6 months after enrolment
-10. HRQol at 6 months after enrolment using the EQ5D
-11. Disability status measured at 6 months after enrolment using the WHODAS
-
-Secondary Antibiotic Domain-specific endpoints(censored at day 90):
- 1. Multi-resistant organisms (MRO) colonization/infection: Isolation of multi-drug resistant (MDR) bacteria from clinical or screening specimens
-2. C. difficile illness based on detection from feces using current standard of care diagnostics used at site
-3. Serious adverse event (SAE) as defined in CORE protocol
-Secondary Macrolide Domain-specific endpoints (censored at day 90):
-1. Serious ventricular arrhythmia (including ventricular fibrillation) or sudden unexpected death in hospital.
-2. Serious Adverse Events (SAE) as defined in CORE protocol",90 days or 6 months after enrolment as applicable.,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,,24,No,Yes,40,Yes,Yes,No,No,"The study will end when the required numbers of patients have been recruited, the final follow up visit data for the last patient has collected and the databases have been locked.
-
-The design features of this trial create a 'perpetual' trial whose main objective is to continuously update best patient treatment for the life time of the REMAP, but current EU funding is provided until 2021.",3,1,31,2,5,22,No,0,No,0,No,0,No,0,No,0,No,0,No,0,Yes,0,Yes,0,Yes,Yes,No,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,No,1200,Not applicable. The interventions will be provided to the patients for the period that they are in the intensive care unit/hospital.,1,Authorised,2018-06-01,Favourable,Reason(s) for unfavourable opinion:,2018-04-26,GB - no longer in EU/EEA,,ceftriaxone,RANBAXY (UK),United Kingdom,,"randomised, embedded, multifactorial, adaptive platform trial",100,"Australia
-Belgium
-Croatia
-Germany
-Hungary
-Ireland
-Netherlands
-New Zealand
-Portugal
-Romania
-United Kingdom",4000,6800,,,,ceftriaxone,,,ClinicalTrials.gov NCT02735707,2,Test,Yes,moxifloxacin,Bayer,United Kingdom,No,,moxifloxacin,Solution for infusion,No,Intravenous use,moxifloxacin hydrochloride,,AS4,mg/ml milligram(s)/millilitre,equal,1.6,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,U1111-1189-1653,"Patients admitted with community acquired pneumonia and COVID-19 infection will most often need treatment started in a life-threatening
-emergency and will be unable to provide informed consent at this time due to reduced mental capacity.",,,,,,,,,,,,,,,,"""Women of childbearing potential"" and
-did not include the words ""not using contraception"". An answer of yes could have included women of child bearing potential whether
-or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
-database on 2018-07-04) : Yes",3,Test,Yes,levofloxacin,Amneal Pharma Europe Ltd,Ireland,No,,levofloxacin,Solution for infusion,No,Intravenous use,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,levofloxacin hemihydrate,AS7,mg/ml milligram(s)/millilitre,equal,5,4,Test,Yes,piperacilin-tazobactam,Hospira UK Limited,United Kingdom,No,,piperacilin-tazobactam,Powder for infusion,No,Intravenous use,tazobactam,AS12,g gram(s),equal,0.5,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,354812-41-2,100986-85-4,,,,,,,,5,Test,Yes,No,,ceftaroline,Powder for concentrate for solution for infusion,No,Intravenous use,ceftaroline fosamil acetic acid solvate monohydrate,AS13,mg/ml milligram(s)/millilitre,equal,30,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,6,Test,Yes,No,,amoxicillin-clavulanate,Powder for infusion,No,Intravenous use,potassium clavulanate,AS9,mg milligram(s),equal,200,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,7,Test,Yes,No,,azithromycin,Powder for solution for infusion,No,Intravenous use,azithromycin dihydrate,83905-01-5,AS3,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,89786-04-9,,,,,,,ceftaroline,Pfizer Ireland Pharmaceuticals,Ireland,400827-46-5,amoxicillin-clavulanate,Sandoz Ltd,United Kingdom,61177-45-5,azithromycin,Aspire Pharma Ltd,United Kingdom,mg/ml milligram(s)/millilitre,equal,100,8,Test,Yes,clarithromycin,"Mercury Pharmaceuticals Ltd.,",United Kingdom,No,,clarithromycin,Powder for infusion,No,Intravenous use,clarithromycin,81103-11-9,AS10,mg/ml milligram(s)/millilitre,equal,2,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,9,Test,Yes,hydrocortisone,Pfizer,United Kingdom,No,,hydrocortisone,Powder for infusion,No,Intravenous use,hydrocortisone sodium succinate,125-04-2,AS6,mg milligram(s),equal,133.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,10,Test,Yes,interferon beta-1a,No,,interferon beta-1a,Solution for injection in pre-filled syringe,No,Intravenous bolus use (Noncurrent),interferon beta-1a.,145258-61-3,Rebif,AS14,µg microgram(s),equal,10,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,11,Test,Yes,anakinra,No,,anakinra,Solution for injection/infusion in pre-filled syringe,No,"Intravenous bolus use (Noncurrent)
-Intravenous use",Anakinra,143090-92-0,Interleukin-1 receptor antagonist anakinra,AS15,mg milligram(s),equal,100,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,12,Test,Yes,Lopinavir/Ritonavir Mylan,No,,Lopinavir/Ritonavir Mylan,,No,"Enteral use (Noncurrent)
-Gastroenteral use",ritonavir,155213-67-5,AS17,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,13,,Yes,hydroxychloroquine,No,,hydroxychloroquine,Coated tablet,No,"Enteral use (Noncurrent)
-Oral use",hydroxychloriquine,747-36-4,AS18,mg/g milligram(s)/gram,equal,200,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,14,Test,Yes,No,,tocilizumab,Solution for infusion,No,Intravenous use,tocilizumab,375823-41-9,RoActemra,AS19,mg/kg milligram(s)/kilogram,equal,4 to 8,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,15,Test,Yes,No,,Sarilumab,Solution for infusion,No,Intravenous use,sarilumab,1189541-98-7,AS20,mg milligram(s),equal,200,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,16,Test,Yes,No,,Heparin,,No,Intravenous use,Heparin,37270-89-6,AS22,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,17,Test,No,No,,Sarilumab unlicensed,Solution for infusion,No,Intravenous use,sarilumab,1189541-98-7,AS24,mg milligram(s),equal,200,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,18,Test,Yes,Kaletra  80mg/20mg Oral Solution,Abbvie,South Africa,No,,Kaletra  80mg/20mg Oral Solution,Oral liquid,No,Enteral use (Noncurrent),ritonavir,155213-67-5,AS26,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,19,Test,Yes,Ascorbic Acid,No,,Ascorbic Acid,Solution for injection/infusion,No,Intravenous use,Ascorbic Acid,Vitamin C,AS27,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,20,Test,Yes,simvastatin,No,,simvastatin,Tablet,No,Enteral use (Noncurrent),simvastatin,79902-63-9,AS28,mg milligram(s),equal,40,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,21,Test,Yes,Aspirin,No,,Aspirin,Tablet,No,Gastroenteral use,Acetylsalicylic acid,50-78-2,AS30,mg milligram(s),equal,75 to 100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,22,Test,Yes,Clopidogrel,No,,Clopidogrel,Tablet,No,Gastroenteral use,clopidogrel,113665-84-2,AS31,mg milligram(s),equal,75,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,23,Test,Yes,Prasugrel,No,,Prasugrel,Tablet,No,Gastroenteral use,prasugrel,150322-43-3,AS32,mg milligram(s),equal,5 to 60,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24,Test,Yes,ticagrelor,No,,ticagrelor,Tablet,No,Gastroenteral use,ticagrelor,274693-27-5,AS33,mg milligram(s),equal,120,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2020-001370-30,CACZ885D2310,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-04-15,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001370-30/GB/,UK - MHRA,2020-001370-30,"Phase 3 multicenter, randomized, double-blind, placebo-controlled study to assess the efficacy and safety of canakinumab on cytokine release syndrome in patients with COVID-19-induced pneumonia (CAN-COVID).",Study of efficacy and safety of canakinumab treatment for CRS in participants with COVID-19-induced pneumonia.,,CACZ885D2310,,No,,Novartis Pharma AG,Switzerland,Commercial,,Novartis Pharma AG,Switzerland,,,,,,,,,1,Test,Yes,No,,Canakinumab,Solution for injection,No,Intravenous use,CANAKINUMAB,914613-48-2,SUB30137,mg milligram(s),equal,150,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Solution for infusion,Intravenous use,COVID-19-induced pneumonia (CAN-COVID),COVID-19-induced pneumonia (lung infection),"Diseases [C] - Respiratory Tract Diseases [C08]
 MedDRA Classification",,20.1,PT,10053983,Corona virus infection,10021881 - Infections and infestations,No,To demonstrate the benefit of canakinumab + SOC in increasing chance of survival without ever requiring invasive mechanical ventilation among patients with COVID-19-induced pneumonia and CRS.,"- To demonstrate the benefit of canakinumab in reducing 4-week case fatality rate (CFR) among patients with COVID-19-induced pneumonia and CRS regardless of other subsequent clinical interventions
 - To evaluate change in clinical serologic measurements related to CRS in COVID-19 patients with pneumonia
@@ -5023,6 +4942,87 @@ Spain
 Sweden
 United Kingdom
 United States",7,15,,,,,M281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Will assess immunogenicity of M281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2015-002340-14,,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2018-07-04,https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-002340-14/GB/,UK - MHRA,2015-002340-14,"Randomized, Embedded, Multifactorial, Adaptive Platform trial for Community-Acquired Pneumonia (COVID-19)","REMAP-CAP: Randomised, Embedded, Multi-factorial Adaptive Platform Trial for community acquired pneumonia (COVID-19)",REMAP-CAP(COVID-19),,NCT02735707,No,,University Medical Centre Utrecht,Netherlands,Non-Commercial,,,,ICNARC,Farah Al-Beidh,"24 Napier House, High Holborn",London,WC1V 6AZ,United Kingdom,02033110211,farah.al-beidh@icnarc.org,1,Test,Yes,No,,ceftriaxone,Powder for infusion,No,Intravascular use (Noncurrent),ceftriaxone sodium,73384-59-5,AS5,g gram(s),equal,1,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,,,"Community acquired pneumonia, including COVID-19 disease","Community acquired pneumonia, including COVID-19 disease","Diseases [C] - Respiratory Tract Diseases [C08]
+MedDRA Classification",,20.1,LLT,10010120,Community acquired pneumonia,100000004862,No,"The primary objective of the REMAP is to identify the effect of a range of interventions to improve outcome of  adult patients with severe community acquired pneumonia, who are admitted to ICU. This is defined by all cause mortality  at 90 days from the date of enrolment into the trial.","The secondary objectives are to determine the effect of the interventions on:
+ICU Mortality
+ICU length of stay
+Hospital length of stay
+Ventilator free day censored at 28 days
+Organ failure free days censored at 28 days
+Survival at 6 months
+Health Related quality of life at 6 months including EQ5D5L and WHODAS.
+Secondary Antibiotic Domain-specific endpoints(censored at day 90):
+ 1. Multi-resistant organisms (MRO) colonization/infection: Isolation of multi-drug resistant (MDR) bacteria from clinical or screening specimens
+2. C. difficile illness based on detection from feces using current standard of care diagnostics used at site
+3. Serious adverse event (SAE) as defined in CORE protocol
+Secondary Macrolide Domain-specific endpoints (censored at day 90):
+1. Serious ventricular arrhythmia (including ventricular fibrillation) or sudden unexpected death in hospital.
+2. Serious Adverse Events (SAE) as defined in CORE protocol",No,"1. Adult patient admitted to an ICU for severe CAP within 48 hours of hospital admission with: 
+a) symptoms or signs or both that are consistent with lower respiratory tract infection (for example, acute onset of dyspnea, cough, pleuritic chest pain); AND 
+b)radiological evidence of new onset consolidation (in-patients with pre-existing radiological changes, evidence of new infiltrate) 
+2. Requiring organ support with one or more of: 
+a) Non-invasive or invasive ventilatory support; 
+b) Receiving infusion of vasopressor or inotropes or both","Exclusion criteria
+1. Healthcare-associated pneumonia: 
+a) Prior to this illness, has been an in-patient in any healthcare facility within the last 30 days 
+b) Resident of a nursing home or long term care facility 
+2. Death is deemed imminent or inevitable during this hospital admission AND one or more of the patient, substitute decision maker or attending physician are not committed to full active treatment 
+3. Previous participation in this REMAP within the last 90 days
+
+Patients will be deemed eligible for each treatment domain if they don´t meet any of the following domain specific exclusion criteria
+
+Antibiotic Domain 
+1. Received more than 48 hours of intravenous antibiotic treatment for this index illness 
+2. More than 24 hours has elapsed since becoming eligible for this domain 
+3. Known hypersensitivity to all of the study drugs in the site randomization schedule 
+4. A specific antibiotic choice is indicated
+5. The treating clinician believes that participation in the domain would not be in the best interests of the patient
+
+Macrolide Duration Domain (if randomised to a beta-lactam plus macrolide intervention within the Antibiotic Domain)
+1. The treating clinician believes that participation in the domain would not be in the best interests of the patient 
+
+Corticosteroid Domain
+1. An indication to prescribe systemic corticosteroids for a reason other than community-acquired pneumonia (CAP) (or severe sepsis) such as chronic corticosteroid use before admission, acute severe asthma, or suspected or proven Pneumocystis jiroveci pneumonia 
+2. Have received an immunomodulatory dose of systemic corticosteroid therapy for more than 24 hours prior to the time of enrolment. An immunomodulatory dose is defined as >20mg of hydrocortisone, >5mg prednisone, >4mg methylprednisolone or >0.8mg dexamethasone per 24 hours. 
+3. The treating clinician believes that participation in the domain would not be in the best interests of the patient","The primary outcome for all domains will be the occurrence of death at 90 days post enrolment.
+In patients recruited who are suspected to have COVID-19 disease the primary outcome will be “number of days alive and not admitted to ICU up to day 21",The occurrence of death will be collected between day 1 and day 90 from the time of enrolment into the trial until end of the hospital admission.,"1. ICU mortality censored at 90 days
+2. ICU length of stay censored at 90 days
+3. Ventilator free days censored at 28 days
+4. Organ failure free days censored at 28 days
+5. proportion of intubated patients who receive a tracheostomy censored at 28 days
+6. Hospital length of stay censored at 90 days after enrolment
+7. Destination at time of hospital discharge
+8. Readmission to the index ICU during the index hospitalization in the 90 days following enrolment
+9. Survival at 6 months after enrolment
+10. HRQol at 6 months after enrolment using the EQ5D
+11. Disability status measured at 6 months after enrolment using the WHODAS
+
+Secondary Antibiotic Domain-specific endpoints(censored at day 90):
+ 1. Multi-resistant organisms (MRO) colonization/infection: Isolation of multi-drug resistant (MDR) bacteria from clinical or screening specimens
+2. C. difficile illness based on detection from feces using current standard of care diagnostics used at site
+3. Serious adverse event (SAE) as defined in CORE protocol
+Secondary Macrolide Domain-specific endpoints (censored at day 90):
+1. Serious ventricular arrhythmia (including ventricular fibrillation) or sudden unexpected death in hospital.
+2. Serious Adverse Events (SAE) as defined in CORE protocol",90 days or 6 months after enrolment as applicable.,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,,24,No,Yes,40,Yes,Yes,No,No,"The study will end when the required numbers of patients have been recruited, the final follow up visit data for the last patient has collected and the databases have been locked.
+
+The design features of this trial create a 'perpetual' trial whose main objective is to continuously update best patient treatment for the life time of the REMAP, but current EU funding is provided until 2021.",3,1,31,2,5,22,No,0,No,0,No,0,No,0,No,0,No,0,No,0,Yes,0,Yes,0,Yes,Yes,No,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,No,1200,Not applicable. The interventions will be provided to the patients for the period that they are in the intensive care unit/hospital.,1,Authorised,2018-06-01,Favourable,Reason(s) for unfavourable opinion:,2018-04-26,GB - no longer in EU/EEA,,ceftriaxone,RANBAXY (UK),United Kingdom,,"randomised, embedded, multifactorial, adaptive platform trial",100,"Australia
+Belgium
+Croatia
+Germany
+Hungary
+Ireland
+Netherlands
+New Zealand
+Portugal
+Romania
+United Kingdom",4000,6800,,,,ceftriaxone,,,ClinicalTrials.gov NCT02735707,2,Test,Yes,moxifloxacin,Bayer,United Kingdom,No,,moxifloxacin,Solution for infusion,No,Intravenous use,moxifloxacin hydrochloride,,AS4,mg/ml milligram(s)/millilitre,equal,1.6,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,U1111-1189-1653,"Patients admitted with community acquired pneumonia and COVID-19 infection will most often need treatment started in a life-threatening
+emergency and will be unable to provide informed consent at this time due to reduced mental capacity.",,,,,,,,,,,,,,,,"""Women of childbearing potential"" and
+did not include the words ""not using contraception"". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2018-07-04) : Yes",3,Test,Yes,levofloxacin,Amneal Pharma Europe Ltd,Ireland,No,,levofloxacin,Solution for infusion,No,Intravenous use,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,levofloxacin hemihydrate,AS7,mg/ml milligram(s)/millilitre,equal,5,4,Test,Yes,piperacilin-tazobactam,Hospira UK Limited,United Kingdom,No,,piperacilin-tazobactam,Powder for infusion,No,Intravenous use,tazobactam,AS12,g gram(s),equal,0.5,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,354812-41-2,100986-85-4,,,,,,,,5,Test,Yes,No,,ceftaroline,Powder for concentrate for solution for infusion,No,Intravenous use,ceftaroline fosamil acetic acid solvate monohydrate,AS13,mg/ml milligram(s)/millilitre,equal,30,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,6,Test,Yes,No,,amoxicillin-clavulanate,Powder for infusion,No,Intravenous use,potassium clavulanate,AS9,mg milligram(s),equal,200,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,7,Test,Yes,No,,azithromycin,Powder for solution for infusion,No,Intravenous use,azithromycin dihydrate,83905-01-5,AS3,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,89786-04-9,,,,,,,ceftaroline,Pfizer Ireland Pharmaceuticals,Ireland,400827-46-5,amoxicillin-clavulanate,Sandoz Ltd,United Kingdom,61177-45-5,azithromycin,Aspire Pharma Ltd,United Kingdom,mg/ml milligram(s)/millilitre,equal,100,8,Test,Yes,clarithromycin,"Mercury Pharmaceuticals Ltd.,",United Kingdom,No,,clarithromycin,Powder for infusion,No,Intravenous use,clarithromycin,81103-11-9,AS10,mg/ml milligram(s)/millilitre,equal,2,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,9,Test,Yes,hydrocortisone,Pfizer,United Kingdom,No,,hydrocortisone,Powder for infusion,No,Intravenous use,hydrocortisone sodium succinate,125-04-2,AS6,mg milligram(s),equal,133.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,10,Test,Yes,interferon beta-1a,No,,interferon beta-1a,Solution for injection in pre-filled syringe,No,Intravenous bolus use (Noncurrent),interferon beta-1a.,145258-61-3,Rebif,AS14,µg microgram(s),equal,10,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,11,Test,Yes,anakinra,No,,anakinra,Solution for injection/infusion in pre-filled syringe,No,"Intravenous bolus use (Noncurrent)
+Intravenous use",Anakinra,143090-92-0,Interleukin-1 receptor antagonist anakinra,AS15,mg milligram(s),equal,100,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,12,Test,Yes,Lopinavir/Ritonavir Mylan,No,,Lopinavir/Ritonavir Mylan,,No,"Enteral use (Noncurrent)
+Gastroenteral use",ritonavir,155213-67-5,AS17,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,13,,Yes,hydroxychloroquine,No,,hydroxychloroquine,Coated tablet,No,"Enteral use (Noncurrent)
+Oral use",hydroxychloriquine,747-36-4,AS18,mg/g milligram(s)/gram,equal,200,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,14,Test,Yes,No,,tocilizumab,Solution for infusion,No,Intravenous use,tocilizumab,375823-41-9,RoActemra,AS19,mg/kg milligram(s)/kilogram,equal,4 to 8,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,15,Test,Yes,No,,Sarilumab,Solution for infusion,No,Intravenous use,sarilumab,1189541-98-7,AS20,mg milligram(s),equal,200,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,16,Test,Yes,No,,Heparin,,No,Intravenous use,Heparin,37270-89-6,AS22,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,17,Test,No,No,,Sarilumab unlicensed,Solution for infusion,No,Intravenous use,sarilumab,1189541-98-7,AS24,mg milligram(s),equal,200,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,18,Test,Yes,Kaletra  80mg/20mg Oral Solution,Abbvie,South Africa,No,,Kaletra  80mg/20mg Oral Solution,Oral liquid,No,Enteral use (Noncurrent),ritonavir,155213-67-5,AS26,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,19,Test,Yes,Ascorbic Acid,No,,Ascorbic Acid,Solution for injection/infusion,No,Intravenous use,Ascorbic Acid,Vitamin C,AS27,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,20,Test,Yes,simvastatin,No,,simvastatin,Tablet,No,Enteral use (Noncurrent),simvastatin,79902-63-9,AS28,mg milligram(s),equal,40,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,21,Test,Yes,Aspirin,No,,Aspirin,Tablet,No,Gastroenteral use,Acetylsalicylic acid,50-78-2,AS30,mg milligram(s),equal,75 to 100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,22,Test,Yes,Clopidogrel,No,,Clopidogrel,Tablet,No,Gastroenteral use,clopidogrel,113665-84-2,AS31,mg milligram(s),equal,75,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,23,Test,Yes,Prasugrel,No,,Prasugrel,Tablet,No,Gastroenteral use,prasugrel,150322-43-3,AS32,mg milligram(s),equal,5 to 60,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,24,Test,Yes,ticagrelor,No,,ticagrelor,Tablet,No,Gastroenteral use,ticagrelor,274693-27-5,AS33,mg milligram(s),equal,120,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2018-000930-37,M15-722,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2018-11-01,https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-000930-37/GB/,UK - MHRA,2018-000930-37,"A Multicenter, Single-Arm, Open-Label Study to Investigate the Efficacy and Safety of Ravagalimab (ABBV-323) in Subjects with Moderate to Severe Ulcerative Colitis Who Failed Prior Therapy",A Study to Investigate safety and how well Ravagalimab (ABBV-323) works and how safe it is in Subjects with Moderate to Severe Ulcerative Colitis Who Failed Prior Therapy,,M15-722,,No,,AbbVie Deutschland GmbH & Co. KG,Germany,Commercial,,AbbVie INC,United States,AbbVie Ltd,EU clinical trials helpdesk,"AbbVie house, Vanwell business park",Maidenhead,SL6 4UB,United Kingdom,+44 1628 561090,eu-clinical-trials@abbvie.com,1,Test,No,No,,Ravagalimab,Powder for concentrate for solution for injection/infusion,No,"Intravenous use
 Subcutaneous use",,,SUB192927,mg/ml milligram(s)/millilitre,equal,100,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Powder for concentrate for solution for injection/infusion,Subcutaneous use,Ulcerative Colitis,A long-term (chronic) condition where the colon and rectum (large intestine or large bowel) become inflamed.,"Diseases [C] - Digestive System Diseases [C06]
 MedDRA Classification",,20.1,LLT,10045365,Ulcerative colitis,100000004856,No,"To explore the efficacy, safety, and tolerability of Ravagalimab as induction treatment in subjects with moderately to severely active UC.",NA,No,"·Subjects must voluntarily sign and date an informed consent, approved
@@ -5459,6 +5459,50 @@ Switzerland
 Turkey
 United Kingdom
 United States",285,550,,,,SHP620,,Serine/threonine kinase inhibitor,,2,Comparator,Yes,Valcyte,Roche Products Limited,United Kingdom,No,,Valcyte,Tablet,No,Oral use,VALGANCICLOVIR HYDROCHLORIDE,,SUB16471MIG,mg milligram(s),equal,450,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,175865-59-5,,2,Tablet,Oral use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-002621-30,M19-063,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2019-12-19,https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-002621-30/GB/,UK - MHRA,2019-002621-30,"A Randomized, Open Label Phase 3 Study Evaluating Safety and Efficacy of Venetoclax in combination with Azacitidine after allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemia (AML) (VIALE-T)",Open Label 2-Arm Study of Venetoclax in Combination with Azacitidine Versus Best Supportive Care after Allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemia (AML),P3 Ven+Aza vs BSC in AML post allogneneic stem cell transplant,M19-063,,No,,AbbVie Deutschland GmbH & Co. KG,Germany,Commercial,,AbbVie Inc.,United States,AbbVie Ltd.,Global Clinical Trials Helpdesk,"Abbvie House, Vanwall Business Park","Maidenhead, Berkshire",SL6 4UB,United Kingdom,+441628561090,global-clinical-trials@abbvie.com,1,Test,No,Yes,EU/3/16/1767,Venetoclax,Film-coated tablet,No,Oral use,Venetoclax 10 mg,,,mg milligram(s),equal,10,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,Acute Myeloid Leukemia (AML),Hematologic Malignancies,"Diseases [C] - Cancer [C04]
+MedDRA Classification",,,,,,,No,"Part I: To determine the recommended Phase 3 dose of venetoclax in combination with azacitidine in AML patients when given as maintenance therapy following allogeneic stem cell transplantation.
+
+Part II:To evaluate the efficacy of venetoclax in combination with azacitidine to improve Relapse Free Survival (RFS) in AML patients compared to Best Supportive Care (BSC) when given as maintenance therapy following allogeneic stem cell transplantation","*To confirm the safety of venetoclax in combination with azacitidine after allogeneic transplantation in subjects diagnosed with AML. 
+*To determine the efficacy of venetoclax in combination with azacitidine on overall survival. 
+*To determine the effect of venetoclax in combination with azacitidine on the frequency and severity of GvHD. 
+*To determine the effect of venetoclax in combination with azacitidine on minimal residual disease levels.",No,"Adult male or female ≥ 18 years old for Part 1 and, male or female at least 12 years old for Part 2. 
+Subject must be diagnosed with AML by World Health Organization (WHO) criteria (2017) and either be planning for allogeneic stem cell transplantation or have received allogeneic stem cell transplantation within the past 14 days. 
+Blast percentage in bone marrow prior to pre-transplant conditioning  must be < 10%.  
+Blast count in peripheral blood must be “0” and malignant Blast percentage in bone marrow must be < 5% after transplant within 7 days prior to Cycle 1 Day 1. 
+Bilirubin ≤ 3 × ULN. Cycle 1 Day 1 must occur within 28 to 200 days after transplant and no later than 60 days since meeting count recovery criteria post-transplant. 
+Post-transplant count recovery (within 7 days prior to Cycle 1 Day 1) criteria: ANC  measured twice at least 2 days apart and within one week from Cycle 1 Day 1.  S
+ubjects should not have granulocyte-colony stimulating factor (G-CSF) treatment for 7 days before first ANC count. (ANC value for Part 1 ≥ 1,500/µL and ≥ 1,000/µL for Part 2); Platelets should be measured twice at least 2 days apart and within 1 week from Cycle 1 Day 1.  
+Subjects should not have a platelet transfusion for 7 days before first platelet count. (value for Part 1 ≥ 80,000/µL and ≥ 50,000/µL for Part 2). Adequate renal function as demonstrated by a creatinine clearance >30 mL/min; calculated by the Cockcroft Gault formula or measured by 24-hour urine collection and subjects 12-17 years old must have the equivalent as calculated by the Schwartz formula.  Subjects ≥ 17 years old must have a Karnofsky Performance Scale (KPS) score > 50 and subjects 12 - ≤ 16 years old must have a Lansky Play Performance Scale score > 40.
+No known active COVID-19 infection.","History of disease progression during prior treatment with venetoclax. 
+History of any other malignancy within 2 years prior to study entry, except for: Adequately treated in situ carcinoma of the cervix uteri or carcinoma in situ of breast; Basal cell carcinoma of the skin or localized squamous cell carcinoma of the skin; Previous malignancy confined and surgically resected (or treated with other modalities) with curative intent; Myelodysplastic Syndrome. 
+Known infection with HIV or history of being positive for hepatitis B virus (HBV) or hepatitis C virus (HCV) infection. 
+Presence of clinical or laboratory symptoms/signs of extramedullary myeloid malignancy.","Part I: The primary endpoint is the frequency of DLTs of venetoclax in combination with azacitidine
+Part II: Relapse-Free Survival (RFS)","Part I: the first treatment cycle (28 days).
+Part II:The time from randomization to the date of relapse or the date of death
+from any cause, whichever occurs first.","• Overall Survival (OS)                                                                              
+• GvHD-free, relapse free survival (GRFS). 
+• Time to deterioration in Global Health Status (GHS)/QoL 
+• GvHD rate at 90 days after randomization  
+• Fatigue Change in adult subjects at time points other than 6 months after treatment                                                            
+• Patient Reported Outcome (PRO) using Patient Reported Outcomes
+• Change in subject reported signs, symptoms and impact of AML
+• Minimal residual disease (MRD) response rate","Overall Survival (OS)-time from randomization to death(any reason)
+GvHD-free,relapse free survival(GRFS)-time from randomization to a) disease relapse, b)occurrence or worsening of GvHD, or c)death(any reason)
+Time to deterioration using GHS/QoL in adult subjects-randomization to either deterioration of ≥5 points based on EORTC QLQ-C30(v3)or death (any cause)
+GvHD rate at 90 days after randomization-Grade 2 or higher for aGvHD and moderate/severe for cGvHD per investigator
+Fatigue Change in adult subjects-using Patient Reported Outcomes Measurement Information System (PROMIS) Cancer Fatigue SF 7a. Difference between randomization and 6 months of treatment
+MRD response rate-only among subjects with MRD > 10-3 at study start; response is MRD conversion to < 10-3 after treatment start.",No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Best Supportive Care (BSC),2,No,Yes,7,Yes,Yes,No,Yes,"Last subject's last visit or date of the last follow-up contact, whichever is later.",5,0,0,5,6,0,Yes,19,No,,No,,No,,No,,No,,Yes,19,Yes,325,Yes,80,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,35,"If a subject prematurely discontinues the study (withdrawal of informed consent), The procedures outlined for the end of treatment visit are to be completed as soon as possible, preferably within 2 weeks.  In addition, if subject is willing, a 30-day follow-up phone call after the last dose of study drug for subjects in Part 1 and Part 2, Arm A or after study withdrawal for subjects in Part 2, Arm B may be completed to ensure all treatment-emergent AEs/SAEs have been resolved.",1,Authorised,2019-12-20,Favourable,Reason(s) for unfavourable opinion:,2020-06-10,GB - no longer in EU/EEA,,,,,,,57,"Australia
+Brazil
+Canada
+China
+Israel
+Japan
+Korea, Republic of
+Russian Federation
+Switzerland
+Taiwan
+United States",78,424,NIHR CRN,,+441628461153,ABT-199 (GDC-0199),ABT-199 (GDC-0199),,,2,Test,No,,,,Yes,EU/3/16/1767,Venetoclax,Film-coated tablet,No,Oral use,Venetoclax 50 mg,,,mg milligram(s),equal,50,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,3,Test,No,,,,Yes,EU/3/16/1767,Venetoclax,Film-coated tablet,No,Oral use,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,Venetoclax 100 mg,,mg milligram(s),equal,100,4,Test,Yes,,,European Union,No,,Azacitidine,Powder for suspension for injection,No,"Intravenous use
+Subcutaneous use",Azacitidine,SUB05624MIG,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,ABT-199 (GDC-0199),,ABT-199 (GDC-0199),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ABT-199 (GDC-0199),n/a,320-67-2,n/a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ABT-199 (GDC-0199),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2016-002154-20,CLCZ696G2301,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2016-11-02,https://www.clinicaltrialsregister.eu/ctr-search/trial/2016-002154-20/GB/,UK - MHRA,2016-002154-20,"PARADISE-MI: Prospective ARNI versus ACE inhibitor trial to DetermIne Superiority in reducing heart failure Events after Myocardial Infarction
 A multi-center, randomized, double-blind, active-controlled, parallel-group Phase 3 study to evaluate the efficacy and safety of LCZ696 compared to ramipril on morbidity and mortality in high risk patients following an acute myocardial infarction",Prospective ARNI versus ACE inhibitor trial to Determine Superiority in reducing heart failure Events after Myocardial Infarction,PARADISE-MI,CLCZ696G2301,NCT02924727,No,,Novartis Pharma Services AG,Switzerland,Commercial,,Novartis Pharma Services AG,Switzerland,Novartis Pharmaceuticals UK Limited,Medica Information Services,200 Frimley Business Park,"Frimley, Camberley",GU16 7SR,United Kingdom,+44 1276 698370,medinfo.uk@novartis.com,1,Test,Yes,No,,LCZ696 50 mg,Film-coated tablet,No,Oral use,sacubitril/valsartan,,SUB171905,mg milligram(s),equal,50,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Film-coated tablet,Oral use,Left ventricular dysfunction following an acute myocardial infarction.,Heart Failure events after Myocardial Infarction,"Diseases [C] - Cardiovascular Diseases [C14]
 MedDRA Classification",,20.0,PT,10000891,Acute myocardial infarction,10007541 - Cardiac disorders,No,"To demonstrate that LCZ696 is superior to ramipril in delaying the time-to-first occurrence of the composite endpoint of CV death, HF hospitalization or outpatient HF in patients with LV systolic dysfunction and/or pulmonary congestion following an AMI.","-To demonstrate the superiority of LCZ696, compared to ramipril, in delaying the time-to-first occurrence of CV death or HF hospitalization
@@ -5558,50 +5602,6 @@ Thailand
 Turkey
 United Kingdom
 United States",2925,5650,,,,LCZ696,,SACUBITRIL VALSARTAN,,2,Test,Yes,Entresto,Novartis Europharm Limited,European Union,No,,LCZ696 100 mg,Film-coated tablet,No,Oral use,sacubitril/valsartan,SACUBITRIL VALSARTAN,SUB171905,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,3,Test,Yes,Entresto,Novartis Europharm Limited,European Union,No,,LCZ696 200 mg,Film-coated tablet,No,Oral use,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,sacubitril/valsartan,SUB171905,mg milligram(s),equal,200,4,Comparator,Yes,Diovan,Novartis,Sweden,No,,Diovan 40 mg,Film-coated tablet,No,Oral use,VALSARTAN,SUB00017MIG,mg milligram(s),equal,40,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,2,Film-coated tablet,Oral use,,,LCZ696,,5,Comparator,Yes,No,,Diovan 80 mg,Film-coated tablet,No,Oral use,VALSARTAN,SUB00017MIG,mg milligram(s),equal,80,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,6,Comparator,Yes,No,,Ramipril 1.25 mg,"Capsule, hard",No,Oral use,Ramipril,SUB10248MIG,mg milligram(s),equal,1.25,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,7,Comparator,Yes,No,,Ramipril 2.5 mg,"Capsule, hard",No,Oral use,Ramipril,87333-19-5,SUB10248MIG,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,137862-53-4,,,,,,,Diovan,Novartis,Sweden,137862-53-4,Tritace,Sanofi-Aventis GmbH,Austria,87333-19-5,Tritace,Sanofi S.p.A,Austria,mg milligram(s),equal,2.5,8,Comparator,Yes,Tritace,Sanofi S.p.A,Austria,No,,Ramipril 5 mg,"Capsule, hard",No,Oral use,Ramipril,87333-19-5,SUB10248MIG,mg milligram(s),equal,5,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,9,Comparator,Yes,Tritace,"Sanofi-Aventis, s.r.o., Czech Republic",Czech Republic,No,,Ramipril 1.25 mg,"Capsule, hard",No,Oral use,Ramipril,87333-19-5,SUB10248MIG,mg milligram(s),equal,1.25,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,10,Comparator,Yes,Tritace,No,,Ramipril 1.25 mg,"Capsule, hard",No,Oral use,Ramipril,87333-19-5,RAMIPRIL,SUB10248MIG,mg milligram(s),equal,1.25,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,11,Comparator,Yes,Tritace,No,,Ramipril 2.5 mg,"Capsule, hard",No,Oral use,Ramipril,87333-19-5,RAMIPRIL,SUB10248MIG,mg milligram(s),equal,2.5,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,12,Comparator,Yes,Cardace,No,,Ramipril 2.5 mg,"Capsule, hard",No,Oral use,Ramipril,87333-19-5,SUB10248MIG,mg milligram(s),equal,2.5,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,13,Comparator,Yes,Tritace,No,,Ramipril 5 mg,"Capsule, hard",No,Oral use,Ramipril,87333-19-5,SUB10248MIG,mg milligram(s),equal,5,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,14,Comparator,Yes,No,,Ramipril 5 mg,"Capsule, hard",No,Oral use,Ramipril,87333-19-5,RAMIPRIL,SUB10248MIG,mg milligram(s),equal,5,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,15,Comparator,Yes,No,,Ramipril 1.25 mg,"Capsule, hard",No,Oral use,Ramipril,87333-19-5,SUB10248MIG,mg milligram(s),equal,1.25,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LCZ696,,,,,,,,,,,,,,SACUBITRIL VALSARTAN,RAMIPRIL,RAMIPRIL,RAMIPRIL,RAMIPRIL,"Sanofi-Aventis Ireland Ltd., Ireland",Ireland,"Sanofi Romania SRL, Romania",Romania,"Sanofi-Aventis Latvia SIA, Latvia",Latvia,RAMIPRIL,"Sanofi Romania SRL, Romania",Romania,RAMIPRIL,Cardace,"Sanofi-Aventis Latvia SIA, Latvia",Latvia,Triatec,"Sanofi-Aventis (Schweiz) AG, Switzerland",Switzerland,RAMIPRIL,3,Film-coated tablet,Oral use,4,Film-coated tablet,Oral use,5,Film-coated tablet,Oral use,6,"Capsule, hard",Oral use,7,"Capsule, hard",Oral use,
-2019-002621-30,M19-063,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2019-12-19,https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-002621-30/GB/,UK - MHRA,2019-002621-30,"A Randomized, Open Label Phase 3 Study Evaluating Safety and Efficacy of Venetoclax in combination with Azacitidine after allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemia (AML) (VIALE-T)",Open Label 2-Arm Study of Venetoclax in Combination with Azacitidine Versus Best Supportive Care after Allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemia (AML),P3 Ven+Aza vs BSC in AML post allogneneic stem cell transplant,M19-063,,No,,AbbVie Deutschland GmbH & Co. KG,Germany,Commercial,,AbbVie Inc.,United States,AbbVie Ltd.,Global Clinical Trials Helpdesk,"Abbvie House, Vanwall Business Park","Maidenhead, Berkshire",SL6 4UB,United Kingdom,+441628561090,global-clinical-trials@abbvie.com,1,Test,No,Yes,EU/3/16/1767,Venetoclax,Film-coated tablet,No,Oral use,Venetoclax 10 mg,,,mg milligram(s),equal,10,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,Acute Myeloid Leukemia (AML),Hematologic Malignancies,"Diseases [C] - Cancer [C04]
-MedDRA Classification",,,,,,,No,"Part I: To determine the recommended Phase 3 dose of venetoclax in combination with azacitidine in AML patients when given as maintenance therapy following allogeneic stem cell transplantation.
-
-Part II:To evaluate the efficacy of venetoclax in combination with azacitidine to improve Relapse Free Survival (RFS) in AML patients compared to Best Supportive Care (BSC) when given as maintenance therapy following allogeneic stem cell transplantation","*To confirm the safety of venetoclax in combination with azacitidine after allogeneic transplantation in subjects diagnosed with AML. 
-*To determine the efficacy of venetoclax in combination with azacitidine on overall survival. 
-*To determine the effect of venetoclax in combination with azacitidine on the frequency and severity of GvHD. 
-*To determine the effect of venetoclax in combination with azacitidine on minimal residual disease levels.",No,"Adult male or female ≥ 18 years old for Part 1 and, male or female at least 12 years old for Part 2. 
-Subject must be diagnosed with AML by World Health Organization (WHO) criteria (2017) and either be planning for allogeneic stem cell transplantation or have received allogeneic stem cell transplantation within the past 14 days. 
-Blast percentage in bone marrow prior to pre-transplant conditioning  must be < 10%.  
-Blast count in peripheral blood must be “0” and malignant Blast percentage in bone marrow must be < 5% after transplant within 7 days prior to Cycle 1 Day 1. 
-Bilirubin ≤ 3 × ULN. Cycle 1 Day 1 must occur within 28 to 200 days after transplant and no later than 60 days since meeting count recovery criteria post-transplant. 
-Post-transplant count recovery (within 7 days prior to Cycle 1 Day 1) criteria: ANC  measured twice at least 2 days apart and within one week from Cycle 1 Day 1.  S
-ubjects should not have granulocyte-colony stimulating factor (G-CSF) treatment for 7 days before first ANC count. (ANC value for Part 1 ≥ 1,500/µL and ≥ 1,000/µL for Part 2); Platelets should be measured twice at least 2 days apart and within 1 week from Cycle 1 Day 1.  
-Subjects should not have a platelet transfusion for 7 days before first platelet count. (value for Part 1 ≥ 80,000/µL and ≥ 50,000/µL for Part 2). Adequate renal function as demonstrated by a creatinine clearance >30 mL/min; calculated by the Cockcroft Gault formula or measured by 24-hour urine collection and subjects 12-17 years old must have the equivalent as calculated by the Schwartz formula.  Subjects ≥ 17 years old must have a Karnofsky Performance Scale (KPS) score > 50 and subjects 12 - ≤ 16 years old must have a Lansky Play Performance Scale score > 40.
-No known active COVID-19 infection.","History of disease progression during prior treatment with venetoclax. 
-History of any other malignancy within 2 years prior to study entry, except for: Adequately treated in situ carcinoma of the cervix uteri or carcinoma in situ of breast; Basal cell carcinoma of the skin or localized squamous cell carcinoma of the skin; Previous malignancy confined and surgically resected (or treated with other modalities) with curative intent; Myelodysplastic Syndrome. 
-Known infection with HIV or history of being positive for hepatitis B virus (HBV) or hepatitis C virus (HCV) infection. 
-Presence of clinical or laboratory symptoms/signs of extramedullary myeloid malignancy.","Part I: The primary endpoint is the frequency of DLTs of venetoclax in combination with azacitidine
-Part II: Relapse-Free Survival (RFS)","Part I: the first treatment cycle (28 days).
-Part II:The time from randomization to the date of relapse or the date of death
-from any cause, whichever occurs first.","• Overall Survival (OS)                                                                              
-• GvHD-free, relapse free survival (GRFS). 
-• Time to deterioration in Global Health Status (GHS)/QoL 
-• GvHD rate at 90 days after randomization  
-• Fatigue Change in adult subjects at time points other than 6 months after treatment                                                            
-• Patient Reported Outcome (PRO) using Patient Reported Outcomes
-• Change in subject reported signs, symptoms and impact of AML
-• Minimal residual disease (MRD) response rate","Overall Survival (OS)-time from randomization to death(any reason)
-GvHD-free,relapse free survival(GRFS)-time from randomization to a) disease relapse, b)occurrence or worsening of GvHD, or c)death(any reason)
-Time to deterioration using GHS/QoL in adult subjects-randomization to either deterioration of ≥5 points based on EORTC QLQ-C30(v3)or death (any cause)
-GvHD rate at 90 days after randomization-Grade 2 or higher for aGvHD and moderate/severe for cGvHD per investigator
-Fatigue Change in adult subjects-using Patient Reported Outcomes Measurement Information System (PROMIS) Cancer Fatigue SF 7a. Difference between randomization and 6 months of treatment
-MRD response rate-only among subjects with MRD > 10-3 at study start; response is MRD conversion to < 10-3 after treatment start.",No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Best Supportive Care (BSC),2,No,Yes,7,Yes,Yes,No,Yes,"Last subject's last visit or date of the last follow-up contact, whichever is later.",5,0,0,5,6,0,Yes,19,No,,No,,No,,No,,No,,Yes,19,Yes,325,Yes,80,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,35,"If a subject prematurely discontinues the study (withdrawal of informed consent), The procedures outlined for the end of treatment visit are to be completed as soon as possible, preferably within 2 weeks.  In addition, if subject is willing, a 30-day follow-up phone call after the last dose of study drug for subjects in Part 1 and Part 2, Arm A or after study withdrawal for subjects in Part 2, Arm B may be completed to ensure all treatment-emergent AEs/SAEs have been resolved.",1,Authorised,2019-12-20,Favourable,Reason(s) for unfavourable opinion:,2020-06-10,GB - no longer in EU/EEA,,,,,,,57,"Australia
-Brazil
-Canada
-China
-Israel
-Japan
-Korea, Republic of
-Russian Federation
-Switzerland
-Taiwan
-United States",78,424,NIHR CRN,,+441628461153,ABT-199 (GDC-0199),ABT-199 (GDC-0199),,,2,Test,No,,,,Yes,EU/3/16/1767,Venetoclax,Film-coated tablet,No,Oral use,Venetoclax 50 mg,,,mg milligram(s),equal,50,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,3,Test,No,,,,Yes,EU/3/16/1767,Venetoclax,Film-coated tablet,No,Oral use,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,Venetoclax 100 mg,,mg milligram(s),equal,100,4,Test,Yes,,,European Union,No,,Azacitidine,Powder for suspension for injection,No,"Intravenous use
-Subcutaneous use",Azacitidine,SUB05624MIG,mg milligram(s),equal,100,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,ABT-199 (GDC-0199),,ABT-199 (GDC-0199),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ABT-199 (GDC-0199),n/a,320-67-2,n/a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ABT-199 (GDC-0199),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2017-004703-51,COMB157G2399,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2018-10-15,https://www.clinicaltrialsregister.eu/ctr-search/trial/2017-004703-51/GB/,UK - MHRA,2017-004703-51,"An open-label, single arm, multi-center extension study evaluating long-term safety, tolerability and effectiveness of ofatumumab in subjects with relapsing multiple sclerosis","Long-term safety, tolerability and effectiveness study of ofatumumab in subjects with relapsing multiple sclerosis",,COMB157G2399,,No,,Novartis Pharma AG,Switzerland,Commercial,,Novartis Pharma AG,Switzerland,Novartis Pharmaceuticals UK Limited,Medica Information Services,200 Frimley Business Park,"Frimley, Camberley",GU16 7SR,United Kingdom,+44 1276 698370,medinfo.uk@novartis.com,1,Test,Yes,No,,ofatumumab,Solution for injection in pre-filled syringe,No,Subcutaneous use,OFATUMUMAB,679818-59-8,SUB25221,mg/ml milligram(s)/millilitre,equal,50,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,1,Solution for injection in pre-filled syringe,Subcutaneous use,Multiple sclerosis,Multiple sclerosis,"Diseases [C] - Nervous System Diseases [C10]
 MedDRA Classification",,20.0,PT,10048393,Multiple sclerosis relapse,10029205 - Nervous system disorders,No,Evaluate the long-term safety and tolerability of ofatumumab 20 mg sc once every 4 weeks in subjects with relapsing MS from the first dose of ofatumumab,"1. Describe long-term efficacy of ofatumumab 20 mg sc once every 4 weeks in subjects with relapsing MS (RMS) from the first dose of ofatumumab
 

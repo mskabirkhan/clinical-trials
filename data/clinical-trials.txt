@@ -599,6 +599,21 @@ Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001736-95
 
+EudraCT Number:          2020-003486-19
+Sponsor Protocol Number: 1.002.20
+Sponsor Name:            University of Dundee
+Full Title:              A randomised, double-blind, placebo-controlled trial of SFX-01 or placebo on a backbone of best standard care, to improve outcomes in patients with community acquired pneumonia and suspected or con...
+Start Date:              2020-10-08
+Medical condition:       Community acquired pneumonia with suspected or confirmed SARS-CoV-2 infection
+Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10066724, Term: Acute pneumonia, Level: LLT
+Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10010120, Term: Community acquired pneumonia, Level: LLT
+Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084380, Term: COVID-19 pneumonia, Level: PT
+Disease:                 Version: 21.1, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10001052, Term: Acute respiratory distress syndrome, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          GB(GB - no longer in EU/EEA) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003486-19
+
 EudraCT Number:          2020-001441-39
 Sponsor Protocol Number: VIR20001
 Sponsor Name:            University of Oxford
@@ -622,21 +637,6 @@ Population Age:          Adults
 Gender:                  Male, Female
 Trial protocol:          NL(Completed) GB(GB - no longer in EU/EEA) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002503-19
-
-EudraCT Number:          2020-003486-19
-Sponsor Protocol Number: 1.002.20
-Sponsor Name:            University of Dundee
-Full Title:              A randomised, double-blind, placebo-controlled trial of SFX-01 or placebo on a backbone of best standard care, to improve outcomes in patients with community acquired pneumonia and suspected or con...
-Start Date:              2020-10-08
-Medical condition:       Community acquired pneumonia with suspected or confirmed SARS-CoV-2 infection
-Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10066724, Term: Acute pneumonia, Level: LLT
-Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10010120, Term: Community acquired pneumonia, Level: LLT
-Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084380, Term: COVID-19 pneumonia, Level: PT
-Disease:                 Version: 21.1, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10001052, Term: Acute respiratory distress syndrome, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003486-19
 
 EudraCT Number:          2020-001803-17
 Sponsor Protocol Number: GS-US-540-5823
@@ -746,6 +746,18 @@ Gender:                  Male, Female
 Trial protocol:          DE(Completed) DK(Completed) AT(Completed) GB(GB - no longer in EU/EEA) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001172-15
 
+EudraCT Number:          2020-003510-12
+Sponsor Protocol Number: GS-US-540-9012
+Sponsor Name:            Gilead Sciences, Inc
+Full Title:              A Phase 3 Randomized, Double-Blind Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Remdesivir (GS-5734™) Treatment of COVID-19 in an Outpatient Setting
+Start Date:              2020-10-02
+Medical condition:       COVID-19
+Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT
+Population Age:          Adolescents, Under 18, Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003510-12
+
 EudraCT Number:          2020-003367-26
 Sponsor Protocol Number: MK4482-001
 Sponsor Name:            Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
@@ -770,17 +782,17 @@ Gender:                  Male, Female
 Trial protocol:          DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Completed) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001662-11
 
-EudraCT Number:          2020-003510-12
-Sponsor Protocol Number: GS-US-540-9012
-Sponsor Name:            Gilead Sciences, Inc
-Full Title:              A Phase 3 Randomized, Double-Blind Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Remdesivir (GS-5734™) Treatment of COVID-19 in an Outpatient Setting
-Start Date:              2020-10-02
+EudraCT Number:          2020-004356-16
+Sponsor Protocol Number: D8850C00002
+Sponsor Name:            AstraZeneca AB
+Full Title:              A Phase III Randomized, Double-blind, Placebo-controlled, Multi-center Study in Adults to Determine the Safety and Efficacy of AZD7442, a Combination Product of Two Monoclonal Antibodies (AZD8895 a...
+Start Date:              2020-11-18
 Medical condition:       COVID-19
-Disease:                 Version: 23.0, SOC Term: 100000004862, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT
-Population Age:          Adolescents, Under 18, Adults, Elderly
+Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
+Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) PT(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003510-12
+Trial protocol:          GB(GB - no longer in EU/EEA) BE(Ongoing) FR(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004356-16
 
 EudraCT Number:          2020-001052-18
 Sponsor Protocol Number: 010
@@ -806,18 +818,6 @@ Gender:                  Male, Female
 Trial protocol:          DK(Prematurely Ended) CZ(Prematurely Ended) DE(Prematurely Ended) GB(Prematurely Ended) FR(Prematurely Ended) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001270-29
 
-EudraCT Number:          2020-004356-16
-Sponsor Protocol Number: D8850C00002
-Sponsor Name:            AstraZeneca AB
-Full Title:              A Phase III Randomized, Double-blind, Placebo-controlled, Multi-center Study in Adults to Determine the Safety and Efficacy of AZD7442, a Combination Product of Two Monoclonal Antibodies (AZD8895 a...
-Start Date:              2020-11-18
-Medical condition:       COVID-19
-Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) BE(Ongoing) FR(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004356-16
-
 EudraCT Number:          2020-001517-21
 Sponsor Protocol Number: I4V-MC-KHAA
 Sponsor Name:            Eli Lilly and Company
@@ -841,18 +841,6 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) RO(Completed) FI(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001807-18
-
-EudraCT Number:          2020-001154-22
-Sponsor Protocol Number: WA42380
-Sponsor Name:            F. Hoffmann-La Roche Ltd
-Full Title:              A RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, MULTICENTER STUDY TO EVALUATE THE SAFETY AND EFFICACY OF TOCILIZUMAB IN PATIENTS WITH SEVERE COVID-19 PNEUMONIA.
-Start Date:              2020-04-06
-Medical condition:       Severe COVID-19 pneumonia
-Disease:                 Version: 21.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10035737, Term: Pneumonia viral, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          DK(Completed) DE(Completed) FR(Completed) NL(Completed) GB(GB - no longer in EU/EEA) IT(Completed) ES(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001154-22
 
 EudraCT Number:          2020-002632-75
 Sponsor Protocol Number: CLI-050000-04
@@ -879,6 +867,18 @@ Gender:                  Male, Female
 Trial protocol:          FR(Ongoing) BE(Completed) GB(GB - no longer in EU/EEA) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001498-63
 
+EudraCT Number:          2020-001154-22
+Sponsor Protocol Number: WA42380
+Sponsor Name:            F. Hoffmann-La Roche Ltd
+Full Title:              A RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, MULTICENTER STUDY TO EVALUATE THE SAFETY AND EFFICACY OF TOCILIZUMAB IN PATIENTS WITH SEVERE COVID-19 PNEUMONIA.
+Start Date:              2020-04-06
+Medical condition:       Severe COVID-19 pneumonia
+Disease:                 Version: 21.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10035737, Term: Pneumonia viral, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DK(Completed) DE(Completed) FR(Completed) NL(Completed) GB(GB - no longer in EU/EEA) IT(Completed) ES(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001154-22
+
 EudraCT Number:          2020-001411-25
 Sponsor Protocol Number: XPORT-COV-1001
 Sponsor Name:            Karyopharm Therapeutics Inc.
@@ -890,6 +890,18 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          DE(Completed) FR(Completed) AT(Completed) GB(GB - no longer in EU/EEA) ES(Temporarily Halted) IT(Prematurely Ended) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001411-25
+
+EudraCT Number:          2018-002069-21
+Sponsor Protocol Number: D5180C00013
+Sponsor Name:            AstraZeneca AB
+Full Title:              A Phase 2, Randomized, Double-blind, Parallel Group, Placebo Controlled Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with Inadequately Controlled Asthma on Inhaled C...
+Start Date:              2018-10-23
+Medical condition:       Severe Asthma
+Disease:                 Version: 20.0, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10003553, Term: Asthma, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) DE(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-002069-21
 
 EudraCT Number:          2020-003278-37
 Sponsor Protocol Number: INSIGHT-014-ACTIV-3
@@ -904,18 +916,6 @@ Gender:                  Male, Female
 Trial protocol:          DK(Temporarily Halted) GB(GB - no longer in EU/EEA) SE(Prematurely Ended) PL(Ongoing) GR(Ongoing) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003278-37
 
-EudraCT Number:          2018-002069-21
-Sponsor Protocol Number: D5180C00013
-Sponsor Name:            AstraZeneca AB
-Full Title:              A Phase 2, Randomized, Double-blind, Parallel Group, Placebo Controlled Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with Inadequately Controlled Asthma on Inhaled C...
-Start Date:              2018-10-23
-Medical condition:       Severe Asthma
-Disease:                 Version: 20.0, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10003553, Term: Asthma, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) DE(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-002069-21
-
 EudraCT Number:          2020-000842-32
 Sponsor Protocol Number: GS-US-540-5774
 Sponsor Name:            Gilead Sciences, Inc.
@@ -928,18 +928,6 @@ Gender:                  Male, Female
 Trial protocol:          DE(Completed) ES(Completed) FR(Completed) IT(Completed) NL(Completed) GB(Completed) SE(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-000842-32
 
-EudraCT Number:          2020-000841-15
-Sponsor Protocol Number: GS-US-540-5773
-Sponsor Name:            Gilead Sciences, Inc.
-Full Title:              A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants with Severe COVID-19
-Start Date:              2020-03-18
-Medical condition:       Coronavirus disease 2019 (COVID-19)
-Disease:                 Version: 20.0, SOC Term: 100000004862, Classification Code: 10051905, Term: Coronavirus infection, Level: LLT
-Population Age:          Adolescents, Under 18, Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          DE(Completed) ES(Completed) FR(Completed) IT(Completed) NL(Completed) GB(Completed) SE(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-000841-15
-
 EudraCT Number:          2020-002979-35
 Sponsor Protocol Number: 209348
 Sponsor Name:            GlaxoSmithKline Research & Development Limited
@@ -951,6 +939,18 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) PL(Ongoing) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002979-35
+
+EudraCT Number:          2020-000841-15
+Sponsor Protocol Number: GS-US-540-5773
+Sponsor Name:            Gilead Sciences, Inc.
+Full Title:              A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants with Severe COVID-19
+Start Date:              2020-03-18
+Medical condition:       Coronavirus disease 2019 (COVID-19)
+Disease:                 Version: 20.0, SOC Term: 100000004862, Classification Code: 10051905, Term: Coronavirus infection, Level: LLT
+Population Age:          Adolescents, Under 18, Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DE(Completed) ES(Completed) FR(Completed) IT(Completed) NL(Completed) GB(Completed) SE(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-000841-15
 
 EudraCT Number:          2020-004743-83
 Sponsor Protocol Number: SG018
@@ -1000,20 +1000,6 @@ Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) ES(Temporarily Halted) NL(Completed) AT(Completed) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-003898-94
 
-EudraCT Number:          2015-002340-14
-Sponsor Protocol Number: REMAP-CAP
-Sponsor Name:            University Medical Center Utrecht 
-Full Title:              Randomized, Embedded, Multifactorial, Adaptive Platform trial for Community-Acquired Pneumonia (REMAP-CAP). (COVID-19)
-Start Date:              2015-09-16
-Medical condition:       Severe Community Acquired Pneumonia
-COVID-19
-Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10010120, Term: Community acquired pneumonia, Level: LLT
-Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          NL(Ongoing) IE(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Ongoing) DE(Ongoing) HR(Ongoing) ES(Temporarily Halted) FR(Ongoing) FI(Ongoing) IT(Ongoing) SI(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-002340-14
-
 EudraCT Number:          2020-001370-30
 Sponsor Protocol Number: CACZ885D2310
 Sponsor Name:            Novartis Pharma AG
@@ -1037,6 +1023,20 @@ Population Age:          In utero, Under 18, Adults
 Gender:                  Female
 Trial protocol:          GB(GB - no longer in EU/EEA) BE(Ongoing) NL(Ongoing) SE(Ongoing) ES(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004958-42
+
+EudraCT Number:          2015-002340-14
+Sponsor Protocol Number: REMAP-CAP
+Sponsor Name:            University Medical Center Utrecht 
+Full Title:              Randomized, Embedded, Multifactorial, Adaptive Platform trial for Community-Acquired Pneumonia (REMAP-CAP). (COVID-19)
+Start Date:              2015-09-16
+Medical condition:       Severe Community Acquired Pneumonia
+COVID-19
+Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10010120, Term: Community acquired pneumonia, Level: LLT
+Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          NL(Ongoing) IE(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Ongoing) DE(Ongoing) HR(Ongoing) ES(Temporarily Halted) FR(Ongoing) FI(Ongoing) IT(Ongoing) SI(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-002340-14
 
 EudraCT Number:          2018-000930-37
 Sponsor Protocol Number: M15-722
@@ -1112,18 +1112,6 @@ Gender:                  Male, Female
 Trial protocol:          HU(Ongoing) DE(Ongoing) GB(GB - no longer in EU/EEA) ES(Ongoing) BE(Ongoing) CZ(Completed) PL(Ongoing) FR(Ongoing) HR(Ongoing) IT(Ongoing) GR(Ongoing) AT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-004726-34
 
-EudraCT Number:          2016-002154-20
-Sponsor Protocol Number: CLCZ696G2301
-Sponsor Name:            Novartis Pharma Services AG
-Full Title:              A multi-center, randomized, double-blind, active-controlled, parallel-group Phase 3 study to evaluate the efficacy and safety of LCZ696 compared to ramipril on morbidity and mortality in high risk ...
-Start Date:              2017-03-28
-Medical condition:       Left ventricular dysfunction following an acute myocardial infarction.
-Disease:                 Version: 20.0, SOC Term: 10007541 - Cardiac disorders, Classification Code: 10000891, Term: Acute myocardial infarction, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          DE(Completed) PT(Completed) CZ(Completed) GB(GB - no longer in EU/EEA) GR(Completed) AT(Completed) SK(Completed) NL(Completed) ES(Completed) HU(Completed) BE(Completed) DK(Completed) SE(Completed) FI(Completed) BG(Completed) HR(Completed) IT(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002154-20
-
 EudraCT Number:          2019-002621-30
 Sponsor Protocol Number: M19-063
 Sponsor Name:            AbbVie Deutschland GmbH & Co. KG
@@ -1135,6 +1123,18 @@ Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Ongoing) CZ(Ongoing) ES(Ongoing) IT(Ongoing) HU(Ongoing) GR(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-002621-30
+
+EudraCT Number:          2016-002154-20
+Sponsor Protocol Number: CLCZ696G2301
+Sponsor Name:            Novartis Pharma Services AG
+Full Title:              A multi-center, randomized, double-blind, active-controlled, parallel-group Phase 3 study to evaluate the efficacy and safety of LCZ696 compared to ramipril on morbidity and mortality in high risk ...
+Start Date:              2017-03-28
+Medical condition:       Left ventricular dysfunction following an acute myocardial infarction.
+Disease:                 Version: 20.0, SOC Term: 10007541 - Cardiac disorders, Classification Code: 10000891, Term: Acute myocardial infarction, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DE(Completed) PT(Completed) CZ(Completed) GB(GB - no longer in EU/EEA) GR(Completed) AT(Completed) SK(Completed) NL(Completed) ES(Completed) HU(Completed) BE(Completed) DK(Completed) SE(Completed) FI(Completed) BG(Completed) HR(Completed) IT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002154-20
 
 EudraCT Number:          2017-004703-51
 Sponsor Protocol Number: COMB157G2399

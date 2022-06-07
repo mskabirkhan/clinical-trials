@@ -4828,37 +4828,6 @@ Switzerland
 United Kingdom
 United States",649,1100,,,,Ro 723-4292/F02,RO7234292/F02,"RG6042, formerly ISIS 443139, IONIS-HTTRx",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PD Biomarker effects
 Immunogenicity",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,modified antisense oligonucleotide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2020-001370-30,CACZ885D2310,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-04-15,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001370-30/GB/,UK - MHRA,2020-001370-30,"Phase 3 multicenter, randomized, double-blind, placebo-controlled study to assess the efficacy and safety of canakinumab on cytokine release syndrome in patients with COVID-19-induced pneumonia (CAN-COVID).",Study of efficacy and safety of canakinumab treatment for CRS in participants with COVID-19-induced pneumonia.,,CACZ885D2310,,No,,Novartis Pharma AG,Switzerland,Commercial,,Novartis Pharma AG,Switzerland,,,,,,,,,1,Test,Yes,No,,Canakinumab,Solution for injection,No,Intravenous use,CANAKINUMAB,914613-48-2,SUB30137,mg milligram(s),equal,150,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Solution for infusion,Intravenous use,COVID-19-induced pneumonia (CAN-COVID),COVID-19-induced pneumonia (lung infection),"Diseases [C] - Respiratory Tract Diseases [C08]
-MedDRA Classification",,20.1,PT,10053983,Corona virus infection,10021881 - Infections and infestations,No,To demonstrate the benefit of canakinumab + SOC in increasing chance of survival without ever requiring invasive mechanical ventilation among patients with COVID-19-induced pneumonia and CRS.,"- To demonstrate the benefit of canakinumab in reducing 4-week case fatality rate (CFR) among patients with COVID-19-induced pneumonia and CRS regardless of other subsequent clinical interventions
-- To evaluate change in clinical serologic measurements related to CRS in COVID-19 patients with pneumonia
-- To evaluate safety of canakinumab in patients with COVID-19-induced pneumonia and CRS.",No,"1.	Male or female
-2.	Adults (≥ 18 years old)
-3.	Body weight ≥40 kg
-4.	Informed consent must be obtained prior to participation in this study.
-5.	Clinically diagnosed with SARS-CoV-2 virus by PCR or by other approved diagnostic methodology within 7 days prior to randomization
-6.	Hospitalized with COVID-19-induced pneumonia evidenced by chest x-ray or CT scan (taken within 5 days prior to randomization) with pulmonary infiltrates
-7.	SpO2 ≤ 93% on room air or arterial oxygen partial pressure (PaO2)/ fraction of inspired oxygen (FiO2) < 300mmHg (1mmHg=0.133kPa) (corrective formulation should be used for higher altitude regions (over 1000m))
-8.	C-reactive protein ≥20 mg/L or ferritin level ≥600 µg/L","1.	History of hypersensitivity to canakinumab or to biologic drugs
-2.	Intubated and on mechanical ventilation (invasive) at time of randomization 
-3.	Treatment with biologic immunomodulators or immunosuppressant drugs, including but not limited to anakinra, tocilizumab, TNF inhibitors and anti-IL-17 agents within 5 half-lives prior to randomization. Note: Immunomodulators (topical or inhaled) for asthma and atopic dermatitis and corticosteroids are not restricted. 
-4.	Suspected or known untreated active bacterial, fungal, viral, or parasitic infection with the exception of COVID-19
-5.	Neutropenia with ANC <1000/mm3
-6.	Any serious medical condition or abnormality of clinical laboratory tests that, in the investigator’s judgment, precludes the patient’s safe participation in and completion of the study
-7.	In the opinion of the investigator, progression to death is imminent and highly likely within the next 24 hours, irrespective of the provision of treatments
-8.	Current participation in any other investigational trials.","Clinical response, defined as survival without ever requiring invasive mechanical ventilation from Day 3 (inclusive) up to Day 29 (inclusive).",Day 29,"- COVID-19-related death during the 4-week period after study treatment
-- Adjusted geometric mean ratio to baseline overtime up to Day 29 in the following clinical chemistry measurements:
-    o	  CRP
-    o	  Serum ferritin
-    o	  D-dimer
-- Number of participants with Adverse Event (AE), serious adverse events (SAE), clinically significant changes in laboratory measures, and vital signs.",Duration of trial,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,,2,No,Yes,3,Yes,Yes,No,Yes,LPLV,,5,6,,5,6,No,,No,,No,,No,,No,,No,,No,,Yes,405,Yes,45,Yes,Yes,No,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,No,40,None,,Authorised,2020-04-23,Favourable,Reason(s) for unfavourable opinion:,2020-04-28,GB - no longer in EU/EEA,,Ilaris,Novartis Europharm Ltd,European Union,,,19,"France
-Germany
-Italy
-Spain
-United Kingdom
-United States",225,450,,,,ACZ885,CACZ885D2310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Given that a patient is not capable of giving consent, signed informed consent form will be given by his or her legal/authorized representative.",,,,,,,,,,,,,,,,"""Women of childbearing potential"" and
-did not include the words ""not using contraception"". An answer of yes could have included women of child bearing potential whether
-or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
-database on 2020-04-15) : Yes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2017-004958-42,MOM-M281-003,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2018-11-05,https://www.clinicaltrialsregister.eu/ctr-search/trial/2017-004958-42/GB/,UK - MHRA,2017-004958-42,"A Multicenter, Open-Label Study to Evaluate the Safety, Efficacy, Pharmacokinetics and Pharmacodynamics of M281 Administered to Pregnant Women at High Risk for Early Onset Severe Hemolytic Disease of the Fetus and Newborn (HDFN)",Open Label Study to Evaluate the Safety and Efficacy of M281 Given to Pregnant Women at High Risk for Early Severe Hemolytic Disease of the Fetus and Newborn (HDFN),,MOM-M281-003,,No,,"Momenta Pharmaceuticals, Inc.",United States,Commercial,,Momenta Pharmaceuticals Inc.,United States,Momenta Pharmaceuticals Inc.,Chelsea Toner,301 Binney Street,Cambridge,MA 02142,United States,,clinicaltrialinfo@momentapharma.com,1,Test,No,Yes,EU/3/19/2209,nipocalimab,Concentrate for solution for infusion,No,Intravenous use,nipocalimab,2211985-36-1,SUB182674,mg/ml milligram(s)/millilitre,equal,30,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,,,,Early onset Severe Hemolytic Disease of the fetus and newborn (HDFN),Pregnant women that are at risk of developing early onset of severe hemolytic disease that affects the fetus and neonate,"Diseases [C] - Congenital, Hereditary, and Neonatal Diseases and Abnormalities [C16]
 MedDRA Classification",,20.0,LLT,10019512,Hemolytic disease due to Rh isoimmunization of fetus or newborn,100000004850,No,"•	To evaluate the safety in mother and neonate/infant of nipocalimab administered to pregnant women at high risk for EOS-HDFN.
 •	To evaluate the efficacy of nipocalimab as measured by proportion of patients with live birth at or after gestational age (GA) 32 weeks and without an intrauterine transfusion (IUT) throughout their entire pregnancy.","•	To evaluate the efficacy of nipocalimab on antenatal management and outcome as measured by GA at first fetal IUT, frequency of fetal IUT, and frequency of live birth.
@@ -4942,6 +4911,37 @@ Spain
 Sweden
 United Kingdom
 United States",7,15,,,,,M281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Will assess immunogenicity of M281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-001370-30,CACZ885D2310,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2020-04-15,https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001370-30/GB/,UK - MHRA,2020-001370-30,"Phase 3 multicenter, randomized, double-blind, placebo-controlled study to assess the efficacy and safety of canakinumab on cytokine release syndrome in patients with COVID-19-induced pneumonia (CAN-COVID).",Study of efficacy and safety of canakinumab treatment for CRS in participants with COVID-19-induced pneumonia.,,CACZ885D2310,,No,,Novartis Pharma AG,Switzerland,Commercial,,Novartis Pharma AG,Switzerland,,,,,,,,,1,Test,Yes,No,,Canakinumab,Solution for injection,No,Intravenous use,CANAKINUMAB,914613-48-2,SUB30137,mg milligram(s),equal,150,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,1,Solution for infusion,Intravenous use,COVID-19-induced pneumonia (CAN-COVID),COVID-19-induced pneumonia (lung infection),"Diseases [C] - Respiratory Tract Diseases [C08]
+MedDRA Classification",,20.1,PT,10053983,Corona virus infection,10021881 - Infections and infestations,No,To demonstrate the benefit of canakinumab + SOC in increasing chance of survival without ever requiring invasive mechanical ventilation among patients with COVID-19-induced pneumonia and CRS.,"- To demonstrate the benefit of canakinumab in reducing 4-week case fatality rate (CFR) among patients with COVID-19-induced pneumonia and CRS regardless of other subsequent clinical interventions
+- To evaluate change in clinical serologic measurements related to CRS in COVID-19 patients with pneumonia
+- To evaluate safety of canakinumab in patients with COVID-19-induced pneumonia and CRS.",No,"1.	Male or female
+2.	Adults (≥ 18 years old)
+3.	Body weight ≥40 kg
+4.	Informed consent must be obtained prior to participation in this study.
+5.	Clinically diagnosed with SARS-CoV-2 virus by PCR or by other approved diagnostic methodology within 7 days prior to randomization
+6.	Hospitalized with COVID-19-induced pneumonia evidenced by chest x-ray or CT scan (taken within 5 days prior to randomization) with pulmonary infiltrates
+7.	SpO2 ≤ 93% on room air or arterial oxygen partial pressure (PaO2)/ fraction of inspired oxygen (FiO2) < 300mmHg (1mmHg=0.133kPa) (corrective formulation should be used for higher altitude regions (over 1000m))
+8.	C-reactive protein ≥20 mg/L or ferritin level ≥600 µg/L","1.	History of hypersensitivity to canakinumab or to biologic drugs
+2.	Intubated and on mechanical ventilation (invasive) at time of randomization 
+3.	Treatment with biologic immunomodulators or immunosuppressant drugs, including but not limited to anakinra, tocilizumab, TNF inhibitors and anti-IL-17 agents within 5 half-lives prior to randomization. Note: Immunomodulators (topical or inhaled) for asthma and atopic dermatitis and corticosteroids are not restricted. 
+4.	Suspected or known untreated active bacterial, fungal, viral, or parasitic infection with the exception of COVID-19
+5.	Neutropenia with ANC <1000/mm3
+6.	Any serious medical condition or abnormality of clinical laboratory tests that, in the investigator’s judgment, precludes the patient’s safe participation in and completion of the study
+7.	In the opinion of the investigator, progression to death is imminent and highly likely within the next 24 hours, irrespective of the provision of treatments
+8.	Current participation in any other investigational trials.","Clinical response, defined as survival without ever requiring invasive mechanical ventilation from Day 3 (inclusive) up to Day 29 (inclusive).",Day 29,"- COVID-19-related death during the 4-week period after study treatment
+- Adjusted geometric mean ratio to baseline overtime up to Day 29 in the following clinical chemistry measurements:
+    o	  CRP
+    o	  Serum ferritin
+    o	  D-dimer
+- Number of participants with Adverse Event (AE), serious adverse events (SAE), clinically significant changes in laboratory measures, and vital signs.",Duration of trial,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,,2,No,Yes,3,Yes,Yes,No,Yes,LPLV,,5,6,,5,6,No,,No,,No,,No,,No,,No,,No,,Yes,405,Yes,45,Yes,Yes,No,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,No,40,None,,Authorised,2020-04-23,Favourable,Reason(s) for unfavourable opinion:,2020-04-28,GB - no longer in EU/EEA,,Ilaris,Novartis Europharm Ltd,European Union,,,19,"France
+Germany
+Italy
+Spain
+United Kingdom
+United States",225,450,,,,ACZ885,CACZ885D2310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Given that a patient is not capable of giving consent, signed informed consent form will be given by his or her legal/authorized representative.",,,,,,,,,,,,,,,,"""Women of childbearing potential"" and
+did not include the words ""not using contraception"". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2020-04-15) : Yes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2015-002340-14,,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2018-07-04,https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-002340-14/GB/,UK - MHRA,2015-002340-14,"Randomized, Embedded, Multifactorial, Adaptive Platform trial for Community-Acquired Pneumonia (COVID-19)","REMAP-CAP: Randomised, Embedded, Multi-factorial Adaptive Platform Trial for community acquired pneumonia (COVID-19)",REMAP-CAP(COVID-19),,NCT02735707,No,,University Medical Centre Utrecht,Netherlands,Non-Commercial,,,,ICNARC,Farah Al-Beidh,"24 Napier House, High Holborn",London,WC1V 6AZ,United Kingdom,02033110211,farah.al-beidh@icnarc.org,1,Test,Yes,No,,ceftriaxone,Powder for infusion,No,Intravascular use (Noncurrent),ceftriaxone sodium,73384-59-5,AS5,g gram(s),equal,1,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,,,"Community acquired pneumonia, including COVID-19 disease","Community acquired pneumonia, including COVID-19 disease","Diseases [C] - Respiratory Tract Diseases [C08]
 MedDRA Classification",,20.1,LLT,10010120,Community acquired pneumonia,100000004862,No,"The primary objective of the REMAP is to identify the effect of a range of interventions to improve outcome of  adult patients with severe community acquired pneumonia, who are admitted to ICU. This is defined by all cause mortality  at 90 days from the date of enrolment into the trial.","The secondary objectives are to determine the effect of the interventions on:
 ICU Mortality
@@ -5310,6 +5310,77 @@ Taiwan
 United Kingdom
 United States",54,110,,,001609662 5010,ATB200,ATB200,,"US IND 127,387",2,Test,No,,,,Yes,EU/3/18/2129,AT2221,"Capsule, hard",No,Oral use,MIGLUSTAT,,SUB20049,mg milligram(s),equal,65,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,"- Effect of ATB200/AT2221 co-administration on biomarkers of muscle injury and disease substrate
 -  Immunogenecity of ATB200/AT2221 co-administration",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72599-27-0,,,,,AT2221,,AT2221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2015-004726-34,SHP620-302,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2017-07-03,https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-004726-34/GB/,UK - MHRA,2015-004726-34,"A Phase 3, multicenter, randomized, double-blind, double-dummy, active-controlled study to assess the efficacy and safety of maribavir compared to valganciclovir for the treatment of cytomegalovirus (CMV) infection in hematopoietic stem cell transplant recipients.",A study to determine how safe and effective maribavir versus valganciclovir is in treating cytomegalovirus in hematopoietic stem cell transplant patients,,SHP620-302,NCT02927067,No,,Shire ViroPharma Incorporated,United States,Commercial,,Shire ViroPharma Incorporated,United States,Shire ViroPharma Incorporated,Robert Bradley,300 Shire Way,Lexington MA,02 421,United States,,rbradley@shire.com,1,Test,No,Yes,EU/3/13/1133,Maribavir,Tablet,No,Oral use,MARIBAVIR,176161-24-3,SUB03090MIG,mg milligram(s),equal,200,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Tablet,Oral use,Cytomegalovirus Infection in Hematopoietic Stem Cell Transplant Recipients,Cytomegalovirus Infection in Hematopoietic Stem Cell Transplant patients,"Diseases [C] - Virus Diseases [C02]
+MedDRA Classification",,20.0,LLT,10021819,Infection in marrow transplant recipients,100000004862,No,"To compare the efficacy of maribavir to valganciclovir in CMV viremia clearance at the end of Study Week 8 in
+asymptomatic CMV infection in hematopoietic stem cell transplant (HSCT) recipients.","The key secondary objective of this study is to compare the efficacy of maribavir and valganciclovir on maintenance of CMV viremia clearance, achieved at the end of Study Week 8 through Study Week 16 (8 weeks of post-treatment/follow-up Phase).",No,"1.Be able to provide written, personally signed, and dated informed
+consent to participate in the study before completing any study-related
+procedures. As applicable, a parent/both parents or legally authorized
+representative (LAR) must provide signature of informed consent and
+there must be documentation of assent by the subject before completing
+any study-related procedures.
+2.Be ≥16 years of age at the time of consent.
+3.Be a recipient of hematopoietic stem cell transplant.
+4.Have a documentedasymptomatic CMV infection, with a screening
+value of CMV DNA ≥1365 IU/mL to ≤273000 IU/mL in whole blood or ≥ 455 IU/mL to ≤ 91000 IU/mL in plasma in 2 consecutive assessments, separated by at least 1 day, as determined by local or central specialty laboratory quantitative polymerase chain reaction (qPCR) or comparable quantitative CMV DNA results. Both samples should be taken within 14 days prior to randomization with second sample obtained within 5 days prior to randomization. Same laboratory and same sample type (whole blood or plasma) should be used for these assessments. Asymptomatic CMV infection is defined as an infection that does not present with tissue invasive CMV disease, as assessed by the investigator. Subjects with CMV DNA <910 and ≥455 IU/mL in plasma or <2730 and ≥1365 IU/mL in whole blood will also need to meet at least 1 of the following criteria for high-risk CMV infection to be eligible:
+- Human leukocyte antigen (HLA)-related (sibling) donor with at least 1 mismatch at 1 of the following 3 HLA-gene loci: HLA-A, -B or -DR,
+- Haploidentical donor,
+- Unrelated donor with at least 1 mismatch at 1 of the following 4 HLA -gene loci: HLA-A, -B, -C and -DRB1,
+- Use of umbilical cord blood as stem cell source,
+- Use of ex vivo T-cell-depleted grafts,
+- Grade 2 or greater GVHD, requiring the use of systemic corticosteroids
+(defined as the use of ≥1 mg/kg/day of prednisone or equivalent dose of another corticosteroid).
+5.Have the current CMV infection as the first episode of CMV viremia after HSCT, either primary or reactivation, which in the investigator's opinion requires treatment.
+6.Per investigator's judgment, be eligible for treatment with valganciclovir.
+7.Have all of the following results as part of screening laboratory assessments (results from either the central laboratory or a local laboratory can be used for qualification):
+a. Absolute neutrophil count ≥1000/mm3 [1.0 x 109/L]
+b. Platelet count ≥25,000/mm3 [25 x 109/L]
+c. Hemoglobin ≥8g/dL.
+d. Estimated creatinine clearance ≥30mL/min
+8.Have a negative serum beta human chorionic gonadotropin (β-HCG) pregnancy test at screening, if a
+female of child bearing potential. Urine pregnancy tests may be done per institutional requirements;
+however they are not sufficient for eligibility determination. Sexually active females of child bearing
+potential must agree to comply with any applicable contraceptive requirements of the protocol. If male, must agree to use an acceptable method of birth control, as defined in the protocol, during the study treatment administration period and for 90 days afterward the last dose of study treatment.
+9.Be able to swallow tablets.
+10.Have life expectancy of ≥ 8 weeks.
+11.Have weight ≥40 kg.
+12.Be willing and have an understanding and ability to fully comply with
+study procedures and restrictions defined in the protocol.","1. Have CMV tissue invasive disease as assessed by the investigator at the time of screening and randomization at Visit 2/Day 0.
+2. Have a CMV infection that is known to be genotypically resistant to ganciclovir, valganciclovir, foscarnet, or cidofovir based on documented evidence.
+3. Be presenting with recurrent CMV infection (defined as a new detection of CMV infection in a subject who had at least one previously documented episode of CMV infection post-transplant, and who has had at least 2 weeks of undetectable CMV DNA between the episodes (during active surveillance, based on same local laboratory and same sample type). The subject must also have been off any anti-CMV treatment between the current and prior infection. Otherwise, the current infection may be considered continuation of the prior infection.
+4. Require ganciclovir, valganciclovir, foscarnet, or cidofovir administration for conditions other than CMV when study treatment is initiated (example: herpes simplex virus [HSV] co-infection requiring use of any of these agents after the randomization) or would need a co-administration with maribavir for CMV infection.
+5. Be receiving leflunomide, letermovir, or artesunate when study treatment is initiated. NOTE: Subjects who may be receiving leflunomide must discontinue the use at least 14 days prior to randomization at Visit 2/Day 0 and the first dose of study treatment. Subjects receiving letermovir must discontinue use 3 days prior to first dose of study treatment. Subjects receiving artesunate must discontinue the use prior to the first dose of study treatment.
+6. Be on treatment with anti-CMV agents (ganciclovir, valganciclovir, foscarnet or cidofovir) for the current CMV infection for longer than 72 hours.
+7. Have known hypersensitivity to the active substance or to an excipient of the study treatments.
+8. Have severe vomiting, diarrhea, or other severe gastrointestinal illness within 24 hours prior to the first dose of study treatment that would preclude administration of oral medication.
+9. Require mechanical ventilation or vasopressors for hemodynamic support at the time of randomization.
+10. Be female and pregnant or nursing.
+11. Have previously completed, discontinued, or have been withdrawn from this study.
+12. Have received any investigational agent with known anti-CMV activity within 30 days before initiation of
+study treatment or CMV vaccine at any time.
+13. Have received any unapproved agent or device within 30 days before initiation of study treatment.
+14. Have any clinically significant medical or surgical condition that, in the investigator’s opinion, could interfere with interpretation of study results, contraindicate the administration of the assigned study treatment, or compromise the safety or well-being of the subject.
+15. Have previously received maribavir.
+16. Have serum aspartate aminotransferase (AST) >5 times upper limit of normal (ULN) at screening, or serum alanine aminotransferase (ALT) >5 times ULN at screening, or total bilirubin ≥3.0 x ULN at screening (except for documented Gilbert’s syndrome), as analyzed by local or central lab.
+17. Have known (previously documented) positive results for human immunodeficiency virus (HIV).Subjects must have a confirmed negative HIV test result within 3 months of study entry or, if unavailable, be tested by a local laboratory during the screening period.
+18. Have active malignancy with the exception of nonmelanoma skin cancer, as determined by the investigator. Subjects who experience relapse or progression of their underlying malignancy (for which HSCT was performed), as determined by the investigator, are not to be enrolled.
+19. Be undergoing treatment for acute or chronic hepatitis C.",Confirmed clearance of plasma CMV DNA (CMV viremia clearance),At the end of 8 weeks of treatment,Maintenance of CMV viremia clearance,After the end of 8 weeks of treatment through Study Week 16,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,,2,No,Yes,,Yes,Yes,No,Yes,LVLS,2,3,,4,5,24,Yes,110,No,,No,,No,,No,,No,,Yes,110,Yes,358,Yes,82,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,36,Standard-Of-Care,,Authorised,2017-07-07,Favourable,Reason(s) for unfavourable opinion:,2017-09-12,GB - no longer in EU/EEA,,,,,,,70,"Australia
+Belgium
+Canada
+Croatia
+Czech Republic
+France
+Germany
+Hungary
+Italy
+Korea, Republic of
+New Zealand
+Poland
+Singapore
+Spain
+Switzerland
+Turkey
+United Kingdom
+United States",285,550,,,,SHP620,,Serine/threonine kinase inhibitor,,2,Comparator,Yes,Valcyte,Roche Products Limited,United Kingdom,No,,Valcyte,Tablet,No,Oral use,VALGANCICLOVIR HYDROCHLORIDE,,SUB16471MIG,mg milligram(s),equal,450,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,175865-59-5,,2,Tablet,Oral use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2016-004676-22,M16-066,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2018-07-03,https://www.clinicaltrialsregister.eu/ctr-search/trial/2016-004676-22/GB/,UK - MHRA,2016-004676-22,"A Multicenter, Randomized, Double-Blind, Placebo Controlled 52-Week Maintenance and an Open-Label Extension Study of the Efficacy and Safety
 of Risankizumab in Subjects with Ulcerative Colitis",A Study to Assess the Efficacy and Safety of Risankizumab in Subjects with Ulcerative Colitis,,M16-066,,No,,AbbVie Deutschland GmbH & Co. KG,Germany,Commercial,,AbbVie Inc,United States,AbbVie Ltd,EU Clinical Trials Helpdesk,"AbbVie House, Vanwall Business Park, Vanwall",Maidenhead Berks,SL6 4UB,United Kingdom,+441628561090,eu-clinical-trials@abbvie.com,1,Test,No,No,,Risankizumab,Solution for infusion,No,Intravenous use,RISANKIZUMAB,,SUB182635,mg/ml milligram(s)/millilitre,equal,90,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1,Solution for infusion,Intravenous use,Ulcerative Colitis,Ulcerative Colitis,"Diseases [C] - Digestive System Diseases [C06]
 MedDRA Classification",,20.0,PT,10009900,Colitis ulcerative,10017947 - Gastrointestinal disorders,No,"Sub-study 1: Randomized, double-blind, placebo-controlled maintenance
@@ -5388,77 +5459,6 @@ Turkey
 Ukraine
 United Kingdom
 United States",446,942,"CRN North Thames, NIHR Clinical Research Network (CRN)",United Kingdom,+441628461153,ABBV-006,ABBV-066,,,2,Test,No,,,,No,,Risankizumab,Solution for injection in pre-filled syringe,No,Subcutaneous use,RISANKIZUMAB,,SUB182635,mg/ml milligram(s)/millilitre,equal,90,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Solution for injection in pre-filled syringe,Subcutaneous use,ABBV-066,,ABBV-066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Humanized IgG monoclonal antibody,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Humanized IgG monoclonal antibody,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2015-004726-34,SHP620-302,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2017-07-03,https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-004726-34/GB/,UK - MHRA,2015-004726-34,"A Phase 3, multicenter, randomized, double-blind, double-dummy, active-controlled study to assess the efficacy and safety of maribavir compared to valganciclovir for the treatment of cytomegalovirus (CMV) infection in hematopoietic stem cell transplant recipients.",A study to determine how safe and effective maribavir versus valganciclovir is in treating cytomegalovirus in hematopoietic stem cell transplant patients,,SHP620-302,NCT02927067,No,,Shire ViroPharma Incorporated,United States,Commercial,,Shire ViroPharma Incorporated,United States,Shire ViroPharma Incorporated,Robert Bradley,300 Shire Way,Lexington MA,02 421,United States,,rbradley@shire.com,1,Test,No,Yes,EU/3/13/1133,Maribavir,Tablet,No,Oral use,MARIBAVIR,176161-24-3,SUB03090MIG,mg milligram(s),equal,200,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,Tablet,Oral use,Cytomegalovirus Infection in Hematopoietic Stem Cell Transplant Recipients,Cytomegalovirus Infection in Hematopoietic Stem Cell Transplant patients,"Diseases [C] - Virus Diseases [C02]
-MedDRA Classification",,20.0,LLT,10021819,Infection in marrow transplant recipients,100000004862,No,"To compare the efficacy of maribavir to valganciclovir in CMV viremia clearance at the end of Study Week 8 in
-asymptomatic CMV infection in hematopoietic stem cell transplant (HSCT) recipients.","The key secondary objective of this study is to compare the efficacy of maribavir and valganciclovir on maintenance of CMV viremia clearance, achieved at the end of Study Week 8 through Study Week 16 (8 weeks of post-treatment/follow-up Phase).",No,"1.Be able to provide written, personally signed, and dated informed
-consent to participate in the study before completing any study-related
-procedures. As applicable, a parent/both parents or legally authorized
-representative (LAR) must provide signature of informed consent and
-there must be documentation of assent by the subject before completing
-any study-related procedures.
-2.Be ≥16 years of age at the time of consent.
-3.Be a recipient of hematopoietic stem cell transplant.
-4.Have a documentedasymptomatic CMV infection, with a screening
-value of CMV DNA ≥1365 IU/mL to ≤273000 IU/mL in whole blood or ≥ 455 IU/mL to ≤ 91000 IU/mL in plasma in 2 consecutive assessments, separated by at least 1 day, as determined by local or central specialty laboratory quantitative polymerase chain reaction (qPCR) or comparable quantitative CMV DNA results. Both samples should be taken within 14 days prior to randomization with second sample obtained within 5 days prior to randomization. Same laboratory and same sample type (whole blood or plasma) should be used for these assessments. Asymptomatic CMV infection is defined as an infection that does not present with tissue invasive CMV disease, as assessed by the investigator. Subjects with CMV DNA <910 and ≥455 IU/mL in plasma or <2730 and ≥1365 IU/mL in whole blood will also need to meet at least 1 of the following criteria for high-risk CMV infection to be eligible:
-- Human leukocyte antigen (HLA)-related (sibling) donor with at least 1 mismatch at 1 of the following 3 HLA-gene loci: HLA-A, -B or -DR,
-- Haploidentical donor,
-- Unrelated donor with at least 1 mismatch at 1 of the following 4 HLA -gene loci: HLA-A, -B, -C and -DRB1,
-- Use of umbilical cord blood as stem cell source,
-- Use of ex vivo T-cell-depleted grafts,
-- Grade 2 or greater GVHD, requiring the use of systemic corticosteroids
-(defined as the use of ≥1 mg/kg/day of prednisone or equivalent dose of another corticosteroid).
-5.Have the current CMV infection as the first episode of CMV viremia after HSCT, either primary or reactivation, which in the investigator's opinion requires treatment.
-6.Per investigator's judgment, be eligible for treatment with valganciclovir.
-7.Have all of the following results as part of screening laboratory assessments (results from either the central laboratory or a local laboratory can be used for qualification):
-a. Absolute neutrophil count ≥1000/mm3 [1.0 x 109/L]
-b. Platelet count ≥25,000/mm3 [25 x 109/L]
-c. Hemoglobin ≥8g/dL.
-d. Estimated creatinine clearance ≥30mL/min
-8.Have a negative serum beta human chorionic gonadotropin (β-HCG) pregnancy test at screening, if a
-female of child bearing potential. Urine pregnancy tests may be done per institutional requirements;
-however they are not sufficient for eligibility determination. Sexually active females of child bearing
-potential must agree to comply with any applicable contraceptive requirements of the protocol. If male, must agree to use an acceptable method of birth control, as defined in the protocol, during the study treatment administration period and for 90 days afterward the last dose of study treatment.
-9.Be able to swallow tablets.
-10.Have life expectancy of ≥ 8 weeks.
-11.Have weight ≥40 kg.
-12.Be willing and have an understanding and ability to fully comply with
-study procedures and restrictions defined in the protocol.","1. Have CMV tissue invasive disease as assessed by the investigator at the time of screening and randomization at Visit 2/Day 0.
-2. Have a CMV infection that is known to be genotypically resistant to ganciclovir, valganciclovir, foscarnet, or cidofovir based on documented evidence.
-3. Be presenting with recurrent CMV infection (defined as a new detection of CMV infection in a subject who had at least one previously documented episode of CMV infection post-transplant, and who has had at least 2 weeks of undetectable CMV DNA between the episodes (during active surveillance, based on same local laboratory and same sample type). The subject must also have been off any anti-CMV treatment between the current and prior infection. Otherwise, the current infection may be considered continuation of the prior infection.
-4. Require ganciclovir, valganciclovir, foscarnet, or cidofovir administration for conditions other than CMV when study treatment is initiated (example: herpes simplex virus [HSV] co-infection requiring use of any of these agents after the randomization) or would need a co-administration with maribavir for CMV infection.
-5. Be receiving leflunomide, letermovir, or artesunate when study treatment is initiated. NOTE: Subjects who may be receiving leflunomide must discontinue the use at least 14 days prior to randomization at Visit 2/Day 0 and the first dose of study treatment. Subjects receiving letermovir must discontinue use 3 days prior to first dose of study treatment. Subjects receiving artesunate must discontinue the use prior to the first dose of study treatment.
-6. Be on treatment with anti-CMV agents (ganciclovir, valganciclovir, foscarnet or cidofovir) for the current CMV infection for longer than 72 hours.
-7. Have known hypersensitivity to the active substance or to an excipient of the study treatments.
-8. Have severe vomiting, diarrhea, or other severe gastrointestinal illness within 24 hours prior to the first dose of study treatment that would preclude administration of oral medication.
-9. Require mechanical ventilation or vasopressors for hemodynamic support at the time of randomization.
-10. Be female and pregnant or nursing.
-11. Have previously completed, discontinued, or have been withdrawn from this study.
-12. Have received any investigational agent with known anti-CMV activity within 30 days before initiation of
-study treatment or CMV vaccine at any time.
-13. Have received any unapproved agent or device within 30 days before initiation of study treatment.
-14. Have any clinically significant medical or surgical condition that, in the investigator’s opinion, could interfere with interpretation of study results, contraindicate the administration of the assigned study treatment, or compromise the safety or well-being of the subject.
-15. Have previously received maribavir.
-16. Have serum aspartate aminotransferase (AST) >5 times upper limit of normal (ULN) at screening, or serum alanine aminotransferase (ALT) >5 times ULN at screening, or total bilirubin ≥3.0 x ULN at screening (except for documented Gilbert’s syndrome), as analyzed by local or central lab.
-17. Have known (previously documented) positive results for human immunodeficiency virus (HIV).Subjects must have a confirmed negative HIV test result within 3 months of study entry or, if unavailable, be tested by a local laboratory during the screening period.
-18. Have active malignancy with the exception of nonmelanoma skin cancer, as determined by the investigator. Subjects who experience relapse or progression of their underlying malignancy (for which HSCT was performed), as determined by the investigator, are not to be enrolled.
-19. Be undergoing treatment for acute or chronic hepatitis C.",Confirmed clearance of plasma CMV DNA (CMV viremia clearance),At the end of 8 weeks of treatment,Maintenance of CMV viremia clearance,After the end of 8 weeks of treatment through Study Week 16,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,,2,No,Yes,,Yes,Yes,No,Yes,LVLS,2,3,,4,5,24,Yes,110,No,,No,,No,,No,,No,,Yes,110,Yes,358,Yes,82,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,36,Standard-Of-Care,,Authorised,2017-07-07,Favourable,Reason(s) for unfavourable opinion:,2017-09-12,GB - no longer in EU/EEA,,,,,,,70,"Australia
-Belgium
-Canada
-Croatia
-Czech Republic
-France
-Germany
-Hungary
-Italy
-Korea, Republic of
-New Zealand
-Poland
-Singapore
-Spain
-Switzerland
-Turkey
-United Kingdom
-United States",285,550,,,,SHP620,,Serine/threonine kinase inhibitor,,2,Comparator,Yes,Valcyte,Roche Products Limited,United Kingdom,No,,Valcyte,Tablet,No,Oral use,VALGANCICLOVIR HYDROCHLORIDE,,SUB16471MIG,mg milligram(s),equal,450,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,175865-59-5,,2,Tablet,Oral use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2019-002621-30,M19-063,UK - MHRA,EEA CTA,GB - no longer in EU/EEA,2019-12-19,https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-002621-30/GB/,UK - MHRA,2019-002621-30,"A Randomized, Open Label Phase 3 Study Evaluating Safety and Efficacy of Venetoclax in combination with Azacitidine after allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemia (AML) (VIALE-T)",Open Label 2-Arm Study of Venetoclax in Combination with Azacitidine Versus Best Supportive Care after Allogeneic Stem Cell Transplantation in Subjects with Acute Myeloid Leukemia (AML),P3 Ven+Aza vs BSC in AML post allogneneic stem cell transplant,M19-063,,No,,AbbVie Deutschland GmbH & Co. KG,Germany,Commercial,,AbbVie Inc.,United States,AbbVie Ltd.,Global Clinical Trials Helpdesk,"Abbvie House, Vanwall Business Park","Maidenhead, Berkshire",SL6 4UB,United Kingdom,+441628561090,global-clinical-trials@abbvie.com,1,Test,No,Yes,EU/3/16/1767,Venetoclax,Film-coated tablet,No,Oral use,Venetoclax 10 mg,,,mg milligram(s),equal,10,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,,,Acute Myeloid Leukemia (AML),Hematologic Malignancies,"Diseases [C] - Cancer [C04]
 MedDRA Classification",,,,,,,No,"Part I: To determine the recommended Phase 3 dose of venetoclax in combination with azacitidine in AML patients when given as maintenance therapy following allogeneic stem cell transplantation.
 

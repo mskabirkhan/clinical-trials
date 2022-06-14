@@ -1035,7 +1035,7 @@ Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infe
 Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          NL(Ongoing) IE(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Ongoing) DE(Ongoing) HR(Ongoing) ES(Temporarily Halted) FR(Ongoing) FI(Ongoing) IT(Ongoing) SI(Ongoing) 
+Trial protocol:          NL(Ongoing) IE(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Ongoing) DE(Ongoing) HR(Ongoing) ES(Temporarily Halted) FR(Ongoing) FI(Ongoing) IT(Ongoing) SI(Ongoing) RO(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-002340-14
 
 EudraCT Number:          2018-000930-37

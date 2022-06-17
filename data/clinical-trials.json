@@ -39,20 +39,6 @@
     "Disease:": ""
   },
   {
-    "EudraCT Number:": "2020-001740-26",
-    "Sponsor Protocol Number:": "ATOMIC2",
-    "Sponsor Name:": "University of Oxford, Clinical Trials and Research Governance",
-    "Full Title:": "A multi-centre open-label two-arm randomised superiority clinical trial of Azithromycin versus usual care In Ambulatory COVID-19 (ATOMIC2)",
-    "Start Date:": "2020-05-05",
-    "Medical condition:": "COVID-19",
-    "Disease 1:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001740-26",
-    "Disease 2:": "Version: 20.0, SOC Term: 10022891 - Investigations, Classification Code: 10070255, Term: Coronavirus test positive, Level: PT"
-  },
-  {
     "EudraCT Number:": "2020-001777-71",
     "Sponsor Protocol Number:": "RAVEN",
     "Sponsor Name:": "Guy\u2019s and St Thomas' NHS Foundation Trust",
@@ -65,6 +51,20 @@
     "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001777-71",
     "Disease 2:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084382, Term: Coronavirus disease 2019, Level: LLT"
+  },
+  {
+    "EudraCT Number:": "2020-001740-26",
+    "Sponsor Protocol Number:": "ATOMIC2",
+    "Sponsor Name:": "University of Oxford, Clinical Trials and Research Governance",
+    "Full Title:": "A multi-centre open-label two-arm randomised superiority clinical trial of Azithromycin versus usual care In Ambulatory COVID-19 (ATOMIC2)",
+    "Start Date:": "2020-05-05",
+    "Medical condition:": "COVID-19",
+    "Disease 1:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001740-26",
+    "Disease 2:": "Version: 20.0, SOC Term: 10022891 - Investigations, Classification Code: 10070255, Term: Coronavirus test positive, Level: PT"
   },
   {
     "EudraCT Number:": "2020-002110-41",

@@ -707,7 +707,7 @@ Medical condition:       COVID-19 severe pneumonia, acute lung injury, or acute 
 Disease:                 Version: 20.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10061229, Term: Lung infection, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) FR(Prematurely Ended) DE(Prematurely Ended) ES(Temporarily Halted) IT(Ongoing) 
+Trial protocol:          GB(GB - no longer in EU/EEA) FR(Prematurely Ended) DE(Prematurely Ended) ES(Temporarily Halted) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001497-30
 
 EudraCT Number:          2020-003368-24

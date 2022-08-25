@@ -707,7 +707,7 @@ Medical condition:       COVID-19 severe pneumonia, acute lung injury, or acute 
 Disease:                 Version: 20.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10061229, Term: Lung infection, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) FR(Prematurely Ended) DE(Prematurely Ended) ES(Temporarily Halted) IT(Completed) 
+Trial protocol:          GB(GB - no longer in EU/EEA) FR(Prematurely Ended) DE(Prematurely Ended) ES(Temporarily Halted) IT(Prematurely Ended) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001497-30
 
 EudraCT Number:          2020-003368-24
@@ -851,7 +851,7 @@ Medical condition:       patients with SARS-COV-19 acute respiratory distress sy
 Disease:
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) IT(Ongoing) 
+Trial protocol:          GB(GB - no longer in EU/EEA) IT(Prematurely Ended) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002632-75
 
 EudraCT Number:          2020-001498-63
@@ -961,7 +961,7 @@ Medical condition:       COVID-19
 Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) BE(Completed) PT(Completed) FR(Completed) NL(Completed) IT(Ongoing) DE(Completed) RO(Completed) ES(Ongoing) 
+Trial protocol:          GB(GB - no longer in EU/EEA) BE(Completed) PT(Completed) FR(Completed) NL(Completed) IT(Completed) DE(Completed) RO(Completed) ES(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004743-83
 
 EudraCT Number:          2020-001673-75

@@ -1063,18 +1063,6 @@ Gender:                  Male, Female
 Trial protocol:          ES(Ongoing) SE(Completed) PL(Ongoing) CZ(Ongoing) BG(Ongoing) LV(Ongoing) HU(Ongoing) LT(Ongoing) PT(Ongoing) HR(Ongoing) GB(GB - no longer in EU/EEA) FI(Ongoing) GR(Ongoing) RO(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004719-10
 
-EudraCT Number:          2019-000954-67
-Sponsor Protocol Number: ATB200-07
-Sponsor Name:            Amicus Therapeutics, Inc.
-Full Title:              A Phase 3 Open-label Extension Study to Assess the Long-term Safety and Efficacy of Intravenous ATB200 Co-administered With Oral AT2221 in Adult Subjects With Late-onset Pompe Disease
-Start Date:              2020-04-08
-Medical condition:       Adult Subjects With Late Onset Pompe Disease (LOPD)
-Disease:                 Version: 20.0, SOC Term: 100000004850, Classification Code: 10075702, Term: Pompe's disease late onset, Level: LLT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) ES(Ongoing) DE(Ongoing) DK(Ongoing) FR(Ongoing) BE(Ongoing) GR(Ongoing) SI(Ongoing) AT(Ongoing) IT(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-000954-67
-
 EudraCT Number:          2017-001365-24
 Sponsor Protocol Number: WN39658
 Sponsor Name:            Roche Farma S.A.(Soc. Unipersonal) que realiza el ensayo en España y actúa como representante de F.Hoffmann-La Roche LTD
@@ -1087,6 +1075,18 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          ES(Ongoing) GB(GB - no longer in EU/EEA) DK(Ongoing) BE(Ongoing) PT(Ongoing) PL(Ongoing) NL(Ongoing) SE(Ongoing) FI(Ongoing) HR(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-001365-24
+
+EudraCT Number:          2019-000954-67
+Sponsor Protocol Number: ATB200-07
+Sponsor Name:            Amicus Therapeutics, Inc.
+Full Title:              A Phase 3 Open-label Extension Study to Assess the Long-term Safety and Efficacy of Intravenous ATB200 Co-administered With Oral AT2221 in Adult Subjects With Late-onset Pompe Disease
+Start Date:              2020-04-08
+Medical condition:       Adult Subjects With Late Onset Pompe Disease (LOPD)
+Disease:                 Version: 20.0, SOC Term: 100000004850, Classification Code: 10075702, Term: Pompe's disease late onset, Level: LLT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          GB(GB - no longer in EU/EEA) ES(Ongoing) DE(Ongoing) DK(Ongoing) FR(Ongoing) BE(Ongoing) GR(Ongoing) SI(Ongoing) AT(Ongoing) IT(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-000954-67
 
 EudraCT Number:          2015-004726-34
 Sponsor Protocol Number: SHP620-302

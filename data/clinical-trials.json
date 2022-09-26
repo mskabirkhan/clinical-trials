@@ -1109,6 +1109,19 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001370-30"
   },
   {
+    "EudraCT Number:": "2018-000930-37",
+    "Sponsor Protocol Number:": "M15-722",
+    "Sponsor Name:": "AbbVie Deutschland GmbH & Co. KG",
+    "Full Title:": "A Multicenter, Single-Arm, Open-Label Study to Investigate the Efficacy and Safety of Ravagalimab (ABBV-323) in Subjects with Moderate to Severe Ulcerative Colitis Who Failed Prior Therapy",
+    "Start Date:": "2018-12-21",
+    "Medical condition:": "Ulcerative Colitis",
+    "Disease 1:": "Version: 20.1, SOC Term: 100000004856, Classification Code: 10045365, Term: Ulcerative colitis, Level: LLT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "NL(Prematurely Ended) DE(Prematurely Ended) GB(GB - no longer in EU/EEA) FR(Prematurely Ended) ES(Completed) HU(Completed) IT(Prematurely Ended) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-000930-37"
+  },
+  {
     "EudraCT Number:": "2015-002340-14",
     "Sponsor Protocol Number:": "REMAP-CAP",
     "Sponsor Name:": "University Medical Center Utrecht ",
@@ -1122,19 +1135,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-002340-14",
     "Disease 2:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT",
     "COVID-19": ""
-  },
-  {
-    "EudraCT Number:": "2018-000930-37",
-    "Sponsor Protocol Number:": "M15-722",
-    "Sponsor Name:": "AbbVie Deutschland GmbH & Co. KG",
-    "Full Title:": "A Multicenter, Single-Arm, Open-Label Study to Investigate the Efficacy and Safety of Ravagalimab (ABBV-323) in Subjects with Moderate to Severe Ulcerative Colitis Who Failed Prior Therapy",
-    "Start Date:": "2018-12-21",
-    "Medical condition:": "Ulcerative Colitis",
-    "Disease 1:": "Version: 20.1, SOC Term: 100000004856, Classification Code: 10045365, Term: Ulcerative colitis, Level: LLT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "NL(Prematurely Ended) DE(Prematurely Ended) GB(GB - no longer in EU/EEA) FR(Prematurely Ended) ES(Completed) HU(Completed) IT(Prematurely Ended) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-000930-37"
   },
   {
     "EudraCT Number:": "2016-004719-10",

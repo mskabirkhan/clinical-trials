@@ -1075,19 +1075,6 @@ Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) ES(Ongoing) DE(Ongoing) DK(Ongoing) FR(Ongoing) BE(Ongoing) GR(Ongoing) SI(Ongoing) AT(Ongoing) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-000954-67
 
-EudraCT Number:          2016-004719-10
-Sponsor Protocol Number: AC-058B303
-Sponsor Name:            Actelion Pharmaceuticals Ltd.
-Full Title:              Multicenter, non-comparative extension to study AC-058B301, to investigate the long-term safety, tolerability, and control of disease of ponesimod 20 mg in subjects with relapsing multiple sclerosis
-Start Date:              2017-10-02
-Medical condition:       relapsing multiple sclerosis
-Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063400, Term: Secondary progressive multiple sclerosis, Level: PT
-Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063399, Term: Relapsing-remitting multiple sclerosis, Level: PT
-Population Age:          Adults
-Gender:                  Male, Female
-Trial protocol:          ES(Ongoing) SE(Completed) PL(Ongoing) CZ(Ongoing) BG(Ongoing) LV(Ongoing) HU(Ongoing) LT(Ongoing) PT(Ongoing) HR(Ongoing) GB(GB - no longer in EU/EEA) FI(Ongoing) GR(Ongoing) RO(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004719-10
-
 EudraCT Number:          2015-004726-34
 Sponsor Protocol Number: SHP620-302
 Sponsor Name:            Takeda Development Center Americas, Inc.
@@ -1111,6 +1098,19 @@ Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          BE(Ongoing) SK(Ongoing) AT(Ongoing) ES(Ongoing) SE(Ongoing) NL(Ongoing) DK(Ongoing) GR(Ongoing) PL(Ongoing) DE(Ongoing) LT(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Ongoing) BG(Ongoing) HR(Ongoing) FR(Not Authorised) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004676-22
+
+EudraCT Number:          2016-004719-10
+Sponsor Protocol Number: AC-058B303
+Sponsor Name:            Actelion Pharmaceuticals Ltd.
+Full Title:              Multicenter, non-comparative extension to study AC-058B301, to investigate the long-term safety, tolerability, and control of disease of ponesimod 20 mg in subjects with relapsing multiple sclerosis
+Start Date:              2017-10-02
+Medical condition:       relapsing multiple sclerosis
+Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063400, Term: Secondary progressive multiple sclerosis, Level: PT
+Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063399, Term: Relapsing-remitting multiple sclerosis, Level: PT
+Population Age:          Adults
+Gender:                  Male, Female
+Trial protocol:          ES(Ongoing) SE(Completed) PL(Ongoing) CZ(Ongoing) BG(Ongoing) LV(Ongoing) HU(Ongoing) LT(Ongoing) PT(Ongoing) HR(Ongoing) GB(GB - no longer in EU/EEA) FI(Ongoing) GR(Ongoing) RO(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004719-10
 
 EudraCT Number:          2019-002621-30
 Sponsor Protocol Number: M19-063
@@ -1172,7 +1172,7 @@ Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system diso
 Disease:                 Version: 20.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10039720, Term: Sclerosis multiple, Level: LLT
 Population Age:          Adults
 Gender:                  Male, Female
-Trial protocol:          NO(Ongoing) SE(Ongoing) AT(Ongoing) DK(Completed) DE(Ongoing) PT(Ongoing) BE(Ongoing) HU(Ongoing) PL(Ongoing) SK(Ongoing) ES(Ongoing) BG(Ongoing) SI(Ongoing) NL(Ongoing) GB(GB - no longer in EU/EEA) FR(Ongoing) HR(Ongoing) IT(Ongoing) 
+Trial protocol:          NO(Ongoing) SE(Ongoing) AT(Completed) DK(Completed) DE(Ongoing) PT(Ongoing) BE(Ongoing) HU(Ongoing) PL(Ongoing) SK(Ongoing) ES(Ongoing) BG(Ongoing) SI(Ongoing) NL(Ongoing) GB(GB - no longer in EU/EEA) FR(Ongoing) HR(Ongoing) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002937-31
 
 EudraCT Number:          2016-003191-50

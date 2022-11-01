@@ -952,19 +952,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001154-22"
   },
   {
-    "EudraCT Number:": "2018-002069-21",
-    "Sponsor Protocol Number:": "D5180C00013",
-    "Sponsor Name:": "AstraZeneca AB",
-    "Full Title:": "A Phase 2, Randomized, Double-blind, Parallel Group, Placebo Controlled Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with Inadequately Controlled Asthma on Inhaled C...",
-    "Start Date:": "2018-10-23",
-    "Medical condition:": "Severe Asthma",
-    "Disease 1:": "Version: 20.0, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10003553, Term: Asthma, Level: PT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "DK(Completed) GB(GB - no longer in EU/EEA) DE(Completed) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-002069-21"
-  },
-  {
     "EudraCT Number:": "2020-001411-25",
     "Sponsor Protocol Number:": "XPORT-COV-1001",
     "Sponsor Name:": "Karyopharm Therapeutics Inc.",
@@ -976,6 +963,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "DE(Completed) FR(Completed) AT(Completed) GB(GB - no longer in EU/EEA) ES(Temporarily Halted) IT(Prematurely Ended) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001411-25"
+  },
+  {
+    "EudraCT Number:": "2018-002069-21",
+    "Sponsor Protocol Number:": "D5180C00013",
+    "Sponsor Name:": "AstraZeneca AB",
+    "Full Title:": "A Phase 2, Randomized, Double-blind, Parallel Group, Placebo Controlled Study to Evaluate the Effect of Tezepelumab on Airway Inflammation in Adults with Inadequately Controlled Asthma on Inhaled C...",
+    "Start Date:": "2018-10-23",
+    "Medical condition:": "Severe Asthma",
+    "Disease 1:": "Version: 20.0, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10003553, Term: Asthma, Level: PT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "DK(Completed) GB(GB - no longer in EU/EEA) DE(Completed) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-002069-21"
   },
   {
     "EudraCT Number:": "2020-003278-37",

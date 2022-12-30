@@ -253,19 +253,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001209-22"
   },
   {
-    "EudraCT Number:": "2020-001640-26",
-    "Sponsor Protocol Number:": "132151",
-    "Sponsor Name:": "University College London",
-    "Full Title:": "A pilot, open label, phase II clinical trial of nebulised recombinant tissue-Plasminogen Activator (rtPA)in patients with COVID-19 ARDS: The Plasminogen Activator COVID-19 ARDS (PACA) trial  ",
-    "Start Date:": "2020-04-17",
-    "Medical condition:": "Acute respiratory distress syndrome (ARDS) caused by COVID-19 ",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001640-26",
-    "Disease:": ""
-  },
-  {
     "EudraCT Number:": "2020-001886-35",
     "Sponsor Protocol Number:": "RHMCRI0399",
     "Sponsor Name:": "University Hospital Southampton NHS Foundation Trust",
@@ -318,6 +305,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004994-27",
+    "Disease:": ""
+  },
+  {
+    "EudraCT Number:": "2020-001640-26",
+    "Sponsor Protocol Number:": "132151",
+    "Sponsor Name:": "University College London",
+    "Full Title:": "A pilot, open label, phase II clinical trial of nebulised recombinant tissue-Plasminogen Activator (rtPA)in patients with COVID-19 ARDS: The Plasminogen Activator COVID-19 ARDS (PACA) trial  ",
+    "Start Date:": "2020-04-17",
+    "Medical condition:": "Acute respiratory distress syndrome (ARDS) caused by COVID-19 ",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001640-26",
     "Disease:": ""
   },
   {

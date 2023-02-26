@@ -1090,7 +1090,7 @@ Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search
 EudraCT Number:          2016-004676-22
 Sponsor Protocol Number: M16-066
 Sponsor Name:            AbbVie Deutschland GmbH & Co. KG
-Full Title:              A Multicenter, Randomized, Double-Blind, Placebo Controlled 52-Week Maintenance and an Open-Label Extension Study of the Efficacy and Safety of Risankizumab in Subjects with Ulcerative Colitis Who ...
+Full Title:              A Multicenter, Randomized, Double-Blind, Placebo Controlled 52-Week Maintenance and an Open-Label Extension Study of the Efficacy and Safety of Risankizumab in Subjects with Ulcerative Colitis 
 Start Date:              2019-01-14
 Medical condition:       Ulcerative Colitis
 Disease:                 Version: 20.0, SOC Term: 10017947 - Gastrointestinal disorders, Classification Code: 10009900, Term: Colitis ulcerative, Level: PT

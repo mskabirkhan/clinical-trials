@@ -937,7 +937,7 @@ Medical condition:       Chronic Hepatitis B
 Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10008910, Term: Chronic hepatitis B, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) PL(Ongoing) IT(Ongoing) 
+Trial protocol:          GB(GB - no longer in EU/EEA) PL(Completed) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002979-35
 
 EudraCT Number:          2020-000841-15

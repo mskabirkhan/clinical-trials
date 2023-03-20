@@ -1164,19 +1164,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-000954-67"
   },
   {
-    "EudraCT Number:": "2015-004726-34",
-    "Sponsor Protocol Number:": "SHP620-302",
-    "Sponsor Name:": "Takeda Development Center Americas, Inc.",
-    "Full Title:": "A Phase 3, multicenter, randomized, double-blind, double-dummy, active-controlled study to assess the efficacy and safety of maribavir compared to valganciclovir for the treatment of cytomegaloviru...",
-    "Start Date:": "2017-09-01",
-    "Medical condition:": "Cytomegalovirus Infection in Hematopoietic Stem Cell Transplant Recipients",
-    "Disease 1:": "Version: 20.0, SOC Term: 100000004862, Classification Code: 10021819, Term: Infection in marrow transplant recipients, Level: LLT",
-    "Population Age:": "Adolescents, Under 18, Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "HU(Completed) DE(Completed) GB(GB - no longer in EU/EEA) ES(Completed) BE(Completed) CZ(Completed) PL(Completed) FR(Completed) HR(Completed) IT(Completed) GR(Completed) AT(Completed) Outside EU/EEA ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-004726-34"
-  },
-  {
     "EudraCT Number:": "2016-004676-22",
     "Sponsor Protocol Number:": "M16-066",
     "Sponsor Name:": "AbbVie Deutschland GmbH & Co. KG",
@@ -1188,6 +1175,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "BE(Ongoing) SK(Ongoing) AT(Ongoing) ES(Ongoing) SE(Ongoing) NL(Ongoing) DK(Completed) GR(Ongoing) PL(Ongoing) DE(Ongoing) LT(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Ongoing) BG(Ongoing) HR(Ongoing) FR(Not Authorised) IT(Ongoing) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004676-22"
+  },
+  {
+    "EudraCT Number:": "2015-004726-34",
+    "Sponsor Protocol Number:": "SHP620-302",
+    "Sponsor Name:": "Takeda Development Center Americas, Inc.",
+    "Full Title:": "A Phase 3, multicenter, randomized, double-blind, double-dummy, active-controlled study to assess the efficacy and safety of maribavir compared to valganciclovir for the treatment of cytomegaloviru...",
+    "Start Date:": "2017-09-01",
+    "Medical condition:": "Cytomegalovirus Infection in Hematopoietic Stem Cell Transplant Recipients",
+    "Disease 1:": "Version: 20.0, SOC Term: 100000004862, Classification Code: 10021819, Term: Infection in marrow transplant recipients, Level: LLT",
+    "Population Age:": "Adolescents, Under 18, Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "HU(Completed) DE(Completed) GB(GB - no longer in EU/EEA) ES(Completed) BE(Completed) CZ(Completed) PL(Completed) FR(Completed) HR(Completed) IT(Completed) GR(Completed) AT(Completed) Outside EU/EEA ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-004726-34"
   },
   {
     "EudraCT Number:": "2016-004719-10",

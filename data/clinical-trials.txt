@@ -1060,7 +1060,7 @@ Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system diso
 Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10074616, Term: Prodromal Alzheimer's disease, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          ES(Ongoing) GB(GB - no longer in EU/EEA) DK(Ongoing) BE(Completed) PT(Ongoing) PL(Prematurely Ended) NL(Prematurely Ended) SE(Completed) FI(Prematurely Ended) HR(Completed) 
+Trial protocol:          ES(Ongoing) GB(GB - no longer in EU/EEA) DK(Completed) BE(Completed) PT(Ongoing) PL(Prematurely Ended) NL(Prematurely Ended) SE(Completed) FI(Prematurely Ended) HR(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-001365-24
 
 EudraCT Number:          2019-000954-67

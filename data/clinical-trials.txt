@@ -830,18 +830,6 @@ Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) DE(Completed) ES(Completed) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001517-21
 
-EudraCT Number:          2020-002632-75
-Sponsor Protocol Number: CLI-050000-04
-Sponsor Name:            CHIESI FARMACEUTICI S.p.A
-Full Title:              Multicenter, open-label, randomised trial to assess the efficacy and tolerability of poractant alfa (porcine surfactant, Curosurf®) in hospitalized patients with SARS-COV-19 acute respiratory distr...
-Start Date:              2020-07-08
-Medical condition:       patients with SARS-COV-19 acute respiratory distress syndrome (ARDS)
-Disease:
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) IT(Prematurely Ended) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002632-75
-
 EudraCT Number:          2020-001807-18
 Sponsor Protocol Number: TD-0903-0188
 Sponsor Name:            Theravance Biopharma Ireland Limited 
@@ -853,6 +841,18 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) RO(Completed) FI(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001807-18
+
+EudraCT Number:          2020-002632-75
+Sponsor Protocol Number: CLI-050000-04
+Sponsor Name:            CHIESI FARMACEUTICI S.p.A
+Full Title:              Multicenter, open-label, randomised trial to assess the efficacy and tolerability of poractant alfa (porcine surfactant, Curosurf®) in hospitalized patients with SARS-COV-19 acute respiratory distr...
+Start Date:              2020-07-08
+Medical condition:       patients with SARS-COV-19 acute respiratory distress syndrome (ARDS)
+Disease:
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          GB(GB - no longer in EU/EEA) IT(Prematurely Ended) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002632-75
 
 EudraCT Number:          2020-001498-63
 Sponsor Protocol Number: BIO101-CL05

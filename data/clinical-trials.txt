@@ -1172,7 +1172,7 @@ Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system diso
 Disease:                 Version: 20.1, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10039720, Term: Sclerosis multiple, Level: LLT
 Population Age:          Adults
 Gender:                  Male, Female
-Trial protocol:          NO(Completed) SE(Ongoing) AT(Completed) DK(Completed) DE(Completed) PT(Ongoing) BE(Completed) HU(Completed) PL(Completed) SK(Ongoing) ES(Ongoing) BG(Ongoing) SI(Ongoing) NL(Ongoing) GB(GB - no longer in EU/EEA) FR(Ongoing) HR(Completed) IT(Ongoing) 
+Trial protocol:          NO(Completed) SE(Ongoing) AT(Completed) DK(Completed) DE(Completed) PT(Ongoing) BE(Completed) HU(Completed) PL(Completed) SK(Ongoing) ES(Ongoing) BG(Ongoing) SI(Ongoing) NL(Completed) GB(GB - no longer in EU/EEA) FR(Ongoing) HR(Completed) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002937-31
 
 EudraCT Number:          2016-003191-50

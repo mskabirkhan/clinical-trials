@@ -147,19 +147,6 @@
     "Disease 2:": "Version: 20.0, SOC Term: 10022891 - Investigations, Classification Code: 10070255, Term: Coronavirus test positive, Level: PT"
   },
   {
-    "EudraCT Number:": "2020-001937-11",
-    "Sponsor Protocol Number:": "132333",
-    "Sponsor Name:": "University College London",
-    "Full Title:": "A single-site, randomised, controlled, parallel design, open-label investigation of an approved nebulised recombinant human DNase enzyme (dornase alfa) to reduce hyperinflammation in hospitalised p...",
-    "Start Date:": "2020-04-30",
-    "Medical condition:": "Respiratory illness caused by Covid-19",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001937-11",
-    "Disease:": ""
-  },
-  {
     "EudraCT Number:": "2020-001904-41",
     "Sponsor Protocol Number:": "GETAFIX-2020",
     "Sponsor Name:": "NHS Greater Glasgow and Clyde",
@@ -199,6 +186,19 @@
     "Gender:": "Male, Female",
     "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002120-37"
+  },
+  {
+    "EudraCT Number:": "2020-001937-11",
+    "Sponsor Protocol Number:": "132333",
+    "Sponsor Name:": "University College London",
+    "Full Title:": "A single-site, randomised, controlled, parallel design, open-label investigation of an approved nebulised recombinant human DNase enzyme (dornase alfa) to reduce hyperinflammation in hospitalised p...",
+    "Start Date:": "2020-04-30",
+    "Medical condition:": "Respiratory illness caused by Covid-19",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001937-11",
+    "Disease:": ""
   },
   {
     "EudraCT Number:": "2020-001072-15",

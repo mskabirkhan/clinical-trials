@@ -988,6 +988,18 @@ Gender:                  Male, Female
 Trial protocol:          GB(GB - no longer in EU/EEA) NL(Completed) ES(Completed) BE(Completed) DE(Completed) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001759-42
 
+EudraCT Number:          2019-000667-24
+Sponsor Protocol Number: ST-920-201
+Sponsor Name:            Sangamo Therapeutics, Inc.
+Full Title:              A Phase I/II, Multicenter, Open-Label, SingleDose, Dose-Ranging Study to Assess the Safety and Tolerability of ST-920, a rAAV2/6 Human Alpha Galactosidase A Gene Therapy in Subjects with Fabry Dise...
+Start Date:              2019-11-12
+Medical condition:       Fabry Disease (X-linked lysosomal storage disease)
+Disease:                 Version: 20.0, SOC Term: 10010331 - Congenital, familial and genetic disorders, Classification Code: 10016016, Term: Fabry's disease, Level: PT
+Population Age:          Adults
+Gender:                  Male
+Trial protocol:          GB(GB - no longer in EU/EEA) DE(Ongoing) IT(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-000667-24
+
 EudraCT Number:          2018-003898-94
 Sponsor Protocol Number: BN40955
 Sponsor Name:            F.Hoffmann La-Roche Ltd

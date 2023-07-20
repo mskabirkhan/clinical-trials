@@ -916,18 +916,6 @@ Gender:                  Male, Female
 Trial protocol:          DK(Temporarily Halted) GB(GB - no longer in EU/EEA) SE(Prematurely Ended) PL(Ongoing) GR(Ongoing) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003278-37
 
-EudraCT Number:          2020-002979-35
-Sponsor Protocol Number: 209348
-Sponsor Name:            GlaxoSmithKline Research & Development Limited
-Full Title:              A Phase IIb Multi-Center, Randomised, Open Label Study to Assess the Efficacy and Safety of Sequential Treatment with GSK3228836 followed by Pegylated Interferon Alpha 2a in Participants with Chron...
-Start Date:              2020-12-22
-Medical condition:       Chronic Hepatitis B
-Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10008910, Term: Chronic hepatitis B, Level: PT
-Population Age:          Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) PL(Completed) IT(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002979-35
-
 EudraCT Number:          2020-000842-32
 Sponsor Protocol Number: GS-US-540-5774
 Sponsor Name:            Gilead Sciences, Inc.
@@ -939,6 +927,18 @@ Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          DE(Completed) ES(Completed) FR(Completed) IT(Completed) NL(Completed) GB(Completed) SE(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-000842-32
+
+EudraCT Number:          2020-002979-35
+Sponsor Protocol Number: 209348
+Sponsor Name:            GlaxoSmithKline Research & Development Limited
+Full Title:              A Phase IIb Multi-Center, Randomised, Open Label Study to Assess the Efficacy and Safety of Sequential Treatment with GSK3228836 followed by Pegylated Interferon Alpha 2a in Participants with Chron...
+Start Date:              2020-12-22
+Medical condition:       Chronic Hepatitis B
+Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10008910, Term: Chronic hepatitis B, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          GB(GB - no longer in EU/EEA) PL(Completed) IT(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002979-35
 
 EudraCT Number:          2020-000841-15
 Sponsor Protocol Number: GS-US-540-5773

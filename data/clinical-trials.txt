@@ -1121,7 +1121,7 @@ Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system diso
 Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063399, Term: Relapsing-remitting multiple sclerosis, Level: PT
 Population Age:          Adults
 Gender:                  Male, Female
-Trial protocol:          ES(Ongoing) SE(Completed) PL(Ongoing) CZ(Ongoing) BG(Ongoing) LV(Completed) HU(Ongoing) LT(Ongoing) PT(Ongoing) HR(Ongoing) GB(GB - no longer in EU/EEA) FI(Completed) GR(Ongoing) RO(Ongoing) 
+Trial protocol:          ES(Ongoing) SE(Completed) PL(Ongoing) CZ(Completed) BG(Ongoing) LV(Completed) HU(Ongoing) LT(Ongoing) PT(Ongoing) HR(Ongoing) GB(GB - no longer in EU/EEA) FI(Completed) GR(Ongoing) RO(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004719-10
 
 EudraCT Number:          2019-002621-30

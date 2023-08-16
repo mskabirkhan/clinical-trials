@@ -913,7 +913,7 @@ Disease:                 Version: 23.1, SOC Term: 10042613 - Surgical and medica
 Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          DK(Temporarily Halted) GB(GB - no longer in EU/EEA) SE(Prematurely Ended) PL(Ongoing) GR(Ongoing) IT(Prematurely Ended) 
+Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) SE(Prematurely Ended) PL(Ongoing) GR(Ongoing) IT(Prematurely Ended) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003278-37
 
 EudraCT Number:          2020-002979-35

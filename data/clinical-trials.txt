@@ -758,18 +758,6 @@ Gender:                  Male, Female
 Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) PT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003510-12
 
-EudraCT Number:          2020-001662-11
-Sponsor Protocol Number: CINC424J12301
-Sponsor Name:            Novartis Pharma AG
-Full Title:              Phase 3 randomized, double-blind, placebo-controlled, multi-center study to assess the efficacy and safety of ruxolitinib in patients with COVID-19 associated cytokine storm (RUXCOVID)
-Start Date:              2020-05-05
-Medical condition:       COVID-19 associated cytokine storm
-Disease:
-Population Age:          Adolescents, Under 18, Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Completed) IT(Completed) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001662-11
-
 EudraCT Number:          2020-003367-26
 Sponsor Protocol Number: MK4482-001
 Sponsor Name:            Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
@@ -781,6 +769,18 @@ Population Age:          Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          FR(Completed) GB(GB - no longer in EU/EEA) SE(Completed) PL(Completed) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003367-26
+
+EudraCT Number:          2020-001662-11
+Sponsor Protocol Number: CINC424J12301
+Sponsor Name:            Novartis Pharma AG
+Full Title:              Phase 3 randomized, double-blind, placebo-controlled, multi-center study to assess the efficacy and safety of ruxolitinib in patients with COVID-19 associated cytokine storm (RUXCOVID)
+Start Date:              2020-05-05
+Medical condition:       COVID-19 associated cytokine storm
+Disease:
+Population Age:          Adolescents, Under 18, Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          DE(Completed) GB(GB - no longer in EU/EEA) FR(Completed) ES(Completed) IT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001662-11
 
 EudraCT Number:          2020-004356-16
 Sponsor Protocol Number: D8850C00002

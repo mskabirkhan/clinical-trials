@@ -913,7 +913,7 @@ Disease:                 Version: 23.1, SOC Term: 10042613 - Surgical and medica
 Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) SE(Prematurely Ended) PL(Ongoing) GR(Ongoing) IT(Prematurely Ended) 
+Trial protocol:          DK(Completed) GB(GB - no longer in EU/EEA) SE(Prematurely Ended) PL(Completed) GR(Ongoing) IT(Prematurely Ended) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003278-37
 
 EudraCT Number:          2020-002979-35
@@ -1186,15 +1186,3 @@ Population Age:          Adults
 Gender:                  Male, Female
 Trial protocol:          NO(Completed) SE(Completed) AT(Completed) DK(Completed) DE(Completed) PT(Ongoing) BE(Completed) HU(Completed) PL(Completed) SK(Completed) ES(Ongoing) BG(Completed) SI(Completed) NL(Completed) GB(GB - no longer in EU/EEA) FR(Ongoing) HR(Completed) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002937-31
-
-EudraCT Number:          2016-003191-50
-Sponsor Protocol Number: M16-000
-Sponsor Name:            AbbVie Deutschland GmbH & Co. KG
-Full Title:              A Multicenter, Randomized, Double-Blind, Placebo Controlled 52-Week Maintenance and an Open-Label Extension Study of the Efficacy and Safety of Risankizumab in Subjects with Crohn's Disease
-Start Date:              2017-08-23
-Medical condition:       Crohn's disease
-Disease:                 Version: 20.0, SOC Term: 100000004856, Classification Code: 10013099, Term: Disease Crohns, Level: LLT
-Population Age:          Adolescents, Under 18, Adults, Elderly
-Gender:                  Male, Female
-Trial protocol:          SK(Ongoing) DK(Ongoing) DE(Ongoing) PT(Ongoing) CZ(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) IE(Ongoing) BG(Ongoing) AT(Ongoing) PL(Ongoing) NL(Ongoing) EE(Ongoing) SE(Ongoing) ES(Ongoing) GR(Ongoing) NO(Ongoing) LT(Ongoing) BE(Ongoing) HR(Ongoing) FR(Ongoing) IT(Ongoing) RO(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-003191-50

@@ -1009,7 +1009,7 @@ Medical condition:       Huntington's disease (HD)
 Disease:                 Version: 20.0, SOC Term: 10010331 - Congenital, familial and genetic disorders, Classification Code: 10070668, Term: Huntington's disease, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) ES(Temporarily Halted) NL(Completed) AT(Completed) IT(Completed) 
+Trial protocol:          GB(GB - no longer in EU/EEA) ES(Completed) NL(Completed) AT(Completed) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-003898-94
 
 EudraCT Number:          2017-004958-42

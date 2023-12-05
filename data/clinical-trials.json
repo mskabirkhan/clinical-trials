@@ -873,19 +873,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001052-18"
   },
   {
-    "EudraCT Number:": "2020-001270-29",
-    "Sponsor Protocol Number:": "EFC16858",
-    "Sponsor Name:": "sanofi-aventis recherche & d\u00e9veloppement",
-    "Full Title:": "An adaptive Phase 2/3, randomized, open-label study assessing efficacy and safety of hydroxychloroquine for hospitalized patients with moderate to severe COVID-19",
-    "Start Date:": "2020-04-08",
-    "Medical condition:": "Coronavirus infection",
-    "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "DK(Prematurely Ended) CZ(Prematurely Ended) DE(Prematurely Ended) GB(Prematurely Ended) FR(Prematurely Ended) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001270-29"
-  },
-  {
     "EudraCT Number:": "2020-002632-75",
     "Sponsor Protocol Number:": "CLI-050000-04",
     "Sponsor Name:": "CHIESI FARMACEUTICI S.p.A",
@@ -897,6 +884,19 @@
     "Trial protocol:": "GB(GB - no longer in EU/EEA) IT(Prematurely Ended) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002632-75",
     "Disease:": ""
+  },
+  {
+    "EudraCT Number:": "2020-001270-29",
+    "Sponsor Protocol Number:": "EFC16858",
+    "Sponsor Name:": "sanofi-aventis recherche & d\u00e9veloppement",
+    "Full Title:": "An adaptive Phase 2/3, randomized, open-label study assessing efficacy and safety of hydroxychloroquine for hospitalized patients with moderate to severe COVID-19",
+    "Start Date:": "2020-04-08",
+    "Medical condition:": "Coronavirus infection",
+    "Disease 1:": "Version: 23.0, SOC Term: 100000004862, Classification Code: 10053983, Term: Corona virus infection, Level: LLT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "DK(Prematurely Ended) CZ(Prematurely Ended) DE(Prematurely Ended) GB(Prematurely Ended) FR(Prematurely Ended) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001270-29"
   },
   {
     "EudraCT Number:": "2020-001517-21",

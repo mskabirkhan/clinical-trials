@@ -860,19 +860,6 @@
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004356-16"
   },
   {
-    "EudraCT Number:": "2020-001052-18",
-    "Sponsor Protocol Number:": "010",
-    "Sponsor Name:": "Regents of the University of Minnesota",
-    "Full Title:": "A Multicenter, Adaptive, Randomised Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of COVID-19 in Hospitalized Adults - Version for European U...",
-    "Start Date:": "2020-03-25",
-    "Medical condition:": "Influenza COVID-19",
-    "Disease 1:": "Version: 20.0, SOC Term: 100000004862, Classification Code: 10022005, Term: Influenza viral infections, Level: HLT",
-    "Population Age:": "Adults, Elderly",
-    "Gender:": "Male, Female",
-    "Trial protocol:": "DK(Completed) GB(Completed) DE(Completed) GR(Completed) ES(Completed) ",
-    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001052-18"
-  },
-  {
     "EudraCT Number:": "2020-002632-75",
     "Sponsor Protocol Number:": "CLI-050000-04",
     "Sponsor Name:": "CHIESI FARMACEUTICI S.p.A",
@@ -884,6 +871,19 @@
     "Trial protocol:": "GB(GB - no longer in EU/EEA) IT(Prematurely Ended) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-002632-75",
     "Disease:": ""
+  },
+  {
+    "EudraCT Number:": "2020-001052-18",
+    "Sponsor Protocol Number:": "010",
+    "Sponsor Name:": "Regents of the University of Minnesota",
+    "Full Title:": "A Multicenter, Adaptive, Randomised Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of COVID-19 in Hospitalized Adults - Version for European U...",
+    "Start Date:": "2020-03-25",
+    "Medical condition:": "Influenza COVID-19",
+    "Disease 1:": "Version: 20.0, SOC Term: 100000004862, Classification Code: 10022005, Term: Influenza viral infections, Level: HLT",
+    "Population Age:": "Adults, Elderly",
+    "Gender:": "Male, Female",
+    "Trial protocol:": "DK(Completed) GB(Completed) DE(Completed) GR(Completed) ES(Completed) ",
+    "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-001052-18"
   },
   {
     "EudraCT Number:": "2020-001270-29",

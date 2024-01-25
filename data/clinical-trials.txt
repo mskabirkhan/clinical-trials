@@ -791,7 +791,7 @@ Medical condition:       COVID-19
 Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10051905, Term: Coronavirus infection, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) BE(Ongoing) FR(Ongoing) 
+Trial protocol:          GB(GB - no longer in EU/EEA) BE(Ongoing) FR(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-004356-16
 
 EudraCT Number:          2020-002632-75

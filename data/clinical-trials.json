@@ -1159,7 +1159,7 @@
     "Disease 1:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10001897, Term: Alzheimer's disease (incl subtypes), Level: HLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "ES(Prematurely Ended) GB(GB - no longer in EU/EEA) DK(Completed) BE(Completed) PT(Ongoing) PL(Prematurely Ended) NL(Prematurely Ended) SE(Completed) FI(Prematurely Ended) HR(Completed) ",
+    "Trial protocol:": "ES(Prematurely Ended) GB(GB - no longer in EU/EEA) DK(Completed) BE(Completed) PT(Prematurely Ended) PL(Prematurely Ended) NL(Prematurely Ended) SE(Completed) FI(Prematurely Ended) HR(Completed) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-001365-24",
     "Disease 2:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10074616, Term: Prodromal Alzheimer's disease, Level: PT"
   },

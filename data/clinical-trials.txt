@@ -659,7 +659,7 @@ Medical condition:       Healthy Volunteers, with or without comorbidities (Prev
 Disease:                 Version: 23.1, SOC Term: 100000004865, Classification Code: 10084465, Term: COVID-19 vaccination, Level: LLT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Ongoing) ES(Temporarily Halted) BE(Completed) 
+Trial protocol:          GB(GB - no longer in EU/EEA) FR(Ongoing) DE(Completed) ES(Temporarily Halted) BE(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-003643-29
 
 EudraCT Number:          2020-002211-21

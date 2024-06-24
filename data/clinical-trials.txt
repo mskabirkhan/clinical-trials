@@ -1059,7 +1059,7 @@ Disease:                 Version: 20.1, SOC Term: 10021881 - Infections and infe
 Disease:                 Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT
 Population Age:          Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          NL(Ongoing) IE(Trial now transitioned) PT(Trial now transitioned) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Trial now transitioned) DE(Ongoing) HR(Ongoing) ES(Temporarily Halted) FR(Trial now transitioned) FI(Ongoing) IT(Ongoing) CZ(Trial now transitioned) SI(Ongoing) RO(Ongoing) 
+Trial protocol:          NL(Trial now transitioned) IE(Trial now transitioned) PT(Trial now transitioned) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Trial now transitioned) DE(Ongoing) HR(Ongoing) ES(Temporarily Halted) FR(Trial now transitioned) FI(Ongoing) IT(Ongoing) CZ(Trial now transitioned) SI(Ongoing) RO(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-002340-14
 
 EudraCT Number:          2017-001365-24
@@ -1096,7 +1096,7 @@ Medical condition:       Ulcerative Colitis
 Disease:                 Version: 20.0, SOC Term: 10017947 - Gastrointestinal disorders, Classification Code: 10009900, Term: Colitis ulcerative, Level: PT
 Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          BE(Trial now transitioned) SK(Trial now transitioned) AT(Ongoing) ES(Ongoing) SE(Ongoing) NL(Ongoing) DK(Completed) GR(Ongoing) PL(Ongoing) DE(Ongoing) LT(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Ongoing) BG(Ongoing) HR(Ongoing) FR(Not Authorised) IT(Ongoing) 
+Trial protocol:          BE(Trial now transitioned) SK(Trial now transitioned) AT(Ongoing) ES(Ongoing) SE(Trial now transitioned) NL(Ongoing) DK(Completed) GR(Ongoing) PL(Ongoing) DE(Ongoing) LT(Ongoing) PT(Ongoing) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Ongoing) BG(Ongoing) HR(Ongoing) FR(Not Authorised) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004676-22
 
 EudraCT Number:          2015-004726-34

@@ -1079,7 +1079,7 @@
     "Disease 1:": "Version: 20.0, SOC Term: 10010331 - Congenital, familial and genetic disorders, Classification Code: 10016016, Term: Fabry's disease, Level: PT",
     "Population Age:": "Adults",
     "Gender:": "Male",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) DE(Ongoing) IT(Ongoing) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) DE(Trial now transitioned) IT(Ongoing) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-000667-24"
   },
   {
@@ -1225,7 +1225,7 @@
     "Medical condition:": "Acute Myeloid Leukemia (AML)",
     "Population Age:": "Adolescents, Under 18, Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "GB(GB - no longer in EU/EEA) FR(Trial now transitioned) DE(Ongoing) CZ(Trial now transitioned) ES(Ongoing) IT(Ongoing) HU(Ongoing) GR(Trial now transitioned) ",
+    "Trial protocol:": "GB(GB - no longer in EU/EEA) FR(Trial now transitioned) DE(Trial now transitioned) CZ(Trial now transitioned) ES(Ongoing) IT(Ongoing) HU(Ongoing) GR(Trial now transitioned) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-002621-30",
     "Disease:": ""
   },

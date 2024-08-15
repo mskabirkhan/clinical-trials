@@ -1148,18 +1148,6 @@ Gender:                  Male, Female
 Trial protocol:          DE(Completed) PT(Completed) CZ(Completed) GB(GB - no longer in EU/EEA) GR(Completed) AT(Completed) SK(Completed) NL(Completed) ES(Completed) HU(Completed) BE(Completed) DK(Completed) SE(Completed) FI(Completed) BG(Completed) HR(Completed) IT(Completed) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-002154-20
 
-EudraCT Number:          2017-004703-51
-Sponsor Protocol Number: COMB157G2399
-Sponsor Name:            Novartis Pharma AG
-Full Title:              An open-label, single arm, multi-center extension study evaluating long-term safety, tolerability and effectiveness of ofatumumab in subjects with relapsing multiple sclerosis 
-Start Date:              2019-01-10
-Medical condition:       Multiple sclerosis
-Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10048393, Term: Multiple sclerosis relapse, Level: PT
-Population Age:          Adults
-Gender:                  Male, Female
-Trial protocol:          DE(Trial now transitioned) SK(Trial now transitioned) HU(Trial now transitioned) GB(GB - no longer in EU/EEA) NL(Ongoing) AT(Ongoing) FR(Trial now transitioned) PT(Trial now transitioned) ES(Ongoing) CZ(Ongoing) SE(Trial now transitioned) LT(Ongoing) DK(Trial now transitioned) FI(Ongoing) BE(Trial now transitioned) LV(Ongoing) GR(Ongoing) HR(Ongoing) 
-Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004703-51
-
 EudraCT Number:          2016-000674-38
 Sponsor Protocol Number: M14-533
 Sponsor Name:            AbbVie Deutschland GmbH & Co. KG
@@ -1171,6 +1159,18 @@ Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
 Trial protocol:          SK(Trial now transitioned) NL(Trial now transitioned) CZ(Trial now transitioned) AT(Trial now transitioned) FI(Trial now transitioned) PL(Ongoing) SE(Completed) GB(GB - no longer in EU/EEA) DE(Trial now transitioned) LV(Ongoing) GR(Trial now transitioned) EE(Ongoing) IE(Trial now transitioned) HU(Ongoing) PT(Trial now transitioned) LT(Trial now transitioned) BE(Ongoing) NO(Trial now transitioned) ES(Ongoing) HR(Ongoing) IT(Ongoing) RO(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-000674-38
+
+EudraCT Number:          2017-004703-51
+Sponsor Protocol Number: COMB157G2399
+Sponsor Name:            Novartis Pharma AG
+Full Title:              An open-label, single arm, multi-center extension study evaluating long-term safety, tolerability and effectiveness of ofatumumab in subjects with relapsing multiple sclerosis 
+Start Date:              2019-01-10
+Medical condition:       Multiple sclerosis
+Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10048393, Term: Multiple sclerosis relapse, Level: PT
+Population Age:          Adults
+Gender:                  Male, Female
+Trial protocol:          DE(Trial now transitioned) SK(Trial now transitioned) HU(Trial now transitioned) GB(GB - no longer in EU/EEA) NL(Ongoing) AT(Ongoing) FR(Trial now transitioned) PT(Trial now transitioned) ES(Ongoing) CZ(Ongoing) SE(Trial now transitioned) LT(Ongoing) DK(Trial now transitioned) FI(Ongoing) NO(Trial now transitioned) BE(Trial now transitioned) LV(Ongoing) GR(Ongoing) HR(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004703-51
 
 EudraCT Number:          2016-002937-31
 Sponsor Protocol Number: MA30143

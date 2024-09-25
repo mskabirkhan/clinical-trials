@@ -1096,7 +1096,7 @@ Medical condition:       Ulcerative Colitis
 Disease:                 Version: 20.0, SOC Term: 10017947 - Gastrointestinal disorders, Classification Code: 10009900, Term: Colitis ulcerative, Level: PT
 Population Age:          Adolescents, Under 18, Adults, Elderly
 Gender:                  Male, Female
-Trial protocol:          BE(Trial now transitioned) SK(Trial now transitioned) AT(Trial now transitioned) ES(Ongoing) SE(Trial now transitioned) NL(Ongoing) DK(Completed) GR(Trial now transitioned) PL(Trial now transitioned) DE(Trial now transitioned) LT(Ongoing) PT(Trial now transitioned) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Trial now transitioned) BG(Trial now transitioned) HR(Ongoing) FR(Trial now transitioned) IT(Ongoing) 
+Trial protocol:          BE(Trial now transitioned) SK(Trial now transitioned) AT(Trial now transitioned) ES(Ongoing) SE(Trial now transitioned) NL(Ongoing) DK(Completed) GR(Trial now transitioned) PL(Trial now transitioned) DE(Trial now transitioned) LT(Trial now transitioned) PT(Trial now transitioned) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Trial now transitioned) BG(Trial now transitioned) HR(Ongoing) FR(Trial now transitioned) IT(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004676-22
 
 EudraCT Number:          2015-004726-34
@@ -1169,7 +1169,7 @@ Medical condition:       Multiple sclerosis
 Disease:                 Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10048393, Term: Multiple sclerosis relapse, Level: PT
 Population Age:          Adults
 Gender:                  Male, Female
-Trial protocol:          DE(Trial now transitioned) SK(Trial now transitioned) HU(Trial now transitioned) GB(GB - no longer in EU/EEA) NL(Ongoing) AT(Trial now transitioned) FR(Trial now transitioned) PT(Trial now transitioned) ES(Ongoing) CZ(Trial now transitioned) SE(Trial now transitioned) LT(Ongoing) DK(Trial now transitioned) FI(Ongoing) NO(Trial now transitioned) BE(Trial now transitioned) LV(Ongoing) GR(Ongoing) HR(Ongoing) 
+Trial protocol:          DE(Trial now transitioned) SK(Trial now transitioned) HU(Trial now transitioned) GB(GB - no longer in EU/EEA) NL(Ongoing) AT(Trial now transitioned) FR(Trial now transitioned) PT(Trial now transitioned) ES(Ongoing) CZ(Trial now transitioned) SE(Trial now transitioned) LT(Trial now transitioned) DK(Trial now transitioned) FI(Ongoing) NO(Trial now transitioned) BE(Trial now transitioned) LV(Ongoing) GR(Ongoing) HR(Ongoing) 
 Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004703-51
 
 EudraCT Number:          2016-002937-31

@@ -1144,7 +1144,7 @@
     "Disease 1:": "Version: 20.1, SOC Term: 10021881 - Infections and infestations, Classification Code: 10010120, Term: Community acquired pneumonia, Level: LLT",
     "Population Age:": "Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "NL(Trial now transitioned) IE(Trial now transitioned) PT(Trial now transitioned) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Trial now transitioned) DE(Ongoing) HR(Ongoing) ES(Temporarily Halted) FR(Trial now transitioned) FI(Ongoing) IT(Trial now transitioned) CZ(Trial now transitioned) SI(Trial now transitioned) RO(Trial now transitioned) ",
+    "Trial protocol:": "NL(Trial now transitioned) IE(Trial now transitioned) PT(Trial now transitioned) GB(GB - no longer in EU/EEA) HU(Ongoing) BE(Trial now transitioned) DE(Ongoing) HR(Trial now transitioned) ES(Temporarily Halted) FR(Trial now transitioned) FI(Ongoing) IT(Trial now transitioned) CZ(Trial now transitioned) SI(Trial now transitioned) RO(Trial now transitioned) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-002340-14",
     "Disease 2:": "Version: 23.0, SOC Term: 10021881 - Infections and infestations, Classification Code: 10084268, Term: COVID-19, Level: PT",
     "COVID-19": ""
@@ -1186,7 +1186,7 @@
     "Disease 1:": "Version: 20.0, SOC Term: 10017947 - Gastrointestinal disorders, Classification Code: 10009900, Term: Colitis ulcerative, Level: PT",
     "Population Age:": "Adolescents, Under 18, Adults, Elderly",
     "Gender:": "Male, Female",
-    "Trial protocol:": "BE(Trial now transitioned) SK(Trial now transitioned) AT(Trial now transitioned) ES(Ongoing) SE(Trial now transitioned) NL(Ongoing) DK(Completed) GR(Trial now transitioned) PL(Trial now transitioned) DE(Trial now transitioned) LT(Trial now transitioned) PT(Trial now transitioned) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Trial now transitioned) BG(Trial now transitioned) HR(Ongoing) FR(Trial now transitioned) IT(Trial now transitioned) RO(Trial now transitioned) ",
+    "Trial protocol:": "BE(Trial now transitioned) SK(Trial now transitioned) AT(Trial now transitioned) ES(Ongoing) SE(Trial now transitioned) NL(Ongoing) DK(Completed) GR(Trial now transitioned) PL(Trial now transitioned) DE(Trial now transitioned) LT(Trial now transitioned) PT(Trial now transitioned) GB(GB - no longer in EU/EEA) LV(Ongoing) SI(Trial now transitioned) BG(Trial now transitioned) HR(Trial now transitioned) FR(Trial now transitioned) IT(Trial now transitioned) RO(Trial now transitioned) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004676-22"
   },
   {
@@ -1212,7 +1212,7 @@
     "Disease 1:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063400, Term: Secondary progressive multiple sclerosis, Level: PT",
     "Population Age:": "Adults",
     "Gender:": "Male, Female",
-    "Trial protocol:": "ES(Ongoing) SE(Completed) PL(Completed) CZ(Completed) BG(Completed) LV(Completed) HU(Completed) LT(Completed) PT(Completed) HR(Ongoing) GB(GB - no longer in EU/EEA) FI(Completed) GR(Completed) RO(Ongoing) ",
+    "Trial protocol:": "ES(Ongoing) SE(Completed) PL(Completed) CZ(Completed) BG(Completed) LV(Completed) HU(Completed) LT(Completed) PT(Completed) HR(Completed) GB(GB - no longer in EU/EEA) FI(Completed) GR(Completed) RO(Ongoing) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2016-004719-10",
     "Disease 2:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10063399, Term: Relapsing-remitting multiple sclerosis, Level: PT"
   },
@@ -1265,7 +1265,7 @@
     "Disease 1:": "Version: 20.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10048393, Term: Multiple sclerosis relapse, Level: PT",
     "Population Age:": "Adults",
     "Gender:": "Male, Female",
-    "Trial protocol:": "DE(Trial now transitioned) SK(Trial now transitioned) HU(Trial now transitioned) GB(GB - no longer in EU/EEA) NL(Ongoing) AT(Trial now transitioned) FR(Trial now transitioned) PT(Trial now transitioned) ES(Ongoing) CZ(Trial now transitioned) SE(Trial now transitioned) LT(Trial now transitioned) DK(Trial now transitioned) FI(Trial now transitioned) NO(Trial now transitioned) BE(Trial now transitioned) LV(Ongoing) GR(Trial now transitioned) HR(Ongoing) ",
+    "Trial protocol:": "DE(Trial now transitioned) SK(Trial now transitioned) HU(Trial now transitioned) GB(GB - no longer in EU/EEA) NL(Ongoing) AT(Trial now transitioned) FR(Trial now transitioned) PT(Trial now transitioned) ES(Ongoing) CZ(Trial now transitioned) SE(Trial now transitioned) LT(Trial now transitioned) DK(Trial now transitioned) FI(Trial now transitioned) NO(Trial now transitioned) BE(Trial now transitioned) LV(Ongoing) GR(Trial now transitioned) HR(Trial now transitioned) ",
     "Link:": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-004703-51"
   },
   {
